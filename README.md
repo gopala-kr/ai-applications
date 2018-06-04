@@ -3,6 +3,16 @@
 
 ---------------------
 
+## Aviation
+
+- [Aerospace & Defense](https://aitopics.org/class/Industry/Aerospace%20&%20Defense)
+- [How is AI Changing the Aviation Industry?](https://aibusiness.com/how-is-ai-changing-the-aviation-industry/)
+- [Artificial Intelligence Quickly Entering Aerospace Manufacturing](http://www.mro-network.com/emerging-technology/artificial-intelligence-quickly-entering-aerospace-manufacturing)
+- [What kind of applied AI is there in the aerospace engineering field?](https://www.quora.com/What-kind-of-applied-AI-is-there-in-the-aerospace-engineering-field)
+- [Artificial Intelligence in Aerospace](https://www.intechopen.com/books/aerospace-technologies-advancements/artificial-intelligence-in-aerospace)
+- []()
+
+
 ## Automotive
 
 || [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
