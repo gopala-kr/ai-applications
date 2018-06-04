@@ -10,8 +10,8 @@
 - [Artificial Intelligence Quickly Entering Aerospace Manufacturing](http://www.mro-network.com/emerging-technology/artificial-intelligence-quickly-entering-aerospace-manufacturing)
 - [What kind of applied AI is there in the aerospace engineering field?](https://www.quora.com/What-kind-of-applied-AI-is-there-in-the-aerospace-engineering-field)
 - [Artificial Intelligence in Aerospace](https://www.intechopen.com/books/aerospace-technologies-advancements/artificial-intelligence-in-aerospace)
-- []()
-
+- [Artificial Intelligence Taking Over Aerospace Manufacturing](https://sanvada.com/2018/04/05/artificial-intelligence-taking-aerospace-manufacturing/)
+- [Intelligent Systems For Aerospace Engineering--An Overview - NASA](https://ti.arc.nasa.gov/m/pub-archive/364h/0364%20(Krishna).pdf)
 
 ## Automotive
 
