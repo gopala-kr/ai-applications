@@ -3,12 +3,16 @@
 --------------
 
 
-|| [applications-of-artificial-intelligence](https://techspirited.com/applications-of-artificial-intelligence) |
+|| [self-driving-cars-medium](https://medium.com/self-driving-cars) | [applications-of-artificial-intelligence](https://techspirited.com/applications-of-artificial-intelligence) | [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) ||
 
 
 ---------------------
 
 ## Automotive
+
+![awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | []()
+
+------------
 
 > Media and blogs
 
