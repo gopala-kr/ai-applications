@@ -13,21 +13,15 @@
 > Media and blogs
 
 - [5 Ways Artificial Intelligence is Impacting the Automotive Industry](https://igniteoutsourcing.com/publications/artificial-intelligence-in-automotive-industry/)
+- [5 ways artificial intelligence is driving the automobile industry](http://bigdata-madesimple.com/5-ways-artificial-intelligence-is-driving-the-automobile-industry/)
+- [Artificial Intelligence for Automotive Applications](https://www.tractica.com/research/artificial-intelligence-for-automotive-applications/)
+- [How Artificial Intelligence is Transforming Automotive Industry Monetization Models](https://remoto.com/white-paper-artificial-intelligence/Artificial-Intelligence-transforms-the-automotive-industry.pdf)
+- [Artificial intelligence: automotive’s new value-creating engine](https://www.mckinsey.com/~/media/mckinsey/industries/automotive%20and%20assembly/our%20insights/artificial%20intelligence%20as%20auto%20companies%20new%20engine%20of%20value/artificial-intelligence-automotives-new-value-creating-engine.ashx)
 
 
 
 
 ## Finance & Banking
-
---> Economy
---> Financial services
---> Fraud
---> Insurence
---> Loans
---> Real Estate
---> Risk Managment
---> Trading
-
 
 > Top Media
 
