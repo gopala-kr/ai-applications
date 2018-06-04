@@ -8,9 +8,26 @@
 
 ---------------------
 
+## Automotive
+
+> Media and blogs
+
+- [5 Ways Artificial Intelligence is Impacting the Automotive Industry](https://igniteoutsourcing.com/publications/artificial-intelligence-in-automotive-industry/)
 
 
-## Finance
+
+
+## Finance & Banking
+
+--> Economy
+--> Financial services
+--> Fraud
+--> Insurence
+--> Loans
+--> Real Estate
+--> Risk Managment
+--> Trading
+
 
 > Top Media
 
