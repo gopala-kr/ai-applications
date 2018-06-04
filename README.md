@@ -12,7 +12,7 @@
 
 ## Finance
 
-> Media
+> Top Media
 
 - [How AI Will Transform Financial Management Applications - Gartner](https://www.gartner.com/smarterwithgartner/how-ai-will-transform-financial-management-applications/)
 - [Artificial Intelligence in Finance - sigmoidal](https://sigmoidal.io/real-applications-of-ai-in-finance/)
@@ -23,3 +23,9 @@
 - [How Artificial Intelligence Is Disrupting Finance](https://www.toptal.com/finance/market-research-analysts/artificial-intelligence-in-finance)
 - [Applying Artificial Intelligence and Machine Learning to Finance and Technology](https://towardsdatascience.com/applying-artificial-intelligence-and-machine-learning-to-finance-and-technology-378cbd5e5c85https://towardsdatascience.com/applying-artificial-intelligence-and-machine-learning-to-finance-and-technology-378cbd5e5c85)
 - [Artificial intelligence and machine learning in financial services - Market developments and financial stability implications](http://www.fsb.org/wp-content/uploads/P011117.pdf)
+- [the-impacts-and-challenges-of-artificial-intelligence-in-finance](https://internationalbanker.com/finance/the-impacts-and-challenges-of-artificial-intelligence-in-finance/)
+- [How is artificial intelligence used in finance? - Quora](https://www.quora.com/How-is-artificial-intelligence-used-in-finance)
+
+
+> Top papers
+
