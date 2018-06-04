@@ -1,16 +1,12 @@
 > List of all applications of AI technologies; Industrial + research
 
---------------
-
-
-|| [self-driving-cars-medium](https://medium.com/self-driving-cars) | [applications-of-artificial-intelligence](https://techspirited.com/applications-of-artificial-intelligence) | [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) ||
-
 
 ---------------------
 
 ## Automotive
 
-![awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | []()
+![awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) ||
+
 
 ------------
 
