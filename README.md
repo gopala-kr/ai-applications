@@ -20,7 +20,7 @@
 - [Building smarter cars with smarter factories: How AI will change the auto business](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/building-smarter-cars)
 - [AI is shaping auto manufacturing and self-driving cars - nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/automotive/)
 - [AI: A Game-Changer for the Automotive Industry?](https://www.automotive-iq.com/electrics-electronics/articles/ai-game-changer-automotive-industry)
-- []()
+- [Self-driving cars are here-Andrew Ng ](https://medium.com/@andrewng/self-driving-cars-are-here-aea1752b1ad0)
 
 
 
