@@ -25,6 +25,13 @@
 - [Artificial intelligence and machine learning in financial services - Market developments and financial stability implications](http://www.fsb.org/wp-content/uploads/P011117.pdf)
 - [the-impacts-and-challenges-of-artificial-intelligence-in-finance](https://internationalbanker.com/finance/the-impacts-and-challenges-of-artificial-intelligence-in-finance/)
 - [How is artificial intelligence used in finance? - Quora](https://www.quora.com/How-is-artificial-intelligence-used-in-finance)
+- [Kensho's AI For Investors Just Got Valued At Over $500 Million In Funding Round From Wall Street](https://www.forbes.com/sites/antoinegara/2017/02/28/kensho-sp-500-million-valuation-jpmorgan-morgan-stanley/#78225a2b5cbf)
+- [Beyond Robo-Advisers: How AI Could Rewire Wealth Management](https://www.americanbanker.com/news/beyond-robo-advisers-how-ai-could-rewire-wealth-management)
+- [Algorithmic Trading - Investopedia](https://www.investopedia.com/terms/a/algorithmictrading.asp)
+- [5 Best AI-Powered Chatbot Apps](https://yalantis.com/blog/five-best-ai-powered-chatbot-apps/)
+- [Is Artificial Intelligence the Way Forward for Personal Finance? | WIRED](https://www.wired.com/insights/2014/02/artificial-intelligence-way-forward-personal-finance/)
+- [ZestFinance Introduces Machine Learning Platform to Underwrite Millennials and Other Consumers with Limited Credit History](https://www.businesswire.com/news/home/20170214005357/en/ZestFinance-Introduces-Machine-Learning-Platform-Underwrite-Millennials)
+- [Machine Learning Is the Future of Underwriting, But Startups Won’t be Driving It](https://bankinnovation.net/2017/04/machine-learning-is-the-future-of-underwriting-but-startups-wont-be-driving-it/)
 
 
 > related papers
