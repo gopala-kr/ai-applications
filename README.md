@@ -17,7 +17,10 @@
 - [Artificial Intelligence for Automotive Applications](https://www.tractica.com/research/artificial-intelligence-for-automotive-applications/)
 - [How Artificial Intelligence is Transforming Automotive Industry Monetization Models](https://remoto.com/white-paper-artificial-intelligence/Artificial-Intelligence-transforms-the-automotive-industry.pdf)
 - [Artificial intelligence: automotive’s new value-creating engine](https://www.mckinsey.com/~/media/mckinsey/industries/automotive%20and%20assembly/our%20insights/artificial%20intelligence%20as%20auto%20companies%20new%20engine%20of%20value/artificial-intelligence-automotives-new-value-creating-engine.ashx)
-
+- [Building smarter cars with smarter factories: How AI will change the auto business](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/building-smarter-cars)
+- [AI is shaping auto manufacturing and self-driving cars - nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/automotive/)
+- [AI: A Game-Changer for the Automotive Industry?](https://www.automotive-iq.com/electrics-electronics/articles/ai-game-changer-automotive-industry)
+- []()
 
 
 
