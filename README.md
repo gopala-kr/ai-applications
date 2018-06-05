@@ -2,6 +2,8 @@
 
 
 ---------------------
+
+
 ## Games
 > media and blogs
 
@@ -172,7 +174,13 @@
 - [Artificial Intelligence in Retail – 10 Present and Future Use Cases](https://www.techemergence.com/artificial-intelligence-retail/)
 - [Machine Learning in Retail – Near-Term Applications and Implications](https://www.techemergence.com/machine-learning-retail-applications/)
 - [Artificial Intelligence Opportunities in Retail](https://www.bijoucommerce.com/wp-content/uploads/2017/06/AI-white-paper-21.06.pdf)
-
+- [AI in Fashion – Present and Future Applications](https://www.techemergence.com/ai-in-fashion-applications/)
+- [Evolution of Commerce: How AI is Disrupting the Fashion Industry](http://unbxd.com/blog/ai-fashion-industry/)
+- [How artificial intelligence is informing how fashion designers create](https://digiday.com/social/artificial-intelligence-informing-fashion-designers-create/)
+- [Artificial Intelligence is redefining Indian fashion industry](https://www.deccanchronicle.com/technology/in-other-news/230318/artificial-intelligence-redefining-indian-fashion-industry.html)
+- [Top 10 AI-Trends of Future Forward Fashion](https://www.imaginea.com/design/top-10-ai-trends-of-future-forward-fashion/)
+- [Five ways fashion brands are using AI for personalization](https://www.clickz.com/five-ways-fashion-brands-are-using-ai-for-personalization/112558/)
+- [7 ways AI innovations make life easier for fashion companies and ](http://www.intelligencenode.com/blog/fashion-artificial-intelligence-ux/)
 
 
 ## Cybersecurity
