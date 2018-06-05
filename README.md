@@ -159,7 +159,7 @@
 - [3 Ways AI Marketing Will Revolutionize Your Ad Campaigns](https://goodwaygroup.com/blog/ai-marketing-revolutionize-ad-campaigns/)
 - [How AI is Driving a New Era of TV Advertising](https://martechseries.com/mts-insights/guest-authors/how-ai-is-driving-a-new-era-of-tv-advertising/)
 
-## Retail
+## Retail & Fashion
 
 > media and blogs
 
@@ -205,7 +205,7 @@
 - [Artificial Intelligence Taking Over Aerospace Manufacturing](https://sanvada.com/2018/04/05/artificial-intelligence-taking-aerospace-manufacturing/)
 - [Intelligent Systems For Aerospace Engineering--An Overview - NASA](https://ti.arc.nasa.gov/m/pub-archive/364h/0364%20(Krishna).pdf)
 
-## Automotive
+## Automotive & Trasportation
 
 || [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
 
@@ -223,10 +223,17 @@
 - [self-driving-cars - nvidia](https://www.nvidia.com/en-us/self-driving-cars/)
 - [AI: A Game-Changer for the Automotive Industry?](https://www.automotive-iq.com/electrics-electronics/articles/ai-game-changer-automotive-industry)
 - [Self-driving cars are here-Andrew Ng ](https://medium.com/@andrewng/self-driving-cars-are-here-aea1752b1ad0)
+- [AI in Transportation – Current and Future Business-Use Applications](https://www.techemergence.com/ai-in-transportation-current-and-future-business-use-applications/)
+- [How Artificial Intelligence is transforming the transportation ecosystem](https://medium.com/innovation-machine/artificial-intelligence-transportation-ea39d652618f)
+- [Q&A: The future of AI and transportation](https://techcrunch.com/sponsored/the-future-of-ai-and-transportation/)
+- [How AI can help transportation:](https://prescouter.com/2017/12/ai-impact-transportation-industry/)
+- [The 25 Ways AI Can Revolutionize Transportation: From Driverless Trains to Smart Tracks](https://interestingengineering.com/the-25-ways-ai-can-revolutionize-transportation-from-driverless-trains-to-smart-tracks)
+- [The Future Of The Transport Industry - IoT, Big Data, AI And Autonomous Vehicles](https://www.forbes.com/sites/bernardmarr/2017/11/06/the-future-of-the-transport-industry-iot-big-data-ai-and-autonomous-vehicles/#683d640c1137)
+- [Artificial Intelligence (AI) in Transportation Market 2018 Global Industry By Applications, Types, Key Players, New Technologies, Growth Prediction By 2022](https://www.reuters.com/brandfeatures/venture-capital/article?id=28290)
 
 
 
-## Finance
+## Finance & Banking
 
 > Top Media
 
