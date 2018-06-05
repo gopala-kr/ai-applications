@@ -6,14 +6,15 @@
 
 > media and blogs
 
+- [Top 10 areas Artificial Intelligence is leading automation in Media Industry](http://www.mediaentertainmentinfo.com/2017/09/top-10-areas-artificial-intelligence-is-leading-automation-in-media-industry.html/)
 - [AI in the Media and Entertainment Industry](https://medium.com/syncedreview/ai-in-the-media-and-entertainment-industry-1ad4b2b701b8)
 - [Applying AI and Machine Learning to Media and Entertainment](https://towardsdatascience.com/applying-ai-and-machine-learning-to-media-and-entertainment-8d3ebc4b68f7)
 - [AI in Movies, Entertainment, and Visual Media – 5 Current Use-Cases](https://www.techemergence.com/ai-in-movies-entertainment-visual-media/)
 - [AI is helping media and entertainment do more with less](http://techwireasia.com/2018/01/arti%EF%AC%81cial-intelligence-helping-media-entertainment/)
-- []()
-- []()
-- []()
-- []()
+- [Media & Entertainment: Leveraging AI for Smarter Content & Content Supply Chain	](https://www.lntinfotech.com/blogs/media-entertainment-leveraging-ai-for-smarter-content-content-supply-chain/)
+- [The Most Exciting Artificial Intelligence Applications in Media (Guest Column)](https://variety.com/2017/digital/news/best-artificial-intelligence-applications-media-1202624021/)
+- [How will AI impact the entertainment industry? - Quora](https://www.quora.com/How-will-AI-impact-the-entertainment-industry)
+- [Machine Learning And AI In The Media Industry](http://www.digitalistmag.com/customer-experience/2017/12/18/machine-learning-ai-in-media-industry-05639773)
 
 
 
