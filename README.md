@@ -2,6 +2,27 @@
 
 
 ---------------------
+## HR and Recruitment
+> media and blogs
+
+- [5 ways to use artificial intelligence (AI) in human resources](http://bigdata-madesimple.com/5-ways-to-use-artificial-intelligence-ai-in-human-resources/)
+- [7 Ways Artificial Intelligence is Reinventing Human Resources](https://www.cmswire.com/digital-workplace/7-ways-artificial-intelligence-is-reinventing-human-resources/)
+- [How will AI in HR be a game-changer?](https://searchhrsoftware.techtarget.com/opinion/How-will-AI-in-HR-be-a-game-changer)
+- [Artificial Intelligence in HR: a No-brainer](https://www.pwc.at/de/publikationen/verschiedenes/artificial-intelligence-in-hr-a-no-brainer.pdf)
+- [3 Ways That A.I. Is Transforming HR and Recruiting](https://www.inc.com/avi-savar/3-ways-that-ai-is-transforming-hr-and-recruiting.html)
+- [The Future Of Work: How Artificial Intelligence Will Transform The Employee Experience](https://www.forbes.com/sites/jeannemeister/2017/11/09/the-future-of-work-how-artificial-intelligence-will-transform-the-employee-experience/#492c06fc23c9)
+- [7 Ways Chatbots and AI are Disrupting HR](https://chatbotsmagazine.com/7-ways-chatbots-and-ai-are-disrupting-hr-3989ad1c1fed)
+- [Staying Relevant In The Age Of AI](https://zinnov.com/artificial-intelligence-in-hr-how-hr-professionals-can-stay-relevant/)
+- [Decoding AI for HR](http://hrexecutive.com/decoding-ai-hr/)
+- [AI Is Changing the Way HR Works](https://www.shrm.org/hr-today/news/hr-magazine/0218/pages/ai-is-changing-the-way-hr-works.aspx)
+- [Ten ways HR tech leaders can make the most of artificial intelligence](https://www.personneltoday.com/hr/ten-ways-hr-tech-leaders-can-make-artificial-intelligence/)
+- [AI For Recruiting: A Definitive Guide For HR Professionals](https://ideal.com/ai-recruiting/)
+- [IBM-Three Immediate Steps to Prepare for AI in HR](https://www.ibm.com/blogs/watson-talent/2018/02/three-immediate-steps-to-prepare-for-ai-in-hr/)
+- [How AI and machine learning will impact HR practices](https://www.vccircle.com/how-ai-and-machine-learning-will-impact-hr-practices/)
+- [Two Facebook and Google geniuses are combining search and AI to transform HR](https://techcrunch.com/2018/04/17/two-facebook-and-google-geniuses-are-combining-search-and-ai-to-transform-hr/)
+- [HR, meet AI – making work more human, according to Oracle](https://diginomica.com/2018/03/28/making-work-human-robots-oracle-way/)
+
+
 ## Agriculture
 
 > media and blogs
