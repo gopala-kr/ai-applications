@@ -5,15 +5,25 @@
 
 ## Retail
 
+> media and blogs
+
 - [retail-nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/retail/)
 - [Why Artificial Intelligence Is Right for Retail](https://www.salesforce.com/blog/2017/12/artificial-intelligence-for-retail.html)
 - [The Future of Retail is All About Artificial Intelligence](https://ai.intel.com/future-retail-artificial-intelligence/)
 - [50 Best AI Retail Applications](https://www.insider-trends.com/50-best-ai-retail-applications/)
-- []()
-- []()
+- [Deep Dive: Artificial Intelligence in Retail—Offering Data-Driven Personalization and Customer Service](https://www.fungglobalretailtech.com/research/deep-dive-artificial-intelligence-retail-offering-data-driven-personalization-customer-service/)
+- [artificial-intelligence-ai-retail-market](https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-ai-retail-market-36255973.html)
+- [Artificial Intelligence in Drugstore Retail](https://www.fungglobalretailtech.com/research/artificial-intelligence-drugstore-retail/)
+- [The retail renaissance: Leading brands use data and AI to win](https://www.zdnet.com/article/the-retail-renaissance-how-leading-brands-use-data-to-win/)
+- [Artificial Intelligence in Retail – 10 Present and Future Use Cases](https://www.techemergence.com/artificial-intelligence-retail/)
+- [Machine Learning in Retail – Near-Term Applications and Implications](https://www.techemergence.com/machine-learning-retail-applications/)
+- [Artificial Intelligence Opportunities in Retail](https://www.bijoucommerce.com/wp-content/uploads/2017/06/AI-white-paper-21.06.pdf)
+
 
 
 ## Cybersecurity
+
+> media and blogs
 
 - [Artificial intelligence and cybersecurity: The real deal](https://www.csoonline.com/article/3250850/security/artificial-intelligence-and-cybersecurity-the-real-deal.html)
 - [AI and Machine Learning in Cyber Security](https://towardsdatascience.com/ai-and-machine-learning-in-cyber-security-d6fbee480af0)
@@ -22,6 +32,8 @@
 
 
 ## Aviation
+
+> media and blogs
 
 - [Aerospace & Defense](https://aitopics.org/class/Industry/Aerospace%20&%20Defense)
 - [How is AI Changing the Aviation Industry?](https://aibusiness.com/how-is-ai-changing-the-aviation-industry/)
@@ -38,7 +50,7 @@
 
 ------------
 
-> Media and blogs
+> media and blogs
 
 - [5 Ways Artificial Intelligence is Impacting the Automotive Industry](https://igniteoutsourcing.com/publications/artificial-intelligence-in-automotive-industry/)
 - [5 ways artificial intelligence is driving the automobile industry](http://bigdata-madesimple.com/5-ways-artificial-intelligence-is-driving-the-automobile-industry/)
