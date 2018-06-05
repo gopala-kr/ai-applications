@@ -2,6 +2,23 @@
 
 
 ---------------------
+## Games
+> media and blogs
+
+- [Why-are-there-no-Game-AI-companies](https://www.quora.com/Why-are-there-no-Game-AI-companies)
+- [The Future of AI in the Gaming Industry](https://helloacm.com/the-future-of-ai-in-the-gaming-industry/)
+- [The Evolution of AI In Gaming](https://channels.theinnovationenterprise.com/articles/the-evolution-of-ai-in-gaming-teoaig)
+- [How Gaming Could Win Us More Adaptable Artificial Intelligence – A Conversation with Dr. Julian Togelius](https://www.techemergence.com/how-gaming-could-win-us-more-adaptable-artificial-intelligence-a-conversation-with-dr-julian-togelius/)
+- [Artificial Intelligence and Games](http://gameaibook.org/book.pdf)
+- [Game AI: The State of the Industry](https://www.gamasutra.com/view/feature/131705/game_ai_the_state_of_the_industry.php)
+- [The Future Of Gaming Industry – Blending VR, AR & MR To Games, Powered By AI](https://www.igadgetsworld.com/future-gaming-industry-ai/)
+- [Gaming and artificial intelligence (AI)](https://www.clickatell.com/articles/technology/gaming-artificial-intelligence-ai/)
+- [How video game AI is changing the world](https://www.networkworld.com/article/3160106/artificial-intelligence/how-video-game-ai-is-changing-the-world.html)
+- [A.I. teams up with Game Developers](https://medium.com/@shubham_2017/ai-ml-and-its-future-in-gaming-a2eeeb5561e1)
+- []()
+- []()
+
+
 ## Telecommunications
 > media and blogs
 
