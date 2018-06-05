@@ -2,7 +2,20 @@
 
 
 ---------------------
+## Legal
+> media and blogs
 
+- [How will artificial intelligence affect the legal profession in the next decade?](https://law.queensu.ca/how-will-artificial-intelligence-affect-legal-profession-next-decade)
+- [Lawyer-Bots Are Shaking Up Jobs](https://www.technologyreview.com/s/609556/lawyer-bots-are-shaking-up-jobs/)
+- [The Verdict Is In: AI Outperforms Human Lawyers in Reviewing Legal Documents](https://futurism.com/ai-contracts-lawyers-lawgeex/)
+- [AI in Law and Legal Practice – A Comprehensive View of 35 Current Applications](https://www.techemergence.com/ai-in-law-legal-practice-current-applications/)
+- [How AI Is Disrupting The Law](http://www.digitalistmag.com/digital-economy/2018/04/03/ai-is-disrupting-law-06030693)
+- [Ask Dr Paola: how AI is changing the legal industry](https://blogs.thomsonreuters.com/legal-uk/2018/02/07/ask-dr-paola-ai-changing-legal-industry/)
+- [AI in Law: Definition, Current Limitations and Future Potential](https://legal-tech-blog.de/ai-in-law-definition-current-limitations-and-future-potential)
+- [A Primer on Using Artificial Intelligence in the Legal Profession](https://jolt.law.harvard.edu/digest/a-primer-on-using-artificial-intelligence-in-the-legal-profession)
+- [What Do You Know About AI & Legal Research?](https://abovethelaw.com/2018/06/what-do-you-know-about-ai-legal-research/)
+- [I Proves to Be the Best Legal Mind for Contract Reviews](https://www.top500.org/news/ai-proves-to-be-the-best-legal-mind-for-contract-reviews/)
+- [The Future Of Law: How AI Is Revolutionizing the Legal Industry](https://www.litify.com/future-law-ai-revolutionizing-legal-industry/)
 
 ## Games
 > media and blogs
