@@ -2,6 +2,26 @@
 
 
 ---------------------
+## Manufacturing
+> media and blogs
+
+- [3 Advances Changing the Future of Artificial Intelligence in Manufacturing](https://www.autodesk.com/redshift/future-of-artificial-intelligence/)
+- [Machine Learning in Manufacturing – Present and Future Use-Cases](https://www.techemergence.com/machine-learning-in-manufacturing/)
+- [10 Ways Machine Learning Is Revolutionizing Manufacturing In 2018](https://www.forbes.com/sites/louiscolumbus/2018/03/11/10-ways-machine-learning-is-revolutionizing-manufacturing-in-2018/#65f7d95b23ac)
+- [AI: Bringing smarter automation to the factory floor](https://www.infosys.com/human-amplification/Documents/manufacturing-ai-perspective.pdf)
+- [Artificial Intelligence: Optimizing Industrial Operations](https://www.siemens.com/innovation/en/home/pictures-of-the-future/industry-and-automation/the-future-of-manufacturing-ai-in-industry.html)
+- [
+Artificial intelligence has sparked a new industrial revolution. Manufacturers are looking to their machines for powerful new insights.](https://www.intel.in/content/www/in/en/manufacturing/article/factories-improve-uptime.html)
+- [Future Factories: How AI enables smart manufacturing](https://medium.com/topbots/future-factories-how-ai-enables-smart-manufacturing-c1405f4ec0e6)
+- [Adopt or Die: AI Leaves Manufacturing No Choice](http://www.industryweek.com/technology-and-iiot/adopt-or-die-ai-leaves-manufacturing-no-choice)
+- [What's the Word on AI in Manufacturing?](https://www.eetimes.com/document.asp?doc_id=1332976)
+- [AI and Its Applications in Manufacturing](https://pdfs.semanticscholar.org/presentation/e4d2/91bb18d1f66b743e3fa1043f2546e2fca22f.pdf)
+- [AI in manufacturing: 5 questions answered](https://lab.getapp.com/artificial-intelligence-in-manufacturing-5-questions-answered/)
+- [ai-real-time-manufacturing-management](https://www.processingmagazine.com/ai-real-time-manufacturing-management/)
+- []()
+
+
+
 ## Legal
 > media and blogs
 
