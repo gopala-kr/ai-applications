@@ -2,6 +2,19 @@
 
 
 ---------------------
+## Agriculture
+
+> media and blogs
+
+- [AI in Agriculture – Present Applications and Impact](https://www.techemergence.com/ai-agriculture-present-applications-impact/)
+- [Microsoft- Digital Agriculture: Farmers in India are using AI to increase crop yields](https://news.microsoft.com/en-in/features/ai-agriculture-icrisat-upl-india/)
+- [The 6 Most Amazing AI Advances in Agriculture](https://www.techopedia.com/the-6-most-amazing-ai-advances-in-agriculture/2/33177)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Education
 
 > media and blogs
