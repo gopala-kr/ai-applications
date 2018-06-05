@@ -4,6 +4,7 @@
 ---------------------
 ## Music
 
+- [Google's 'Magenta' project will see if AIs can truly make art](https://www.engadget.com/2016/05/23/google-magenta-machine-learning-music-art/)
 - [How To Think About Artificial Intelligence In The Music Industry](https://www.forbes.com/sites/kristinwestcottgrant/2017/12/10/how-to-think-about-artificial-intelligence-in-the-music-industry/#aac530e7d4a6)
 - [Artificial Intelligence is About to Disrupt the Music Industry — Your Industry is Next. Are you Ready?](https://medium.com/@jrgeoffrion/artificial-intelligence-is-about-to-disrupt-the-music-industry-your-industry-is-next-4a0f677888c1)
 - [AI-driven data could be the music industry’s best marketing instrument](https://venturebeat.com/2018/03/26/ai-driven-data-could-be-the-music-industrys-best-marketing-instrument/)
