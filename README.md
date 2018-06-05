@@ -255,6 +255,9 @@
 - [Is Artificial Intelligence the Way Forward for Personal Finance? | WIRED](https://www.wired.com/insights/2014/02/artificial-intelligence-way-forward-personal-finance/)
 - [ZestFinance Introduces Machine Learning Platform to Underwrite Millennials and Other Consumers with Limited Credit History](https://www.businesswire.com/news/home/20170214005357/en/ZestFinance-Introduces-Machine-Learning-Platform-Underwrite-Millennials)
 - [Machine Learning Is the Future of Underwriting, But Startups Won’t be Driving It](https://bankinnovation.net/2017/04/machine-learning-is-the-future-of-underwriting-but-startups-wont-be-driving-it/)
+- [AI in Banking – An Analysis of America’s 7 Top Banks](https://www.techemergence.com/ai-in-banking-analysis/)
+- [Artificial Intelligence is Taking Over Investment Banking](https://www.nanalyze.com/2017/02/artificial-intelligence-investment-banking/)
+- [Investment Bankers Are Hard to Replace With Robots, Nordea Says](https://www.bloomberg.com/news/articles/2017-11-26/investment-bankers-are-hard-to-replace-with-robots-nordea-says)
 
 
 > related papers
