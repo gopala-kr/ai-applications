@@ -3,6 +3,7 @@
 
 ---------------------
 ## Education
+
 > media and blogs
 
 - [The Future of AI, Data, and Education - udacity](https://blog.udacity.com/2018/02/future-ai-data-education.html)
@@ -14,9 +15,8 @@
 - [7-roles-for-artificial-intelligence-in-education](http://www.thetechedvocate.org/7-roles-for-artificial-intelligence-in-education/)
 - [Will AI be a bane or boon for education?](https://edscoop.com/will-ai-be-a-bane-or-boon-for-education)
 - [A Blended Environment: The Future of AI and Education](http://www.gettingsmart.com/2018/01/a-blended-environment-the-future-of-ai-and-education/)
-- []()
-- []()
-- []()
+- [A 21-year-old Swedish AI prodigy wants to revolutionize the $6 trillion education industry – and Tim Cook is impressed](https://nordic.businessinsider.com/a-21-year-old-ai-prodigy-sweden-sana-labs-wants-to-revolutionize-the-$5-trillion-education-industry--heres-why-mark-zuckerberg-and-tim-cook-seem-convinced--/)
+
 
 
 ## Media and Entertainment
