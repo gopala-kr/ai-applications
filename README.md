@@ -3,6 +3,16 @@
 
 ---------------------
 
+## Retail
+
+- [retail-nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/retail/)
+- [Why Artificial Intelligence Is Right for Retail](https://www.salesforce.com/blog/2017/12/artificial-intelligence-for-retail.html)
+- []()
+- []()
+- []()
+- []()
+
+
 ## Cybersecurity
 
 - [Artificial intelligence and cybersecurity: The real deal](https://www.csoonline.com/article/3250850/security/artificial-intelligence-and-cybersecurity-the-real-deal.html)
