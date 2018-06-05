@@ -2,6 +2,23 @@
 
 
 ---------------------
+## Education
+> media and blogs
+
+- [The Future of AI, Data, and Education - udacity](https://blog.udacity.com/2018/02/future-ai-data-education.html)
+- [The role of education in AI (and vice versa)](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-role-of-education-in-ai-and-vice-versa)
+- [10 Roles For Artificial Intelligence In Education](https://www.teachthought.com/the-future-of-learning/10-roles-for-artificial-intelligence-in-education/)
+- [How AI Impacts Education](https://www.forbes.com/sites/theyec/2017/12/27/how-ai-impacts-education/#4607860b792e)
+- [Examples of Artificial Intelligence in Education](https://www.techemergence.com/examples-of-artificial-intelligence-in-education/)
+- [The Future of AI and Education](https://insidebigdata.com/2018/05/13/future-ai-education/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 ## Media and Entertainment
 
 > media and blogs
