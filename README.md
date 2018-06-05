@@ -17,8 +17,8 @@
 - [How AI Is Addressing the Fraud in Advertising: Here's What You Need to Know](https://www.entrepreneur.com/article/309801)
 - [A guide to whether artificial intelligence will take your ad agency job](https://digiday.com/marketing/guide-whether-artificial-intelligence-will-take-ad-agency-job/)
 - [How AI marketing can help brands right now](https://econsultancy.com/blog/69769-how-ai-marketing-can-help-brands-right-now)
-- []()
-- []()
+- [3 Ways AI Marketing Will Revolutionize Your Ad Campaigns](https://goodwaygroup.com/blog/ai-marketing-revolutionize-ad-campaigns/)
+- [How AI is Driving a New Era of TV Advertising](https://martechseries.com/mts-insights/guest-authors/how-ai-is-driving-a-new-era-of-tv-advertising/)
 
 ## Retail
 
