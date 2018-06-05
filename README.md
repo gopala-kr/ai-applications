@@ -13,7 +13,11 @@
 - [What are some applications of AI in the field of agriculture? - Quora](https://www.quora.com/What-are-some-applications-of-AI-in-the-field-of-agriculture)
 - [Artificial intelligence holds the promise of driving an agricultural revolution at a time when the world must produce more food using fewer resources.](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
 - [Can Artificial Intelligence help improve agricultural productivity?](http://www.fao.org/e-agriculture/news/can-artificial-intelligence-help-improve-agricultural-productivity)
-- []()
+- [Exclusive: Alphabet X is exploring new ways to use AI in food production](https://www.technologyreview.com/s/610549/exclusive-alphabet-x-is-exploring-new-ways-to-use-ai-in-food-production/)
+- [IBM - Five ways agriculture could benefit from artificial intelligence](https://www.ibm.com/blogs/watson/2016/12/five-ways-agriculture-benefit-artificial-intelligence/)
+- [The Challenges for Artificial Intelligence in Agriculture](https://agfundernews.com/the-challenges-for-artificial-intelligence-in-agriculture.html)
+- [The Incredible Ways John Deere Is Using Artificial Intelligence To Transform Farming](https://www.forbes.com/sites/bernardmarr/2018/03/09/the-incredible-ways-john-deere-is-using-artificial-intelligence-to-transform-farming/#4910dce3330d)
+
 
 ## Education
 
