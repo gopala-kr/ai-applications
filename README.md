@@ -2,6 +2,20 @@
 
 
 ---------------------
+## Media and Entertainment
+
+> media and blogs
+
+- [AI in the Media and Entertainment Industry](https://medium.com/syncedreview/ai-in-the-media-and-entertainment-industry-1ad4b2b701b8)
+- [Applying AI and Machine Learning to Media and Entertainment](https://towardsdatascience.com/applying-ai-and-machine-learning-to-media-and-entertainment-8d3ebc4b68f7)
+- [AI in Movies, Entertainment, and Visual Media – 5 Current Use-Cases](https://www.techemergence.com/ai-in-movies-entertainment-visual-media/)
+- [AI is helping media and entertainment do more with less](http://techwireasia.com/2018/01/arti%EF%AC%81cial-intelligence-helping-media-entertainment/)
+- []()
+- []()
+- []()
+- []()
+
+
 
 ## Advertising and Marketing
 
