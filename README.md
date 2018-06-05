@@ -15,8 +15,16 @@
 - [Gaming and artificial intelligence (AI)](https://www.clickatell.com/articles/technology/gaming-artificial-intelligence-ai/)
 - [How video game AI is changing the world](https://www.networkworld.com/article/3160106/artificial-intelligence/how-video-game-ai-is-changing-the-world.html)
 - [A.I. teams up with Game Developers](https://medium.com/@shubham_2017/ai-ml-and-its-future-in-gaming-a2eeeb5561e1)
-- []()
-- []()
+- [AI for Game Production](https://pdfs.semanticscholar.org/bda5/78916ddc0beb198d05d8c08551e6c90ea9cd.pdf)
+- [How is Artificial Intelligence Transforming the Future of Gaming Industry?](http://thenerdstash.com/ai-video-game-industry/)
+- [How game designers and marketers will exploit AI](https://venturebeat.com/2017/07/13/how-game-designers-and-marketers-will-exploit-ai/)
+- [AI Is Dreaming Up New Kinds of Video Games](https://www.technologyreview.com/s/609482/ai-is-dreaming-up-new-kinds-of-video-games/)
+- [Microsoft's AI future is rooted in its gaming past](https://www.engadget.com/2018/05/07/microsoft-ai-video-games-kinect-xbox-future/)
+- [Machine Learning in Games Development](http://ai-depot.com/GameAI/Learning.html)
+- [Games by ANGELINA: The AI Game Designer](https://towardsdatascience.com/angelina-6d4a6a311a4)
+- [Why tech giants are investing millions in AI that can play video game](http://theconversation.com/why-tech-giants-are-investing-millions-in-ai-that-can-play-video-games-84151)
+- [AI in Video Games: Toward a More Intelligent Game](http://sitn.hms.harvard.edu/flash/2017/ai-video-games-toward-intelligent-game/)
+- [Artificial Intelligence – How It Will Change The Gaming Industry](https://en.softonic.com/articles/artificial-intelligence-how-it-will-change-the-gaming-industry)
 
 
 ## Telecommunications
