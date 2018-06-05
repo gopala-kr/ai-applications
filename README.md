@@ -34,7 +34,7 @@
 
 
 
-## Finance & Banking
+## Finance
 
 > Top Media
 
