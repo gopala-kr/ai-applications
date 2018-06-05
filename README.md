@@ -2,7 +2,27 @@
 
 
 ---------------------
+## Telecommunications
+> media and blogs
+
+- [Telecom Machine Learning Applications – Comparing AT&T, Verizon, Comcast and More](https://www.techemergence.com/telecom-machine-learning-applications/)
+- [Why telcos will soon be betting on Artificial Intelligence to build their networks](https://telecom.economictimes.indiatimes.com/news/why-telcos-will-soon-be-betting-on-artificial-intelligence-to-build-their-networks/61531211)
+- [The applications of Artificial Intelligence (AI) in the Telecoms industry](https://www.datasciencecentral.com/profiles/blogs/the-applications-of-artificial-intelligence-ai-in-the-telecoms)
+- [AI i n Telecommunications ](https://www.ijcai.org/Proceedings/91-1/Papers/086.pdf)
+- [Artificial intelligence in telecoms - current state of play](https://blogs.sas.com/content/hiddeninsights/2017/05/12/artificial-intelligence-in-telecoms/)
+- [AI in the telecommunications industry - a Q&A with Infosys](https://www.gigabitmagazine.com/telecoms/ai-telecommunications-industry-qa-infosys)
+- [Artificial Intelligence for Telecommunications Applications](https://www.prnewswire.com/news-releases/artificial-intelligence-for-telecommunications-applications-300638297.html)
+- [AI and the future of telecom with use cases Do Telecoms use Artificial Intelligence?](https://wildfireforce.com/ai-future-telecom-use-cases/)
+- [Artificial intelligence in Telecom: Intelligent operations is the new norm](http://bigdata-madesimple.com/artificial-intelligence-in-telecom-intelligent-operations-is-the-new-norm/)
+- [Taking Telecom to New Heights with Artificial Intelligence](https://ai.intel.com/taking-telecom-new-heights-artificial-intelligence/)
+- [Intelligence is in the airwaves for telecoms firms](https://www.infosys.com/human-amplification/Documents/telecommunications-ai-perspective.pdf)
+- [Artificial intelligence applications in the telecommunications industry](https://www.researchgate.net/publication/220658193_Artificial_intelligence_applications_in_the_telecommunications_industry)
+
+
+
+
 ## Music
+> media and blogs
 
 - [Google's 'Magenta' project will see if AIs can truly make art](https://www.engadget.com/2016/05/23/google-magenta-machine-learning-music-art/)
 - [How To Think About Artificial Intelligence In The Music Industry](https://www.forbes.com/sites/kristinwestcottgrant/2017/12/10/how-to-think-about-artificial-intelligence-in-the-music-industry/#aac530e7d4a6)
