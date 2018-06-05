@@ -3,6 +3,17 @@
 
 ---------------------
 
+## Advertising and Marketing
+
+- [Artificial Intelligence in Marketing and Advertising – 5 Examples of Real Traction](https://www.techemergence.com/artificial-intelligence-in-marketing-and-advertising-5-examples-of-real-traction/)
+- [AI and machine learning get us one step closer to relevance at scale](https://www.thinkwithgoogle.com/marketing-resources/ai-personalized-marketing/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## Retail
 
 > media and blogs
