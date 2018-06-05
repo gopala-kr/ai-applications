@@ -5,12 +5,18 @@
 
 ## Advertising and Marketing
 
+> media and blogs
+
 - [Artificial Intelligence in Marketing and Advertising – 5 Examples of Real Traction](https://www.techemergence.com/artificial-intelligence-in-marketing-and-advertising-5-examples-of-real-traction/)
 - [AI and machine learning get us one step closer to relevance at scale](https://www.thinkwithgoogle.com/marketing-resources/ai-personalized-marketing/)
-- []()
-- []()
-- []()
-- []()
+- [What does artificial intelligence mean for marketing agencies?](https://martechtoday.com/artificial-intelligence-mean-marketing-agencies-212110)
+- [In 2018, Marketers Will Discover More AI Applications in Programmatic Advertising](https://www.emarketer.com/Article/2018-Marketers-Will-Discover-More-AI-Applications-Programmatic-Advertising/1016801)
+- [Artificial-intelligence- adweek](https://www.adweek.com/tag/Artificial-intelligence/)
+- [How artificial intelligence is transforming advertising](http://www.marketing-interactive.com/how-artificial-intelligence-is-transforming-advertising/)
+- [Six Ways Artificial Intelligence Is Set To Disrupt Digital Marketing](https://inc42.com/resources/role-of-ai-in-digital-marketing/)
+- [How AI Is Addressing the Fraud in Advertising: Here's What You Need to Know](https://www.entrepreneur.com/article/309801)
+- [A guide to whether artificial intelligence will take your ad agency job](https://digiday.com/marketing/guide-whether-artificial-intelligence-will-take-ad-agency-job/)
+- [How AI marketing can help brands right now](https://econsultancy.com/blog/69769-how-ai-marketing-can-help-brands-right-now)
 - []()
 - []()
 
