@@ -9,11 +9,6 @@
 - [AI and Machine Learning in Cyber Security](https://towardsdatascience.com/ai-and-machine-learning-in-cyber-security-d6fbee480af0)
 - [5 Minute Guide to AI in Cyber Security](https://www.paladion.net/blogs/5-minute-guide-to-ai-in-cyber-security)
 - [AI for Cyber Security: How AI prevents future cyberattacks?](https://www.nec.com/en/global/ad/insite/article/safety10.html)
-- [AI and Automation – A Combo to Manage Cyber Security Threats](https://blogs.informatica.com/2018/01/18/ai-and-automation-a-combo-to-manage-cyber-security-threats/#fbid=MD_YIdyvq42)
-- []()
-- []()
-- []()
-
 
 
 ## Aviation
