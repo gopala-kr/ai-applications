@@ -7,8 +7,8 @@
 
 - [retail-nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/retail/)
 - [Why Artificial Intelligence Is Right for Retail](https://www.salesforce.com/blog/2017/12/artificial-intelligence-for-retail.html)
-- []()
-- []()
+- [The Future of Retail is All About Artificial Intelligence](https://ai.intel.com/future-retail-artificial-intelligence/)
+- [50 Best AI Retail Applications](https://www.insider-trends.com/50-best-ai-retail-applications/)
 - []()
 - []()
 
