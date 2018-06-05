@@ -9,10 +9,10 @@
 - [AI in Agriculture – Present Applications and Impact](https://www.techemergence.com/ai-agriculture-present-applications-impact/)
 - [Microsoft- Digital Agriculture: Farmers in India are using AI to increase crop yields](https://news.microsoft.com/en-in/features/ai-agriculture-icrisat-upl-india/)
 - [The 6 Most Amazing AI Advances in Agriculture](https://www.techopedia.com/the-6-most-amazing-ai-advances-in-agriculture/2/33177)
-- []()
-- []()
-- []()
-- []()
+- [A Real-World Example Of The Power Of AI In Agriculture](http://www.digitalistmag.com/improving-lives/2018/03/06/real-world-example-of-power-of-ai-in-agriculture-05948643)
+- [What are some applications of AI in the field of agriculture? - Quora](https://www.quora.com/What-are-some-applications-of-AI-in-the-field-of-agriculture)
+- [Artificial intelligence holds the promise of driving an agricultural revolution at a time when the world must produce more food using fewer resources.](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
+- [Can Artificial Intelligence help improve agricultural productivity?](http://www.fao.org/e-agriculture/news/can-artificial-intelligence-help-improve-agricultural-productivity)
 - []()
 
 ## Education
