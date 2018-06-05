@@ -18,7 +18,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [AI and Its Applications in Manufacturing](https://pdfs.semanticscholar.org/presentation/e4d2/91bb18d1f66b743e3fa1043f2546e2fca22f.pdf)
 - [AI in manufacturing: 5 questions answered](https://lab.getapp.com/artificial-intelligence-in-manufacturing-5-questions-answered/)
 - [ai-real-time-manufacturing-management](https://www.processingmagazine.com/ai-real-time-manufacturing-management/)
-- []()
+- [What does AI mean for the future of manufacturing?](https://www.telegraph.co.uk/business/social-innovation/artificial-intelligence-future-of-manufacture/)
 
 
 
