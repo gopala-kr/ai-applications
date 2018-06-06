@@ -6,6 +6,20 @@
 > [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
 
 ---------------------
+# Research
+
+## Computer vision, Face recognition, Virtual reality and Image processing
+
+## Natural language processing, Speech recognition, Translation and Chatterbots
+
+## OCR and Handwriting recognition
+
+## Game AI, game bots and Strategic planning
+
+## Robotics
+
+
+# Industrial Applications
 ## Healthcare
 > media and blogs
 
@@ -49,9 +63,10 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Legal
+## Legal/Law
 > media and blogs
 
+- [Applications of artificial intelligence to legal informatics](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [How will artificial intelligence affect the legal profession in the next decade?](https://law.queensu.ca/how-will-artificial-intelligence-affect-legal-profession-next-decade)
 - [Lawyer-Bots Are Shaking Up Jobs](https://www.technologyreview.com/s/609556/lawyer-bots-are-shaking-up-jobs/)
 - [The Verdict Is In: AI Outperforms Human Lawyers in Reviewing Legal Documents](https://futurism.com/ai-contracts-lawyers-lawgeex/)
