@@ -369,3 +369,13 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Customer Service, experience and engagement
 > media and blogs
+
+- [Rise of the Chatbots: How AI Changed Customer Service](https://www.salesforce.com/hub/service/how-ai-changed-customer-service/)
+- [How Will AI-Powered Customer Service Help Customer Support Agents?](https://chatbotsmagazine.com/how-will-artificial-intelligence-powered-customer-service-help-customer-support-agents-4fc9054a6a6b)
+- [6 Best AI Chatbots to Improve Your Customer Service](https://www.livechatinc.com/blog/chatbots-improve-customer-service/)
+- [How AI Changed Customer Service in the IT industry](https://www.entrepreneur.com/article/309213)
+- [10-reasons-ai-powered-automated-customer-service-future](https://www.ibm.com/blogs/watson/2017/10/10-reasons-ai-powered-automated-customer-service-future/)
+- [7 Things to Know About AI and Customer Care](https://blogs.cisco.com/collaboration/7-things-ai-and-customer-care)
+- [Use Cases of AI for Customer Service – What’s Working Now](https://www.techemergence.com/ai-for-customer-service-use-cases/)
+- [How to Supercharge Customer Service with Artificial Intelligence](https://www.icmi.com/Resources/Technology/2018/02/How-to-Supercharge-Customer-Service-with-Artificial-Intelligence)
+
