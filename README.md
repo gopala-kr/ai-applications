@@ -2,6 +2,29 @@
 
 
 ---------------------
+## Healthcare
+> media and blogs
+
+- [Machine Learning Healthcare Applications – 2018 and Beyond](https://www.techemergence.com/machine-learning-healthcare-applications/)
+- [Stanford AI for Healthcare Stanford AI for Healthcare](https://medium.com/stanford-ai-for-healthcare)
+- [Microsoft-Democratizing AI in Health](http://democratizing-ai-in-health.azurewebsites.net/)
+- [Artificial intelligence in healthcare](https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare)
+- [10-common-applications-artificial-intelligence-healthcare](http://novatiosolutions.com/10-common-applications-artificial-intelligence-healthcare/)
+- [Artificial Intelligence In Healthcare: Separating Reality From Hype](https://www.forbes.com/sites/robertpearl/2018/03/13/artificial-intelligence-in-healthcare/#30b250a01d75)
+- [Top Artificial Intelligence Companies in Healthcare to Keep an Eye On](http://medicalfuturist.com/top-artificial-intelligence-companies-in-healthcare/)
+- [No longer science fiction, AI and robotics are transforming healthcare](https://www.pwc.com/gx/en/industries/healthcare/publications/ai-robotics-new-health/transforming-healthcare.html)
+- [Machine Learning in Healthcare: Now for Everyone](https://healthcare.ai/)
+- [insight-artificial-intelligence-healthcare](https://www.accenture.com/us-en/insight-artificial-intelligence-healthcare)
+- [Artificial Intelligence for Health and Health Care](https://www.healthit.gov/sites/default/files/jsr-17-task-002_aiforhealthandhealthcare12122017.pdf)
+- [artificial-intelligence-in-healthcare-makes-slow-impact](http://www.modernhealthcare.com/indepth/artificial-intelligence-in-healthcare-makes-slow-impact/)
+- [Top 12 Ways Artificial Intelligence Will Impact Healthcare](https://healthitanalytics.com/news/top-12-ways-artificial-intelligence-will-impact-healthcare)
+- [Artificial intelligence in healthcare ‘set for 40% growth to 2024’](http://www.pmlive.com/pharma_news/artificial_intelligence_in_healthcare_set_for_40_growth_to_2024_1231723)
+- [The Impact of Artificial Intelligence in Healthcare](https://www.bbvaopenmind.com/en/the-impact-of-artificial-intelligence-in-healthcare/)
+- [Intel-Doctors have long relied on experience and instinct to make diagnoses. Now artificial intelligence can help with the hardest cases. ](https://www.intel.com/content/www/us/en/healthcare-it/article/improved-diagnosis.html)
+- [How Healthcare AI Makes Machine Learning Accessible to Everyone in Healthcare](https://www.healthcatalyst.com/how-artificial-intelligence-in-healthcare-will-democratize-machine-learning)
+
+
+
 ## Manufacturing
 > media and blogs
 
