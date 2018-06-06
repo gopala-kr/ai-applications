@@ -385,11 +385,15 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial Intelligence and Customer Engagement](https://userbrain.net/blog/artificial-intelligence-customer-engagement)
 - [How to Drive Intelligent, Personalized Consumer Engagement Using Data and AI](https://www.salesforce.com/blog/2018/01/intelligent-consumer-engagement-using-ai.html)
 - [The top 5 customer engagement innovations changing the game with AI](https://www.ibm.com/blogs/watson/2018/02/the-top-5-customer-engagement-innovations-changing-the-game-with-ai/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+### IT industry
+
+- [How Artificial Intelligence (AI) Will Impact IT Service Management](https://www.ivanti.com/blog/artificial-intelligence-ai-will-impact-service-management)
+- [how-ai-will-impact-it-service-management](https://www.servicedeskshow.com/feature/how-ai-will-impact-it-service-management/)
+- [AI-in-ITSM](https://freshservice.com/pdf/AI-in-ITSM.pdf)
+- [How Artificial Intelligence is impacting the ITSM service industry](https://medium.com/@ashish_fagna/how-artificial-intelligence-is-impacting-the-service-industry-91065e63abf9)
+- [5 Reasons Why AI Will Impact IT Service Management](http://www.businesscomputingworld.co.uk/5-reasons-why-ai-will-impact-it-service-management/)
+- [4 Big Benefits—And Hurdles—of Artificial Intelligence in ITSM](https://www.cherwell.com/blog/4-big-benefits-of-artificial-intelligence-in-itsm-and-a-few-hurdles-too)
+- [Artificial Intelligence Is Set To Change The Face Of IT Operations](https://www.forbes.com/sites/janakirammsv/2017/07/16/artificial-intelligence-is-set-to-change-the-face-of-it-operations/#559c1dbe1d21)
+- [12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic](https://www.gartner.com/smarterwithgartner/12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic/)
 
