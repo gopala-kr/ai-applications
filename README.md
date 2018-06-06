@@ -6,21 +6,22 @@
 > [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
 
 ---------------------
-# Research
+## Research
 
-## Computer vision, Face recognition, Virtual reality and Image processing
+### Computer vision, Face recognition, Virtual reality and Image processing
 
-## Natural language processing, Speech recognition, Translation and Chatterbots
+### Natural language processing, Speech recognition, Translation and Chatterbots
 
-## OCR and Handwriting recognition
+### OCR and Handwriting recognition
 
-## Game AI, game bots and Strategic planning
+### Game AI, game bots and Strategic planning
 
-## Robotics
+### Robotics
 
+### Knowledge representation
 
-# Industrial Applications
-## Healthcare
+## Industrial Applications
+### Healthcare
 > media and blogs
 
 - [Machine Learning Healthcare Applications – 2018 and Beyond](https://www.techemergence.com/machine-learning-healthcare-applications/)
@@ -43,7 +44,7 @@
 
 
 
-## Manufacturing
+### Manufacturing
 > media and blogs
 
 - [3 Advances Changing the Future of Artificial Intelligence in Manufacturing](https://www.autodesk.com/redshift/future-of-artificial-intelligence/)
@@ -63,7 +64,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Legal/Law
+### Legal/Law
 > media and blogs
 
 - [Applications of artificial intelligence to legal informatics](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
@@ -79,7 +80,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [I Proves to Be the Best Legal Mind for Contract Reviews](https://www.top500.org/news/ai-proves-to-be-the-best-legal-mind-for-contract-reviews/)
 - [The Future Of Law: How AI Is Revolutionizing the Legal Industry](https://www.litify.com/future-law-ai-revolutionizing-legal-industry/)
 
-## Games
+### Games
 > media and blogs
 
 - [Why-are-there-no-Game-AI-companies](https://www.quora.com/Why-are-there-no-Game-AI-companies)
@@ -104,7 +105,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial Intelligence – How It Will Change The Gaming Industry](https://en.softonic.com/articles/artificial-intelligence-how-it-will-change-the-gaming-industry)
 
 
-## Telecommunications
+### Telecommunications
 > media and blogs
 
 - [Telecom Machine Learning Applications – Comparing AT&T, Verizon, Comcast and More](https://www.techemergence.com/telecom-machine-learning-applications/)
@@ -123,7 +124,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Music
+### Music
 > media and blogs
 
 - [Google's 'Magenta' project will see if AIs can truly make art](https://www.engadget.com/2016/05/23/google-magenta-machine-learning-music-art/)
@@ -146,7 +147,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Will AI change the future of music?](http://www.dw.com/en/will-ai-change-the-future-of-music/a-41031406)
 
 
-## HR and Recruitment
+### HR and Recruitment
 > media and blogs
 
 - [5 ways to use artificial intelligence (AI) in human resources](http://bigdata-madesimple.com/5-ways-to-use-artificial-intelligence-ai-in-human-resources/)
@@ -167,7 +168,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [HR, meet AI – making work more human, according to Oracle](https://diginomica.com/2018/03/28/making-work-human-robots-oracle-way/)
 
 
-## Agriculture
+### Agriculture
 
 > media and blogs
 
@@ -184,7 +185,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [The Incredible Ways John Deere Is Using Artificial Intelligence To Transform Farming](https://www.forbes.com/sites/bernardmarr/2018/03/09/the-incredible-ways-john-deere-is-using-artificial-intelligence-to-transform-farming/#4910dce3330d)
 
 
-## Education
+### Education
 
 > media and blogs
 
@@ -201,7 +202,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Media and Entertainment
+### Media and Entertainment
 
 > media and blogs
 
@@ -217,7 +218,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Advertising and Marketing
+### Advertising and Marketing
 
 > media and blogs
 
@@ -234,7 +235,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [3 Ways AI Marketing Will Revolutionize Your Ad Campaigns](https://goodwaygroup.com/blog/ai-marketing-revolutionize-ad-campaigns/)
 - [How AI is Driving a New Era of TV Advertising](https://martechseries.com/mts-insights/guest-authors/how-ai-is-driving-a-new-era-of-tv-advertising/)
 
-## Retail & Fashion
+### Retail & Fashion
 
 > media and blogs
 
@@ -258,7 +259,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [7 ways AI innovations make life easier for fashion companies and ](http://www.intelligencenode.com/blog/fashion-artificial-intelligence-ux/)
 
 
-## Cybersecurity
+### Cybersecurity
 
 > media and blogs
 
@@ -268,7 +269,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [AI for Cyber Security: How AI prevents future cyberattacks?](https://www.nec.com/en/global/ad/insite/article/safety10.html)
 
 
-## Aviation
+### Aviation
 
 > media and blogs
 
@@ -285,7 +286,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Automotive & Trasportation
+### Automotive & Trasportation
 
 || [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
 
@@ -313,7 +314,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-## Finance & Banking
+### Finance & Banking
 
 > Top Media
 
