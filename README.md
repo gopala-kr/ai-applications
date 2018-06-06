@@ -1,8 +1,4 @@
 > Applications of AI: Industrial + research
-
-
--------------
-
 >***ClassicalAI->ANI(Artificial Narrow Intelligence)*****->AGI(Artifical General Intelligence)->ASI(Artificial Super Intelligence)**
 
 -----------
