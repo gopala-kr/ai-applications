@@ -3,7 +3,7 @@
 
 -------------
 
->***Classical AI->ANI(Artificial Narrow intelligence)*****->AGI(Artifical Genral Intelligence)->ASI(Artificial Super Intelligence)**
+>***Classical AI->ANI(Artificial Narrow intelligence)*****->AGI(Artifical General Intelligence)->ASI(Artificial Super Intelligence)**
 
 -----------
 
