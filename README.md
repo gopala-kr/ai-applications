@@ -260,6 +260,11 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial Intelligence in Aerospace](https://www.intechopen.com/books/aerospace-technologies-advancements/artificial-intelligence-in-aerospace)
 - [Artificial Intelligence Taking Over Aerospace Manufacturing](https://sanvada.com/2018/04/05/artificial-intelligence-taking-aerospace-manufacturing/)
 - [Intelligent Systems For Aerospace Engineering--An Overview - NASA](https://ti.arc.nasa.gov/m/pub-archive/364h/0364%20(Krishna).pdf)
+- [AI bests Air Force combat tactics experts in simulated dogfights](https://arstechnica.com/information-technology/2016/06/ai-bests-air-force-combat-tactics-experts-in-simulated-dogfights/)
+- [Automated Intelligent Pilots for Combat Flight Simulation](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1438/1337)
+- [The Story of Self-Repairing Flight Control Systems](https://crgis.ndc.nasa.gov/crgis/images/c/c9/88798main_srfcs.pdf)
+
+
 
 ## Automotive & Trasportation
 
