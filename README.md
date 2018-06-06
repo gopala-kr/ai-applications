@@ -367,3 +367,5 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [How DHL Aims to Remake Logistics with AI](https://www.datanami.com/2018/04/17/how-dhl-aims-to-remake-logistics-with-ai/)
 - [Here, There, Everywhere: Transforming Logistics with Self-Learning AI](Here, There, Everywhere: Transforming Logistics with Self-Learning AI)
 
+### Customer Service, experience and engagement
+> media and blogs
