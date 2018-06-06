@@ -1,9 +1,9 @@
-> Current applications of AI: Industrial + research
+> Applications of AI: Industrial + research
 
 
 -------------
 
-> ***Classical AI --> ***ANI(Artificial Narrow intelligence)*** **--> AGI(Artifical Genral Intelligence) --> ASI( Artificial Super Intelligence)**
+> ***Classical AI --> ANI(Artificial Narrow intelligence)*** **--> AGI(Artifical Genral Intelligence) --> ASI( Artificial Super Intelligence)**
 
 
 > [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
