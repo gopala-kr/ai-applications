@@ -365,7 +365,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [AI in the supply chain: Logistics gets smart](https://www.cio.com/article/3269513/supply-chain-management/ai-in-the-supply-chain-logistics-get-smart.html)
 - [AI and Automation In The Logistic Systems](https://hackernoon.com/ai-and-automation-in-the-logistic-systems-c07b6e7ed39b)
 - [How DHL Aims to Remake Logistics with AI](https://www.datanami.com/2018/04/17/how-dhl-aims-to-remake-logistics-with-ai/)
-- [Here, There, Everywhere: Transforming Logistics with Self-Learning AI](Here, There, Everywhere: Transforming Logistics with Self-Learning AI)
+- [Here, There, Everywhere: Transforming Logistics with Self-Learning AI](https://blogs.nvidia.com/blog/2018/03/28/self-learning-ai-for-logistics/)
 
 ### Customer Service, experience and engagement
 > media and blogs
