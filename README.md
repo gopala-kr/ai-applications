@@ -357,3 +357,15 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts. [arxiv](https://arxiv.org/abs/1307.5336v2) - 2013
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
 
+
+### Logistics
+> media and blogs
+
+- [glo-ai-in-logistics-white-paper](https://www.logistics.dhl/content/dam/dhl/global/core/documents/pdf/glo-ai-in-logistics-white-paper.pdf)
+- [AI in the supply chain: Logistics gets smart](https://www.cio.com/article/3269513/supply-chain-management/ai-in-the-supply-chain-logistics-get-smart.html)
+- [AI and Automation In The Logistic Systems](https://hackernoon.com/ai-and-automation-in-the-logistic-systems-c07b6e7ed39b)
+- [How DHL Aims to Remake Logistics with AI](https://www.datanami.com/2018/04/17/how-dhl-aims-to-remake-logistics-with-ai/)
+- []()
+- []()
+- []()
+- []()
