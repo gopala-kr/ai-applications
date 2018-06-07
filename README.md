@@ -13,6 +13,7 @@
 ### AI approaches
 
 - symbolic AI(1950-1980)
+- Statistical relational learning (SRL)
 
 ------------------
 
