@@ -12,7 +12,28 @@
 
 ### AI approaches
 
+> What is the difference between data mining, statistics, machine learning and AI? 
+> Would it be accurate to say that they are 4 fields attempting to solve very similar problems but with different approaches? What exactly do they have in common and where do they differ? If there is some kind of hierarchy between them, what would it be?
 
+
+<p>In short</p>
+
+<ul>
+<li><strong>Statistics</strong> <em>quantifies</em> numbers</li>
+<li><strong>Data Mining</strong> <em>explains</em> patterns</li>
+<li><strong>Machine Learning</strong> <em>predicts</em> with models</li>
+<li><strong>Artificial Intelligence</strong> <em>behaves</em> and <em>reasons</em></li>
+</ul>
+
+<blockquote>
+  <p><strong>Statistics</strong> is just about the numbers, and quantifying the data.  There are many tools for finding relevant properties of the data but this is pretty close to pure mathematics.</p>
+  
+  <p><strong>Data Mining</strong> is about using <strong>Statistics</strong> as well as other programming methods to find patterns hidden in the data so that you can <em>explain</em> some phenomenon. Data Mining builds intuition about what is really happening in some data and is still little more towards math than programming, but uses both.</p>
+  
+  <p><strong>Machine Learning</strong> uses <strong>Data Mining</strong> techniques and other learning algorithms to build models of what is happening behind some data so that it can <em>predict</em> future outcomes. Math is the basis for many of the algorithms, but this is more towards programming.</p>
+  
+  <p><strong>Artificial Intelligence</strong> uses models built by <strong>Machine Learning</strong> and other ways to <em>reason</em> about the world and give rise to intelligent <em>behavior</em> whether this is playing a game or driving a robot/car. Artificial Intelligence has some goal to achieve by predicting how actions will affect the model of the world and chooses the actions that will best achieve that goal.  Very programming based.</p>
+</blockquote>
 
 
 ---------------
