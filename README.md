@@ -12,6 +12,10 @@
 
 ### AI approaches
 
+- symbolic AI(1950-1980)
+
+------------------
+
 > What is the difference between data mining, statistics, machine learning and AI? 
 > Would it be accurate to say that they are 4 fields attempting to solve very similar problems but with different approaches? What exactly do they have in common and where do they differ? If there is some kind of hierarchy between them, what would it be?
 
