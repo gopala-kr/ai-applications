@@ -1,6 +1,6 @@
 > Applications of AI: Industrial + research
 
->***ClassicalAI->ANI(Artificial Narrow Intelligence)*****->AGI(Artifical General Intelligence)->ASI(Artificial Super Intelligence)**
+>*ClassicalAI->ANI(Artificial Narrow Intelligence)->AGI(Artifical General Intelligence)->ASI(Artificial Super Intelligence)*
 
 -----------
 
@@ -35,6 +35,7 @@
   <p><strong>Artificial Intelligence</strong> uses models built by <strong>Machine Learning</strong> and other ways to <em>reason</em> about the world and give rise to intelligent <em>behavior</em> whether this is playing a game or driving a robot/car. Artificial Intelligence has some goal to achieve by predicting how actions will affect the model of the world and chooses the actions that will best achieve that goal.  Very programming based.</p>
 </blockquote>
 
+[more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
 
 ---------------
 
