@@ -9,6 +9,14 @@
 > [When Will AI Exceed Human Performance?Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 
 ---------------------
+
+### AI approaches
+
+
+
+
+---------------
+
 ## Research
 
 ### Computer vision, Face recognition, Virtual reality and Image processing
