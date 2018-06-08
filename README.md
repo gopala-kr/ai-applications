@@ -18,8 +18,9 @@
 - **Bayesian inference(Statistical AI)** - "If the current patient has a fever, adjust the probability they have influenza in such-and-such way"
 - **Machine learning and data mining** - "After examining the records of known past patients whose temperature, symptoms, age, and other factors mostly match the current patient, X% of those patients turned out to have influenza"
 - **Artificial Neural Network** - inspired by how the brain's machinery works(neurons).
+- **Evolutionary AI** - uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection.
 
-*Note: But not limmitted to only above four, many researchers are trying different approaches to achieve general AI*
+*Note: But not limmitted to only above five, researchers trying different approaches to achieve general AI*
 ------------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
