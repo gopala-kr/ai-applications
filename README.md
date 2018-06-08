@@ -478,3 +478,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial Intelligence Is Set To Change The Face Of IT Operations](https://www.forbes.com/sites/janakirammsv/2017/07/16/artificial-intelligence-is-set-to-change-the-face-of-it-operations/#559c1dbe1d21)
 - [12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic](https://www.gartner.com/smarterwithgartner/12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic/)
 
+-------------
+
+## Maintainer
+
+Gopala KR / @gopala-kr
