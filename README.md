@@ -81,13 +81,16 @@ so, you have data --> build data pipelines
 
 ![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
 
-
-![cover](http://houseofbots.com/images/news/490/cover.png)
 ![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
+![cover](http://houseofbots.com/images/news/490/cover.png)
+![From Data Acquisition to Insights - Big Data Analytics](http://d3vncsohenrhbu.cloudfront.net/sites/default/files/Big%20Data%20Analytics%20-%20Technology%20Overview.png)
+![ai-arch-09-p27](https://doubleclix.files.wordpress.com/2013/02/ai-arch-09-p27.png)
+![JpspYMrAiDh_l4Gh4aPMPQ](https://www.eyeviewdigital.com/wp-content/uploads/2016/12/1-JpspYMrAiDh_l4Gh4aPMPQ.jpeg)
+![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1.jpg)
 
 ## Industrial Applications
 
-![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc.PNG)
+![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/i_a.JPG)
 
 ### Healthcare
 > media and blogs
