@@ -20,7 +20,7 @@
 - **Artificial Neural Network** - inspired by how the brain's machinery works(neurons).
 - **Evolutionary AI** - uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and natural selection.
 
-*Note: But not limmitted to only above five, researchers trying different approaches to achieve general AI*
+*Note: But not limitted to only above five, researchers trying different approaches to achieve general AI*
 
 ------------------
 
@@ -51,7 +51,7 @@
 
 ---------------
 
-## Research
+## Research Areas
 
 ### Computer vision, Face recognition, Virtual reality and Image processing
 
