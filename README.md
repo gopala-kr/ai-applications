@@ -28,19 +28,19 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ---------------
 
-## Research Areas
+### Research Areas
 
-### Computer vision, Face recognition, Virtual reality and Image processing
+#### Computer vision, Face recognition, Virtual reality and Image processing
 
-### Natural language processing, Speech recognition, Translation and Chatterbots
+#### Natural language processing, Speech recognition, Translation and Chatterbots
 
-### OCR and Handwriting recognition
+#### OCR and Handwriting recognition
 
-### Game AI, game bots and Strategic planning
+#### Game AI, game bots and Strategic planning
 
-### Robotics
+#### Robotics
 
-### Knowledge representation
+#### Knowledge representation
 
 
 ------------------
