@@ -97,9 +97,25 @@ There is no established unifying theory or paradigm that guides AI research. Res
 | [TinkerPop](https://github.com/mohataher/awesome-tinkerpop)
 | [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)
 | [CouchDB](https://github.com/quangv/awesome-couchdb)
-| [HBase](https://github.com/rayokota/awesome-hbase) ||
+| [HBase](https://github.com/rayokota/awesome-hbase) 
+| [datascience](https://github.com/bulutyazilim/awesome-datascience)
+| [data-science-viz](https://github.com/quantmind/awesome-data-science-viz)
+| [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+| [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+| [go-ds](https://github.com/datasciencemasters/go)| [data-science-blogs](https://github.com/rushter/data-science-blogs)
+| [data-science](https://github.com/ossu/data-science)
+| [DataSciencePython](https://github.com/ujjwalkarn/DataSciencePython)
+| [courses](https://github.com/DataScienceSpecialization/courses)| [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
+| [spark-notebook](https://github.com/spark-notebook/spark-notebook)
+| [LearnDataScience](https://github.com/nborwankar/LearnDataScience)
+| [https://github.com/jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
+| [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros)
+| [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
+| [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
+| [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
+| [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem)
 
-
+||
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
