@@ -26,6 +26,23 @@
 There is no established unifying theory or paradigm that guides AI research. Researchers disagree about many issues. A few of the most long standing questions that have remained unanswered are these: should artificial intelligence simulate natural intelligence by studying psychology or neurobiology? Or is human biology as irrelevant to AI research as bird biology is to aeronautical engineering? Can intelligent behavior be described using simple, elegant principles (such as logic or optimization)? Or does it necessarily require solving a large number of completely unrelated problems?
 </blockquote>
 
+---------------
+
+## Research Areas
+
+### Computer vision, Face recognition, Virtual reality and Image processing
+
+### Natural language processing, Speech recognition, Translation and Chatterbots
+
+### OCR and Handwriting recognition
+
+### Game AI, game bots and Strategic planning
+
+### Robotics
+
+### Knowledge representation
+
+
 ------------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
@@ -58,19 +75,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ---------------
 ![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
-## Research Areas
-
-### Computer vision, Face recognition, Virtual reality and Image processing
-
-### Natural language processing, Speech recognition, Translation and Chatterbots
-
-### OCR and Handwriting recognition
-
-### Game AI, game bots and Strategic planning
-
-### Robotics
-
-### Knowledge representation
 
 -------------------
 ### Bigdata and Data Science:
