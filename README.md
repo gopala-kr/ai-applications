@@ -79,6 +79,29 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -------------------
 ### Bigdata and Data Science:
 
+
+
+|| [Big Data](https://github.com/onurakpolat/awesome-bigdata)
+| [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+| [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+| [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+| [Streaming](https://github.com/manuzhang/awesome-streaming)
+| [Apache Spark](https://github.com/awesome-spark/awesome-spark)
+| [Database](https://github.com/numetriclabz/awesome-db)
+
+| [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+| [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
+| [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+| [Neo4j](https://github.com/neueda/awesome-neo4j)
+| [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
+| [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
+| [TinkerPop](https://github.com/mohataher/awesome-tinkerpop)
+| [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)
+| [CouchDB](https://github.com/quangv/awesome-couchdb)
+| [HBase](https://github.com/rayokota/awesome-hbase) ||
+
+
+
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
 so, you have data --> build data pipelines
