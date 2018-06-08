@@ -80,6 +80,32 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ### Bigdata and Data Science:
 
 
+![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
+
+so, you have data --> build data pipelines
+
+![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
+
+**The Heirarchy**
+
+![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
+
+-----------
+**Big-Data-Abstraction**
+
+![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
+
+-------------
+**Bigdata Tools**
+
+![ai-arch-09-p27](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bd_tools.JPG)
+
+---------------------------
+**Datascience desciplines**
+
+![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
+
+----------------------
 
 || [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 | [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -113,35 +139,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 | [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
 | [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
-| [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem)
-
-||
-
-![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
-
-so, you have data --> build data pipelines
-
-![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
-
-**The Heirarchy**
-
-![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
-
------------
-**Big-Data-Abstraction**
-
-![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
-
--------------
-**Bigdata Tools**
-
-![ai-arch-09-p27](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bd_tools.JPG)
-
----------------------------
-**Datascience desciplines**
-
-![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
-
+| [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) ||
 
 ## Industrial Applications
 
