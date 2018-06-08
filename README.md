@@ -87,13 +87,12 @@ There is no established unifying theory or paradigm that guides AI research. Res
 | [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 | [Streaming](https://github.com/manuzhang/awesome-streaming)
 | [Apache Spark](https://github.com/awesome-spark/awesome-spark)
-| [Database](https://github.com/numetriclabz/awesome-db)
-
+| [Databases](https://github.com/numetriclabz/awesome-db)
 | [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 | [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 | [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 | [Neo4j](https://github.com/neueda/awesome-neo4j)
-| [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
+| [MongoDB](https://github.com/ramnes/awesome-mongodb)
 | [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 | [TinkerPop](https://github.com/mohataher/awesome-tinkerpop)
 | [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)
