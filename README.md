@@ -21,6 +21,7 @@
 - **Evolutionary AI** - uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and natural selection.
 
 *Note: But not limmitted to only above five, researchers trying different approaches to achieve general AI*
+
 ------------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
