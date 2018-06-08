@@ -14,9 +14,12 @@
 
 | [Workshop](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/e2/09/e209cc8c-1ddc-4f7e-beb5-d23fbe509302/93-08-052.pdf) | [logic-ai](https://plato.stanford.edu/entries/logic-ai/) |
 
-- symbolic AI(1950-1980)
-- Statistical relational learning (SRL)
+- **Symbolic AI(formal logic - (1950-1980)** - "If an otherwise healthy adult has a fever, then they may have influenza"
+- **Bayesian inference(Statistical AI)** - "If the current patient has a fever, adjust the probability they have influenza in such-and-such way"
+- **Machine learning and data mining** - "After examining the records of known past patients whose temperature, symptoms, age, and other factors mostly match the current patient, X% of those patients turned out to have influenza"
+- **Artificial Neural Network** - inspired by how the brain's machinery works(neurons).
 
+*Note: But not limmitted to only above four, many researchers are trying different approaches to achieve general AI*
 ------------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
