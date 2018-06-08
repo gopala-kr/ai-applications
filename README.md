@@ -20,7 +20,11 @@
 - **Artificial Neural Network** - inspired by how the brain's machinery works(neurons).
 - **Evolutionary AI** - uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and natural selection.
 
-*Note: But not limitted to only above five, researchers trying different approaches to achieve general AI*
+*Note: But not limitted to only above five(extremely hyped and popular in routine business AI applications), researchers trying different approaches to achieve general AI*
+
+<blockquote>
+There is no established unifying theory or paradigm that guides AI research. Researchers disagree about many issues. A few of the most long standing questions that have remained unanswered are these: should artificial intelligence simulate natural intelligence by studying psychology or neurobiology? Or is human biology as irrelevant to AI research as bird biology is to aeronautical engineering?[14] Can intelligent behavior be described using simple, elegant principles (such as logic or optimization)? Or does it necessarily require solving a large number of completely unrelated problems?
+</blockquote>
 
 ------------------
 
