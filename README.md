@@ -53,7 +53,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
 
+![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
+
 ---------------
+![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
 ## Research Areas
 
@@ -68,6 +71,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ### Robotics
 
 ### Knowledge representation
+
+-------------------
+
+![cover](http://houseofbots.com/images/news/490/cover.png)
+![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 ## Industrial Applications
 ### Healthcare
