@@ -4,7 +4,7 @@
 
 -----------
 
-> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf)
+> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf) | [AITopics](https://aitopics.org/search)
 
 > [When Will AI Exceed Human Performance?Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 
