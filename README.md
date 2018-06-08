@@ -96,7 +96,7 @@ so, you have data --> build data pipelines
 ![ai-arch-09-p27](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bd_tools.JPG)
 
 ---------------------------
-**Datascience desciplines
+**Datascience desciplines**
 
 ![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
 
