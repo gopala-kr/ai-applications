@@ -28,6 +28,18 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ---------------
 
+- [AI tools](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
+- [Outline of artificial intelligence and applications](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
+- [Outline of machine learning algorithms and applications](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
+- [Outline of computer vision and applications](https://en.wikipedia.org/wiki/Outline_of_computer_vision)
+- [Outline of natural language processing and tools](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
+- [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
+- [appications of ai](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+- [Applications of deep learning](https://en.wikipedia.org/wiki/Deep_learning#Applications)
+
+----------------
+
+
 ### Research Areas
 
 #### Computer vision, Face recognition, Virtual reality and Image processing
@@ -41,7 +53,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 #### Robotics
 
 #### Knowledge representation
-
 
 ------------------
 
