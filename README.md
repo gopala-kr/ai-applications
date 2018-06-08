@@ -78,6 +78,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 ## Industrial Applications
+
+![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc.PNG)
+
 ### Healthcare
 > media and blogs
 
