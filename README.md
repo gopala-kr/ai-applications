@@ -85,7 +85,7 @@ so, you have data --> build data pipelines
 -----------
 ![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
 ![ai-arch-09-p27](https://doubleclix.files.wordpress.com/2013/02/ai-arch-09-p27.png)
-![ds](http://houseofbots.com/images/news/490/cover.png)
+![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
 
 
 ## Industrial Applications
