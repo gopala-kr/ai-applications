@@ -105,9 +105,7 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [ml-Use cases by industry](https://www.datarobot.com/use-cases/)
 - [How to Apply Machine Learning to Business Problems](https://www.techemergence.com/how-to-apply-machine-learning-to-business-problems/)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-- [IBM: Object detection with AI vision is getting easier for developers](https://developer.ibm.com/code/2018/02/13/object-detection-ai-vision-getting-easier-developers/)
-- [Implement Object Recognition on Livestream](https://dzone.com/articles/implement-object-recognition-on-live-stream)
-- [Object recognition for free](http://news.mit.edu/2015/visual-scenes-object-recognition-0508)
+
 
 --------------
 
@@ -184,6 +182,34 @@ Retrieva](https://www.scss.tcd.ie/Rozenn.Dahyot/Workshop/cbir_bayesian.pdf)
 - [What are the possible applications of optical character recognition?](https://www.quora.com/What-are-the-possible-applications-of-optical-character-recognition)
 - [Application of OCR systems to processing and digitization
 of paper documents](http://wbieniec.kis.p.lodz.pl/research/files/10_isim_ocr.pdf)
+- [IBM: Object detection with AI vision is getting easier for developers](https://developer.ibm.com/code/2018/02/13/object-detection-ai-vision-getting-easier-developers/)
+- [Implement Object Recognition on Livestream](https://dzone.com/articles/implement-object-recognition-on-live-stream)
+- [Object recognition for free](http://news.mit.edu/2015/visual-scenes-object-recognition-0508)
+- [Is Google Tensorflow Object Detection API the easiest way to implement image recognition?](https://towardsdatascience.com/is-google-tensorflow-object-detection-api-the-easiest-way-to-implement-image-recognition-a8bd1f500ea0)
+- [Facebook’s AI team Releases Detectron – A Platform for Object Detection Research](https://www.analyticsvidhya.com/blog/2018/01/facebook-launched-detectron-platform-object-detection-research/)
+- [Interactive Segmentation with Convolutional Neural
+Networks](https://medium.com/gifs-ai/interactive-segmentation-with-convolutional-neural-networks-2e171a85df82)
+- [Segmenting and refining images with SharpMask](https://code.facebook.com/posts/561187904071636/segmenting-and-refining-images-with-sharpmask/)
+- [Image segmentation with Neural Net](https://aboveintelligent.com/image-segmentation-with-neural-net-d5094d571b1e)
+- [Object detection: an overview in the age of Deep Learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
+
+-------------------
+**NLP**
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ---------------------
 
