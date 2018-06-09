@@ -36,8 +36,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
 - [Appications of AI](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [Applications of deep learning](https://en.wikipedia.org/wiki/Deep_learning#Applications)
-- [notebooks](https://github.com/gopala-kr/notebooks)
-
+- [Practical AI](https://github.com/gopala-kr/notebooks)
+- [State-of-the-art-results for AI problems](https://github.com/gopala-kr/SoTA)
 
 ----------------
 
