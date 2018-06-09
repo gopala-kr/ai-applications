@@ -28,6 +28,39 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ---------------
 
+> What is the difference between data mining, statistics, machine learning and AI? 
+> Would it be accurate to say that they are 4 fields attempting to solve very similar problems but with different approaches? What exactly do they have in common and where do they differ? If there is some kind of hierarchy between them, what would it be?
+
+
+<p>In short</p>
+
+<ul>
+<li><strong>Statistics</strong> <em>quantifies</em> numbers</li>
+<li><strong>Data Mining</strong> <em>explains</em> patterns</li>
+<li><strong>Machine Learning</strong> <em>predicts</em> with models</li>
+<li><strong>Artificial Intelligence</strong> <em>behaves</em> and <em>reasons</em></li>
+</ul>
+
+<blockquote>
+  <p><strong>Statistics</strong> is just about the numbers, and quantifying the data.  There are many tools for finding relevant properties of the data but this is pretty close to pure mathematics.</p>
+  
+  <p><strong>Data Mining</strong> is about using <strong>Statistics</strong> as well as other programming methods to find patterns hidden in the data so that you can <em>explain</em> some phenomenon. Data Mining builds intuition about what is really happening in some data and is still little more towards math than programming, but uses both.</p>
+  
+  <p><strong>Machine Learning</strong> uses <strong>Data Mining</strong> techniques and other learning algorithms to build models of what is happening behind some data so that it can <em>predict</em> future outcomes. Math is the basis for many of the algorithms, but this is more towards programming.</p>
+  
+  <p><strong>Artificial Intelligence</strong> uses models built by <strong>Machine Learning</strong> and other ways to <em>reason</em> about the world and give rise to intelligent <em>behavior</em> whether this is playing a game or driving a robot/car. Artificial Intelligence has some goal to achieve by predicting how actions will affect the model of the world and chooses the actions that will best achieve that goal.  Very programming based.</p>
+</blockquote>
+
+[more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
+
+![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
+
+---------------
+![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
+
+
+-------------------
+
 Have a quick look at these threads( Day-1)
 
 - [AI tools](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
@@ -223,38 +256,7 @@ Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 
 ---------------------
 
-> What is the difference between data mining, statistics, machine learning and AI? 
-> Would it be accurate to say that they are 4 fields attempting to solve very similar problems but with different approaches? What exactly do they have in common and where do they differ? If there is some kind of hierarchy between them, what would it be?
 
-
-<p>In short</p>
-
-<ul>
-<li><strong>Statistics</strong> <em>quantifies</em> numbers</li>
-<li><strong>Data Mining</strong> <em>explains</em> patterns</li>
-<li><strong>Machine Learning</strong> <em>predicts</em> with models</li>
-<li><strong>Artificial Intelligence</strong> <em>behaves</em> and <em>reasons</em></li>
-</ul>
-
-<blockquote>
-  <p><strong>Statistics</strong> is just about the numbers, and quantifying the data.  There are many tools for finding relevant properties of the data but this is pretty close to pure mathematics.</p>
-  
-  <p><strong>Data Mining</strong> is about using <strong>Statistics</strong> as well as other programming methods to find patterns hidden in the data so that you can <em>explain</em> some phenomenon. Data Mining builds intuition about what is really happening in some data and is still little more towards math than programming, but uses both.</p>
-  
-  <p><strong>Machine Learning</strong> uses <strong>Data Mining</strong> techniques and other learning algorithms to build models of what is happening behind some data so that it can <em>predict</em> future outcomes. Math is the basis for many of the algorithms, but this is more towards programming.</p>
-  
-  <p><strong>Artificial Intelligence</strong> uses models built by <strong>Machine Learning</strong> and other ways to <em>reason</em> about the world and give rise to intelligent <em>behavior</em> whether this is playing a game or driving a robot/car. Artificial Intelligence has some goal to achieve by predicting how actions will affect the model of the world and chooses the actions that will best achieve that goal.  Very programming based.</p>
-</blockquote>
-
-[more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
-
-![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
-
----------------
-![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
-
-
--------------------
 ### Bigdata and Data Science:
 
 
