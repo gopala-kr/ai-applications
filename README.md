@@ -124,6 +124,27 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 #### Knowledge representation
 
 ------------------
+**Computer Vision**
+
+- [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html)
+- [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
+- [Computer Vision: Algorithms and Applications](http://web.itu.edu.tr/hulyayalcin/Signal_Processing_Books/2010_Szeliski_ComputerVision.pdf)
+- [Hackernews: Computer Vision: Algorithms and Applications (2010) (szeliski.org)](https://news.ycombinator.com/item?id=12587207)
+- [CSAIL: Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/materials.html)
+- [Wiki: Applications of computer vision](https://en.wikipedia.org/wiki/Category:Applications_of_computer_vision)
+- [Computer Vision Technology Permeates Our Daily Lives](https://www.iotforall.com/computer-vision-applications-in-daily-life/)
+- [Quora: What are the applications of computer vision?](https://www.quora.com/topic/Computer-Vision)
+- [stanford CS: Computer Vision Applications](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1997-98/computer-vision/applications.html)
+- [The Most Exciting Applications of Computer Vision across Industries](https://indatalabs.com/blog/data-science/applications-computer-vision-across-industries#TRSJXIVh7OH6mtLq.99)
+- [link.springer: Machine Vision and Applications](https://link.springer.com/journal/volumesAndIssues/138)
+- [10 uses of computer vision in marketing & customer experience](https://econsultancy.com/blog/68777-10-uses-of-computer-vision-in-marketing-customer-experience)
+- [Computer Vision Applications: Home, Office and Industry](https://ieeexplore.ieee.org/abstract/document/6059844/)
+- [Application of deep learning to computer vision](https://www.coursera.org/learn/ml-foundations/lecture/xpkT7/application-of-deep-learning-to-computer-vision)
+- [Computer Vision in Robotics and Industrial Applications](https://www.worldscientific.com/worldscibooks/10.1142/9090)
+- [Applications of machine vision](http://www.bmva.org/apps/?id=apps)
+
+
+---------------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
 > Would it be accurate to say that they are 4 fields attempting to solve very similar problems but with different approaches? What exactly do they have in common and where do they differ? If there is some kind of hierarchy between them, what would it be?
