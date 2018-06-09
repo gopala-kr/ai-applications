@@ -58,8 +58,28 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ---------------
 ![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
+-------------------
+### AI Goals/Problems, Techniques and Tools
+
+**Goals:**
+
+- Reasoning, problem solving
+- Knowledge representation (commonsense knowledge)
+- Planning
+- Learning
+- Natural language processing
+- Perception/Vision
+- Motion and manipulation
+- Social intelligence
+- General intelligence
+----------------
+
+**AI Techniques**
+
+![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
 -------------------
+**AI Tools**
 
 Have a quick look at these threads( Day-1)
 
@@ -284,6 +304,8 @@ so, you have data --> build data pipelines
 **Datascience desciplines**
 
 ![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
+
+![C8zj5yEUAAIIkIr](https://pbs.twimg.com/media/C8zj5yEUAAIIkIr.jpg)
 
 ----------------------
 
