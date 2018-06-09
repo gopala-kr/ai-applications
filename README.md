@@ -28,6 +28,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ---------------
 
+Have a quick look at these threads( Day-1)
+
 - [AI tools](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
 - [Outline of artificial intelligence and applications](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
 - [Outline of machine learning algorithms and applications](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
@@ -45,6 +47,12 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
 
 ----------------
+
+**Machine learning/Datamining/Deeplearning**
+
+Quickly skim and scan below articles (Day-2)
+
+
 > Media and blogs
 
 - [Learn to Build a Machine Learning Application from Top Articles of 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
@@ -96,6 +104,8 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 
 
 --------------
+
+
 
 ### Research Areas
 
