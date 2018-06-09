@@ -104,6 +104,7 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [ibm-top-10-machine-learning-use-cases-part1](https://www.kdnuggets.com/2017/08/ibm-top-10-machine-learning-use-cases-part1.html)
 - [ml-Use cases by industry](https://www.datarobot.com/use-cases/)
 - [How to Apply Machine Learning to Business Problems](https://www.techemergence.com/how-to-apply-machine-learning-to-business-problems/)
+- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 --------------
 
@@ -142,6 +143,24 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [Application of deep learning to computer vision](https://www.coursera.org/learn/ml-foundations/lecture/xpkT7/application-of-deep-learning-to-computer-vision)
 - [Computer Vision in Robotics and Industrial Applications](https://www.worldscientific.com/worldscibooks/10.1142/9090)
 - [Applications of machine vision](http://www.bmva.org/apps/?id=apps)
+- [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
+- [Facial Recognition](http://set.org.br/ijbe/ed3/artigo11.pdf)
+- [how-coders-are-fighting-bias-in-facial-recognition-software](https://www.wired.com/story/how-coders-are-fighting-bias-in-facial-recognition-software/)
+- [Face-reading AI will be able to detect your politics and IQ, professor says](https://www.theguardian.com/technology/2017/sep/12/artificial-intelligence-face-recognition-michal-kosinski)
+- [High Time to Regulate Face Recognition A.I.](https://medium.com/intuitionmachine/high-time-to-begin-regulation-of-face-recognition-a-i-f4a92ee40165)
+- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+- [Blocking facial recognition surveillance using AI](https://nakedsecurity.sophos.com/2018/06/06/blocking-facial-recognition-surveillance-using-ai/)
+- [New AI Tech Blinds Computer Facial Recognition Systems](https://www.forbes.com/sites/paulmonckton/2018/01/29/d-id-defeats-facial-recognition/#202ed8dd34b0)
+- [Microsoft: Face verification](https://azure.microsoft.com/en-in/services/cognitive-services/face/)
+- [How is computer vision applied in robotics and the industry?](https://www.eurekalert.org/pub_releases/2014-08/ws-hic081314.php)
+- [important-robotics-links](https://gist.github.com/bikz05/9e3acc5a52c08d89982e)
+- [Camera Calibration](http://legacydirs.umiacs.umd.edu/~ramani/cmsc828d/lecture9.pdf)
+- [CVonline: The Evolving, Distributed, Non-Proprietary, On-Line Compendium of Computer Vision](http://homepages.inf.ed.ac.uk/rbf/CVonline/)
+- [3dvision.princeton](http://3dvision.princeton.edu/)
+- [Machine Vision System](http://www.roboticsbible.com/machine-vision-system.html)
+- [Computer Vision for the Car Industry](https://pdfs.semanticscholar.org/917d/4ee2fc7242a75531bbfadc9c631e9512c3c7.pdf)
+- [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html)
+
 
 
 ---------------------
