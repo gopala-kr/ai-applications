@@ -105,6 +105,9 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [ml-Use cases by industry](https://www.datarobot.com/use-cases/)
 - [How to Apply Machine Learning to Business Problems](https://www.techemergence.com/how-to-apply-machine-learning-to-business-problems/)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [IBM: Object detection with AI vision is getting easier for developers](https://developer.ibm.com/code/2018/02/13/object-detection-ai-vision-getting-easier-developers/)
+- [Implement Object Recognition on Livestream](https://dzone.com/articles/implement-object-recognition-on-live-stream)
+- [Object recognition for free](http://news.mit.edu/2015/visual-scenes-object-recognition-0508)
 
 --------------
 
