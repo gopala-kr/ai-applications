@@ -89,6 +89,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 **NLP Techniques**
 
+**Speech Techniques**
+
 **AI in Robotics - Techniques**
 
 --------------
@@ -343,12 +345,15 @@ so, you have data --> build data pipelines
 | [courses](https://github.com/DataScienceSpecialization/courses)| [data-science-from-scratch](https://github.com/joelgrus/data-science-from-scratch)
 | [spark-notebook](https://github.com/spark-notebook/spark-notebook)
 | [LearnDataScience](https://github.com/nborwankar/LearnDataScience)
-| [https://github.com/jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
+| [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line)
 | [Data-Science-45min-Intros](https://github.com/DrSkippy/Data-Science-45min-Intros)
 | [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
 | [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
 | [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) ||
+
+-------------------------------
+------------------------------
 
 ## Industrial Applications
 
