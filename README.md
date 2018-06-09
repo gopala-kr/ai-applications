@@ -101,7 +101,9 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [Data Mining: Future Trends and Applications](http://www.ijmer.com/papers/Vol2_Issue6/ES2646574663.pdf)
 - [Spatial Information and Data Mining Applications](https://docs.oracle.com/database/121/SPATL/spatial-information-and-data-mining-applications.htm#SPATL791)
 - [arxiv: Data Mining Applications: A comparative Study for Predicting Student's performance](https://arxiv.org/abs/1202.4815)
-
+- [ibm-top-10-machine-learning-use-cases-part1](https://www.kdnuggets.com/2017/08/ibm-top-10-machine-learning-use-cases-part1.html)
+- [ml-Use cases by industry](https://www.datarobot.com/use-cases/)
+- [How to Apply Machine Learning to Business Problems](https://www.techemergence.com/how-to-apply-machine-learning-to-business-problems/)
 
 --------------
 
