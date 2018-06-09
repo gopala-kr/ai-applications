@@ -39,6 +39,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Practical AI](https://github.com/gopala-kr/notebooks)
 - [State-of-the-art-results for AI problems](https://github.com/gopala-kr/SoTA)
 - [kaggle-competitions](https://www.kaggle.com/competitions) , [kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
+- [crowdai-challenges](https://www.crowdai.org/challenges)
 
 ----------------
 
