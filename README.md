@@ -34,8 +34,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Outline of computer vision and applications](https://en.wikipedia.org/wiki/Outline_of_computer_vision)
 - [Outline of natural language processing and tools](https://en.wikipedia.org/wiki/Outline_of_natural_language_processing)
 - [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
-- [appications of ai](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+- [Appications of AI](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
 - [Applications of deep learning](https://en.wikipedia.org/wiki/Deep_learning#Applications)
+- [notebooks](https://github.com/gopala-kr/notebooks)
+
 
 ----------------
 
