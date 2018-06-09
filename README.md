@@ -38,6 +38,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Applications of deep learning](https://en.wikipedia.org/wiki/Deep_learning#Applications)
 - [Practical AI](https://github.com/gopala-kr/notebooks)
 - [State-of-the-art-results for AI problems](https://github.com/gopala-kr/SoTA)
+- [kaggle-competitions](https://www.kaggle.com/competitions) , [kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
 
 ----------------
 
