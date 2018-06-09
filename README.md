@@ -40,6 +40,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [State-of-the-art-results for AI problems](https://github.com/gopala-kr/SoTA)
 - [kaggle-competitions](https://www.kaggle.com/competitions) , [kaggle-solutions](https://github.com/gopala-kr/kaggle-solutions)
 - [crowdai-challenges](https://www.crowdai.org/challenges)
+- [numer.ai/rounds](https://numer.ai/rounds)
+- [analyticsvidhya-hackathons](https://datahack.analyticsvidhya.com/contest/all/)
 
 ----------------
 
