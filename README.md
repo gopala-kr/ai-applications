@@ -45,7 +45,25 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
 
 ----------------
+> Media and blogs
 
+- [Learn to Build a Machine Learning Application from Top Articles of 2017](https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc)
+- [What are some interesting possible applications of machine learning?](https://www.quora.com/What-are-some-interesting-possible-applications-of-machine-learning)
+- [Top 9 Machine Learning Applications in Real World](https://data-flair.training/blogs/machine-learning-applications/)
+- [9 Applications of Machine Learning from Day-to-Day Life](https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0)
+- [9 Complex Machine Learning Applications That Even A Beginner Can Build Today](https://analyticsindiamag.com/machine-learning-applications-beginners/)
+- [10 Companies Using Machine Learning in Cool Ways](https://www.wordstream.com/blog/ws/2017/07/28/machine-learning-applications)
+- [Top 10 Industrial Applications of Machine Learning](https://www.dezyre.com/article/top-10-industrial-applications-of-machine-learning/364)
+- [10 Real-World Examples of Machine Learning and AI [2018]](https://www.redpixie.com/blog/examples-of-machine-learning)
+- [The Top 10 AI And Machine Learning Use Cases Everyone Should Know About](https://www.forbes.com/sites/bernardmarr/2016/09/30/what-are-the-top-10-use-cases-for-machine-learning-and-ai/#4ab5dd4294c9)
+- [Machine Learning Algorithms for Business Applications – Complete Guide](https://www.techemergence.com/machine-learning-algorithms-for-business-applications-complete-guide/)
+- [machine-learning-applications-how-it-works-who-uses-it](https://www.outsource2india.com/software/articles/machine-learning-applications-how-it-works-who-uses-it.asp)
+- [6 Incredible Machine Learning Applications that will Blow Your Mind](https://www.simplilearn.com/incredible-machine-learning-applications-article)
+- [Best Machine Learning Applications: Ideas for Mobile Apps](https://codetiburon.com/best-machine-learning-applications-mobile-apps/)
+- [SAS- Machine Learning What it is and why it matters](https://www.sas.com/en_us/insights/analytics/machine-learning.html)
+
+
+--------------
 
 ### Research Areas
 
