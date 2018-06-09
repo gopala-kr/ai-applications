@@ -78,6 +78,30 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
+
+**DataMining Techniques**
+
+**MachineLearning Techniques**
+
+**DeepLearning Techniques**
+
+**CV Techniques**
+
+**NLP Techniques**
+
+**AI in Robotics - Techniques**
+
+--------------
+
+**Research Areas**
+
+- Computer vision, Face recognition, Virtual reality and Image processing
+- Natural language processing, Speech recognition, Translation and Chatterbots
+- OCR and Handwriting recognition
+- Game AI, game bots and Strategic planning
+- Robotics
+- Knowledge representation
+
 -------------------
 **AI Tools**
 
@@ -160,21 +184,6 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 
---------------
-
-### Research Areas
-
-#### Computer vision, Face recognition, Virtual reality and Image processing
-
-#### Natural language processing, Speech recognition, Translation and Chatterbots
-
-#### OCR and Handwriting recognition
-
-#### Game AI, game bots and Strategic planning
-
-#### Robotics
-
-#### Knowledge representation
 
 ------------------
 **Computer Vision - Applications**
