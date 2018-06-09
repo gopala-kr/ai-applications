@@ -42,6 +42,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [crowdai-challenges](https://www.crowdai.org/challenges)
 - [numer.ai/rounds](https://numer.ai/rounds)
 - [analyticsvidhya-hackathons](https://datahack.analyticsvidhya.com/contest/all/)
+- [ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
 
 ----------------
 
