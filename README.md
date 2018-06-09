@@ -196,20 +196,30 @@ Networks](https://medium.com/gifs-ai/interactive-segmentation-with-convolutional
 -------------------
 **NLP**
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
+- [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
+- [10 Applications of Artificial Neural Networks in Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a)
+- [Natural language processing applications](https://www.expertsystem.com/natural-language-processing-applications/)
+- [7 Applications of Deep Learning for Natural Language Processing](https://machinelearningmastery.com/applications-of-deep-learning-for-natural-language-processing/)
+- [Applications of Natural Language Processing](https://www.lifewire.com/applications-of-natural-language-processing-technology-2495544)
+- [Natural Language Processing – Current Applications and Future Possibilities](https://www.techemergence.com/nlp-current-applications-and-future-possibilities/)
+- [Natural Language Processing – Business Applications](https://www.techemergence.com/natural-language-processing-business-applications/)
+- [4 business applications for natural language processing](https://www.cio.com/article/3241814/artificial-intelligence/4-business-applications-for-natural-language-processing.html)
+- [4 Applications Of Natural Language Processing](https://www.twinword.com/blog/some-common-applications-of-natural-language-processing/)
+- [5 Applications of Natural Language Processing for Businesses in 2018](https://upgrad.com/blog/5-applications-of-natural-language-processing-for-businesses-in-2018/)
+- [nlp-application](http://www.doc.ic.ac.uk/~nd/surprise_97/journal/vol1/hks/)
+- [Introduction to Natural Language Processing (NLP)](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
+- [Value-of-NLP-applications-varies-for-different-AI-uses](https://searchenterpriseai.techtarget.com/feature/Value-of-NLP-applications-varies-for-different-AI-uses)
+- [A few applications of natural
+language processing…](http://www.ai.mit.edu/courses/6.034b/language.pdf)
+- [Six Natural Language Processing Algorithms for Web Developers](https://blog.algorithmia.com/natural-language-processing-algorithms-web-developers/)
+- [Google pub: NaturalLanguageProcessing](https://ai.google/research/pubs?area=NaturalLanguageProcessing)
+- [What is the Role of Natural Language Processing in Healthcare?](https://healthitanalytics.com/features/what-is-the-role-of-natural-language-processing-in-healthcare)
+- [Commercial Applications of Natural Language Processing](https://www.semanticscholar.org/paper/Commercial-Applications-of-Natural-Language-Church-Rau/2583d545ca96c0df482aa45f3e0f5adc437f3a2b)
+- [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563)
+- [Natural Language Processing Empowered Mobile Computing](https://www.hindawi.com/journals/wcmc/si/564970/cfp/)
+- [Natural Language Processing (NLP)
+Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
+- [Models of natural language understanding.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC40721/)
 
 ---------------------
 
