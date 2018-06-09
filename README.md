@@ -176,7 +176,11 @@ Retrieva](https://www.scss.tcd.ie/Rozenn.Dahyot/Workshop/cbir_bayesian.pdf)
 - [AI-Based CT Image Retrieval--Retrieving Similar Cases with an 85% Accuracy Rate in One-Sixth Diagnostic Time](http://journal.jp.fujitsu.com/en/2017/11/24/01/)
 - [How Artificial Intelligence Has Changed Image Recognition Forever](https://www.flatworldsolutions.com/digital-photography/articles/artificial-intelligence-changed-image-recognition.php)
 - [OCR Applications](http://www.cvisiontech.com/reference/general-information/ocr-applications.html)
-
+- [An Overview and Applications of Optical Character Recognition](https://www.researchgate.net/publication/267465115_An_Overview_and_Applications_of_Optical_Character_Recognition)
+- [Top 5 Optical Character Recognition (OCR) Apps And Software](https://thecodpast.org/2015/09/top-5-ocr-apps/)
+- [What are the possible applications of optical character recognition?](https://www.quora.com/What-are-the-possible-applications-of-optical-character-recognition)
+- [Application of OCR systems to processing and digitization
+of paper documents](http://wbieniec.kis.p.lodz.pl/research/files/10_isim_ocr.pdf)
 
 ---------------------
 
