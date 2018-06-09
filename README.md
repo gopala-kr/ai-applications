@@ -76,11 +76,24 @@ With massive amounts of computational power, machines can now recognize objects 
 big data analytics](http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Big-Data-and-Deep-Learning.pdf)
 - [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
 - [DL4J: Deep Learning Use Cases](https://deeplearning4j.org/use_cases)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [14 useful applications of data mining](http://bigdata-madesimple.com/14-useful-applications-of-data-mining/)
+- [Data Mining - Applications & Trends](https://www.tutorialspoint.com/data_mining/dm_applications_trends.htm)
+- [Data Mining Applications](https://www.expertsystem.com/5-data-mining-applications/)
+- [5 Data mining applications](https://www.expertsystem.com/5-data-mining-applications/)
+- [Data Mining Applications and Use Cases](https://data-flair.training/blogs/data-mining-applications/)
+- [application-of-data-mining](https://www.slideshare.net/SHIVANISONI11/application-of-data-mining)
+- [Concept and Applications
+of Data Mining](https://pdfs.semanticscholar.org/presentation/ab07/9bd803638c63ed33ae9e37495d8aed184ac0.pdf)
+- [Rise of Data Mining: Current and Future Application
+Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep1&type=pdf)
+- [Data mining applications in public organizations](https://www.researchgate.net/publication/4031742_Data_mining_applications_in_public_organizations)
+- [Examples of Data Mining Applications](https://newonlinecourses.science.psu.edu/stat857/node/143/)
+- [Data Mining Applications with R](https://www.sciencedirect.com/science/book/9780124115118)
+- [Data mining applications in engineering design, manufacturing and logistics](https://www.tandfonline.com/doi/full/10.1080/00207540600681072?src=recsys&)
+- [Data Mining: Future Trends and Applications](http://www.ijmer.com/papers/Vol2_Issue6/ES2646574663.pdf)
+- [Spatial Information and Data Mining Applications](https://docs.oracle.com/database/121/SPATL/spatial-information-and-data-mining-applications.htm#SPATL791)
+- [arxiv: Data Mining Applications: A comparative Study for Predicting Student's performance](https://arxiv.org/abs/1202.4815)
+
 
 --------------
 
