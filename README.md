@@ -61,7 +61,26 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [6 Incredible Machine Learning Applications that will Blow Your Mind](https://www.simplilearn.com/incredible-machine-learning-applications-article)
 - [Best Machine Learning Applications: Ideas for Mobile Apps](https://codetiburon.com/best-machine-learning-applications-mobile-apps/)
 - [SAS- Machine Learning What it is and why it matters](https://www.sas.com/en_us/insights/analytics/machine-learning.html)
-
+- [Top 15 Deep Learning applications that will rule the world in 2018 and beyond](https://medium.com/@vratulmittal/top-15-deep-learning-applications-that-will-rule-the-world-in-2018-and-beyond-7c6130c43b01)
+- [8 Inspirational Applications of Deep Learning](https://machinelearningmastery.com/inspirational-applications-deep-learning/)
+- [deep-learning-most-amazing-30-applications](http://www.yaronhadad.com/deep-learning-most-amazing-applications/)
+- [Quora: What are some applications of deep learning?](https://www.quora.com/What-are-some-applications-of-deep-learning)
+- [6 Deep Learning Applications a beginner can build in minutes (using Python)](https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/)
+- [Twelve Hot Deep Learning Applications Featured at Deep Learning World](https://www.predictiveanalyticsworld.com/patimes/twelve-hot-deep-learning-applications-featured-at-deep-learning-world/9454/)
+- [Applications of Deep Learning](https://caffe2.ai/docs/applications-of-deep-learning.html)
+- [dl-applications-book](http://www.deeplearningbook.org/contents/applications.html)
+- [MIT-review: Deep Learning
+With massive amounts of computational power, machines can now recognize objects and translate speech in real time. Artificial intelligence is finally getting smart.](https://www.technologyreview.com/s/513696/deep-learning/)
+- [Mathworks: Why Deep Learning Matters](https://in.mathworks.com/discovery/deep-learning.html)
+- [Deep learning applications and challenges in
+big data analytics](http://www.deeplearningitalia.com/wp-content/uploads/2017/12/Dropbox_Big-Data-and-Deep-Learning.pdf)
+- [Notes from the AI frontier: Applications and value of deep learning](https://www.mckinsey.com/featured-insights/artificial-intelligence/notes-from-the-ai-frontier-applications-and-value-of-deep-learning)
+- [DL4J: Deep Learning Use Cases](https://deeplearning4j.org/use_cases)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 --------------
 
