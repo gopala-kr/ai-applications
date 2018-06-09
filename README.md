@@ -160,7 +160,22 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 - [Machine Vision System](http://www.roboticsbible.com/machine-vision-system.html)
 - [Computer Vision for the Car Industry](https://pdfs.semanticscholar.org/917d/4ee2fc7242a75531bbfadc9c631e9512c3c7.pdf)
 - [Annotated Computer Vision Bibliography](http://iris.usc.edu/Vision-Notes/bibliography/contents.html)
-
+- [Application of Artificial Intelligence Methods to Content-Based Image Retrieval](https://www.researchgate.net/publication/288189200_Application_of_Artificial_Intelligence_Methods_to_Content-Based_Image_Retrieval)
+- [Deep Learning for Content-Based Image Retrieval:
+A Comprehensive Study](http://www.research.larc.smu.edu.sg/mlg/papers/MM14-fp336-hoi.pdf)
+- [product-ai](https://www.productai.com/home)
+- [Google AI: Large-Scale Image Retrieval with Attentive Deep Local Features](https://ai.google/research/pubs/pub45771)
+- [Intelligent Image Retrieval Techniques: A Survey](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-64232014000100009)
+- [A Knowledge-based Image Retrieval System Integrating Semantic and Visual Features](https://www.sciencedirect.com/science/article/pii/S1877050916319986)
+- [Towards intelligent image retrieval](http://fei.edu.br/~psergio/material-download/VisaoComputacional/sdarticle.pdf)
+- [Content Based Image Retrieval (CBIR) in
+Remote Clinical Diagnosis and
+Healthcare ](https://arxiv.org/ftp/arxiv/papers/1610/1610.02902.pdf)
+- [Bayesian Approaches to Content-based Image
+Retrieva](https://www.scss.tcd.ie/Rozenn.Dahyot/Workshop/cbir_bayesian.pdf)
+- [AI-Based CT Image Retrieval--Retrieving Similar Cases with an 85% Accuracy Rate in One-Sixth Diagnostic Time](http://journal.jp.fujitsu.com/en/2017/11/24/01/)
+- [How Artificial Intelligence Has Changed Image Recognition Forever](https://www.flatworldsolutions.com/digital-photography/articles/artificial-intelligence-changed-image-recognition.php)
+- [OCR Applications](http://www.cvisiontech.com/reference/general-information/ocr-applications.html)
 
 
 ---------------------
