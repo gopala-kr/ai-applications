@@ -50,7 +50,7 @@ Have a quick look at these threads( Day-1)
 
 **Machine learning/Datamining/Deeplearning**
 
-Quickly skim and scan below articles (Day-2)
+Quickly scan and skim below articles (Day-2)
 
 
 > Media and blogs
