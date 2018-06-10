@@ -364,7 +364,7 @@ language processing…](http://www.ai.mit.edu/courses/6.034b/language.pdf)
 Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 - [Models of natural language understanding.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC40721/)
 
-**Speech applications**
+**Speech Applications**
 
 ![t9mCYg2WMm8Z6ckCirO6pQ](https://cdn-images-1.medium.com/max/800/1*t9mCYg2WMm8Z6ckCirO6pQ.png)
 
@@ -381,6 +381,23 @@ Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 - [AUTOMATIC SPEECH RECOGNITION AND ITS
 APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a01f142124744c6ae425f8a23011366ec3ee.pdf)
 - [10 best practices for voice-based applications](https://www.techrepublic.com/blog/10-things/10-best-practices-for-voice-based-applications/)
+
+-----------------------
+
+**AI in Robotics -Applictions**
+
+- [Robotic Application Research: Past, Present, & Future](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Industry-Insights/Robotic-Application-Research-Past-Present-Future/content_id/1609)
+- [Fields of Application](https://robotik.dfki-bremen.de/en/research/fields-of-application.html)
+- [Robots in Retail – Examples of Real Industry Applications](https://www.techemergence.com/robots-in-retail-examples/)
+- [Machine Learning in Robotics – 5 Modern Applications](https://www.techemergence.com/machine-learning-in-robotics/)
+- [Top 10 Robotic Applications in the Agricultural Industry](https://blog.robotiq.com/top-10-robotic-applications-in-the-agricultural-industry)
+- [Top 6 Robotic Applications in Food Manufacturing](https://blog.robotiq.com/top-6-robotic-applications-in-food-manufacturing)
+- [Applications of Robotics in Manufacturing Sector](https://www.bpautomation.com/applications-of-robotics-in-manufacturing-sector/)
+- [5 Manufacturing Applications for Robotics in 2018](https://www.manufacturing.net/article/2018/02/5-manufacturing-applications-robotics-2018)
+- [Introduction to applications in  Robotics](https://www.iitk.ac.in/tkic/workshop/Introduction%20to%20Robotics/ppt/TAD.pdf)
+- [Development for Industrial Robotics Applications](https://www.ihi.co.jp/var/ezwebin_site/storage/original/application/d3c188f94618017945a63d7d9d6bb199.pdf)
+- [Top 6 Robotic Applications in Medicine](https://www.asme.org/engineering-topics/articles/bioengineering/top-6-robotic-applications-in-medicine)
+
 
 ---------------------
 
