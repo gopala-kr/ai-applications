@@ -93,16 +93,47 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
+-------------
 
 
-### MachineLearning Techniques
+
+### ML/DL Techniques
 
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
-
-### DeepLearning Techniques
-
 - [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches ](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
+- [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/abs/1803.04311v1)
+- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883v2)
+- [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/1801.00553v3)
+- [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://arxiv.org/abs/1801.06889v3)
+- [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866v2)
+- [A Comprehensive Survey of Deep Learning in Remote Sensing: Theories, Tools and Challenges for the Community](https://arxiv.org/abs/1709.00308v2)
+- [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/abs/1709.01620v1)
+- [Multi-View Representation Learning: A Survey from Shallow Methods to Deep Methods](https://arxiv.org/abs/1610.01206v4)
+- [A Survey on Deep Learning in Medical Image Analysis](https://arxiv.org/abs/1702.05747v2)
+- [Symbolic, Distributed and Distributional Representations for Natural Language Processing in the Era of Deep Learning: a Survey](https://arxiv.org/abs/1702.00764v1)
+- [Towards Bayesian Deep Learning: A Survey](https://arxiv.org/abs/1604.01662v2)
+- [Deep Learning for IoT Big Data and Streaming Analytics: A Survey](https://arxiv.org/abs/1712.04301v2)
+- [Feature-Based Aggregation and Deep Reinforcement Learning: A Survey and Some New Implementations](https://arxiv.org/abs/1804.04577v2)
+- [A Survey on Deep Learning Toolkits and Libraries for Intelligent User Interfaces](https://arxiv.org/abs/1803.04818v2)
+- [Visual Interpretability for Deep Learning: a Survey](https://arxiv.org/abs/1802.00614v2)
+- [Deep Learning for Sensor-based Activity Recognition: A Survey](https://arxiv.org/abs/1707.03502v2)
+- [Deep Learning Algorithms with Applications to Video Analytics for A Smart City: A Survey](https://arxiv.org/abs/1512.03131v1)
+- [A Survey: Time Travel in Deep Learning Space: An Introduction to Deep Learning Models and How Deep Learning Models Evolved from the Initial Ideas](https://arxiv.org/abs/1510.04781v2)
+- [Deep Face Recognition: A Survey](https://arxiv.org/abs/1804.06655v3)
+- [Deep Visual Domain Adaptation: A Survey](https://arxiv.org/abs/1802.03601v4)
+- [Deep Facial Expression Recognition: A Survey](https://arxiv.org/abs/1804.08348v1)
+- [A Non-Technical Survey on Deep Convolutional Neural Network Architectures](https://arxiv.org/abs/1803.02129v1)
+- [Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis](https://arxiv.org/abs/1802.09941v1)
+- [Applications of Deep Learning and Reinforcement Learning to Biological Data](https://arxiv.org/abs/1711.03985v2)
+-  [Deep Learning in Neural Networks: An Overview](https://arxiv.org/abs/1404.7828v4)
+- [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://arxiv.org/abs/1703.09039v2)
+- [How Developers Iterate on Machine Learning Workflows -- A Survey of the Applied Machine Learning Literature](https://arxiv.org/abs/1803.10311v2)
+- [Universal Reinforcement Learning Algorithms: Survey and Experiments](https://arxiv.org/abs/1705.10557v1)
+- [Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436v1)
+- [Machine Learning and Cloud Computing: Survey of Distributed and SaaS Solutions](https://arxiv.org/abs/1603.08767v1)
+- [LSTM Benchmarks for Deep Learning Frameworks](https://arxiv.org/abs/1806.01818v1)
+
 
 ----------------
 
@@ -142,175 +173,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Text Classification](#text-classification)
 
 
-#### Text Embeddings
-
-[Back to Top](#contents)
-
-Text embeddings allow deep learning to be effective on smaller datasets. These are often first inputs to a deep learning archiectures and most popular way of transfer learning in NLP. Embeddings are simply vectors or a more generically, real valued representations of strings. Word embeddings are considered a great starting point for most deep NLP tasks. 
-
-The most popular names in word embeddings are word2vec by Google (Mikolov) and GloVe by Stanford (Pennington, Socher and Manning). fastText seems to be a fairly popular for multi-lingual sub-word embeddings. 
-
-
-#### word2vec and GloVe
-**Don't use word2vec, don't use GloVe**. Use fastText vectors, which are much better from the same authors. word2vec was introduced by [T. Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. when he was with Google. 
-Performs well on word similarity and analogy tasks. | [Back to Top](#contents)
-
-* [Word2Vec Official Implementation](https://code.google.com/p/word2vec/)
-* [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-Chris Olah (2014), Beginner friendly blog explaining word2vec
-* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)
-* [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf), [Word2Vec tutorial](http://tensorflow.org/tutorials/word2vec/index.html) in [TensorFlow](http://tensorflow.org/), [gensim's Review of word2vec](http://rare-technologies.com/making-sense-of-word2vec/)
-* [Word2Vec Resources on Github](https://github.com/clulab/nlp-reading-group/wiki/Word2Vec-Resources)
-
-GloVe was introduced by Pennington, Socher, Manning from Stanford in 2014 as a statistical approximation to word embeddings. The word vectors are created by matrix factorizations of word-word co-occurence matrices here  | [Back to Top](#contents)
-
-* [GloVe: Global vectors for word representation](http://nlp.stanford.edu/projects/glove/glove.pdf). Creates word vectors and relates word2vec to matrix factorizations 
-* [Glove source code and training data](http://nlp.stanford.edu/projects/glove/)
-
-#### fastText
-fastText by Mikolov (from Facebook) supports sub-word embeddings in more than 200 languages. This allows it to work with out of vocabulary words as well. It captures language morphology well. It also supports a supervised classification mechanism | [Back to Top](#contents)
-
-  * [fastText on Github](https://github.com/facebookresearch/fastText) - for efficient learning of word representations and sentence classification
-  * [Pre-trained Vectors](https://fasttext.cc/docs/en/pretrained-vectors.html) in several languages
-  * [arXiv: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606), [arXiv: Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759), and [arXiv: FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651) were released as part of this project
-  * [Unofficial Python Wrapper for fastText on Github](https://github.com/vrasneur/pyfasttext/)
-
-#### Other Text Embeddings
-
-[Back to Top](#contents)
-
-* [Pre-trained word embeddings for WSJ corpus](https://github.com/ai-ku/wvec) by Koc AI-Lab
-* [HLBL language model](http://metaoptimize.com/projects/wordreprs/) by Turian
-* [Real-valued vector "embeddings"](http://www.cis.upenn.edu/~ungar/eigenwords/) by Dhillon
-* [Improving Word Representations Via Global Context And Multiple Word Prototypes](http://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes) by Huang
-* [Dependency based word embeddings](https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/)
-* [sense2vec](http://arxiv.org/abs/1511.06388) - on word sense disambiguation
-* [Infinite Dimensional Word Embeddings](http://arxiv.org/abs/1511.05392) - new
-* [Skip Thought Vectors](http://arxiv.org/abs/1506.06726) - word representation method
-* [Adaptive skip-gram](http://arxiv.org/abs/1502.07257) - similar approach, with adaptive properties
-* [Sequence to Sequence Learning](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) - word vectors for machine translation
-* [Improving distributional similarity with lessons learned from word embeddings](https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/viewFile/570/124)
-* [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) - [PyTorch](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
-
-
-#### Thought Vectors
-Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis | [Back to Top](#contents)
-
-* [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)
-Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse tree.
-* [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
-[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.  Doesn't use a parse tree. Implemented in [gensim](https://github.com/piskvorky/gensim/).  See [doc2vec tutorial](http://rare-technologies.com/doc2vec-tutorial/)
-* [Deep Recursive Neural Networks for Compositionality in Language](http://www.cs.cornell.edu/~oirsoy/files/nips14drsv.pdf)
-Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
-* [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)
-Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
-* [Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)
-Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
-timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
-
-#### Machine Translation
-
-[Back to Top](#contents)
-
-* Google Research's [blog post](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) for neural machine translation using encoder-decoder architecture with seq2seq models. [Tensorflow Code here](https://github.com/tensorflow/nmt)
-  * [seq2seq tensorflow tutorial](http://tensorflow.org/tutorials/seq2seq/index.html)
-* Prof Graham Neubig's Neural Machine Translation [tutorial in Perl](https://github.com/neubig/nmt-tips)
-* [arXiv: Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf) Sutskever, Vinyals, Le 2014 proved the effectiivenss of **LSTM** for Machine Translation. Check their ([nips presentation](http://research.microsoft.com/apps/video/?id=239083))
-* [arXiv: Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)
-Bahdanau, Cho 2014 introduced the **attention mechanism** in NLP
-* [arXiv: A Convolutional encoder model for neural machine translation](https://arxiv.org/pdf/1611.02344.pdf) by Gehring et al, 2017. The paper is from Facebook AI research and its code is available [here](https://github.com/facebookresearch/fairseq)
-* [Convolutional Sequence to Sequence learning](https://arxiv.org/pdf/1705.03122.pdf) by Gehring et al, 2017. The paper is from Facebook AI research and its code is available [here](https://github.com/facebookresearch/fairseq)
-* [Convolutional over Recurrent Encoder for neural machine translation](https://ufal.mff.cuni.cz/pbml/108/art-dakwale-monz.pdf) by Dakwale and Monz from University of Amsterdam compare the CNNs with a recurrent neural network with additional convolutonal layers
-* Open Source code: [OpenNMT](http://opennmt.net/) is an open source initiative for neural machine translation and neural sequence modeling. [PyTorch](https://github.com/OpenNMT/OpenNMT-py), [Tensorflow](https://github.com/OpenNMT/OpenNMT-tf) and the original [LuaTorch](https://github.com/OpenNMT/OpenNMT) implementation 
-
-#### Dialogs and Conversational 
-
-[Back to Top](#contents)
-* [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)
-Sordoni 2015. Generates responses to tweets. 
-  * Uses [Recurrent Neural Network Language Model (RLM) architecture of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf). [Code of RNNLM Toolkit](http://www.fit.vutbr.cz/~imikolov/rnnlm/index.html)
-  * RNNLM Tutorial: [Implementing RNN Language Models by Denny Britz](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
-* [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)
-Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.
-* [arXiv: A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf) Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses
-
-#### Memory and Attention Models 
-
-[Back to Top](#contents)
-Some are courtesy [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
-
-* Interactive tutorial on [Augmented RNNs](http://www.distill.pub/2016/augmented-rnns/) including Attention and Memory networks
-* [Annotated Transformer](http://nlp.seas.harvard.edu//2018/04/03/attention.html) from the [Attention is All You Need](https://arxiv.org/abs/1706.03762) work explains Tranformer implementation in line by line detail. Both links highly recommended.  
-* [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf) Weston et. al 2014
-* [End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) Sukhbaatar et. al 2015
-Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  Attempts to solve task of reason attention and memory
-* [Reasoning, Attention and Memory RAM workshop at NIPS 2015. slides included](http://www.thespermwhale.com/jaseweston/ram/)
-* [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf), Graves et al. 2014
-* [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf), Joulin, Mikolov 2015 
-* [Stack RNN source code](https://github.com/facebook/Stack-RNN) and [blog post](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
-
-
-#### Natural Language Understanding
-
-[Back to Top](#contents)
-
-* [Neural autocoder for paragraphs and documents](http://arxiv.org/abs/1506.01057) - LSTM representation
-* [LSTM over tree structures](http://arxiv.org/abs/1503.04881)
-* [Low-Dimensional Embeddings of Logic](http://www.aclweb.org/anthology/W/W14/W14-2409.pdf)
-* Tutorial on Markov Logic Networks ([based on this paper](http://homes.cs.washington.edu/~pedrod/papers/mlj05.pdf))
-* [Distant Supervision for Cancer Pathway Extraction From Text](http://research.microsoft.com/en-us/um/people/hoifung/papers/psb15.pdf)
-* [A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-* [Retrofitting word vectors to semantic lexicons](http://www.cs.cmu.edu/~mfaruqui/papers/naacl15-retrofitting.pdf)
-* [Unsupervised Learning of the Morphology of a Natural Language](http://www.mitpressjournals.org/doi/pdfplus/10.1162/089120101750300490)
-* [Computational Grounded Cognition: a new alliance between grounded cognition and computational modelling](http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00612/full)
-* [Learning the Structure of Biomedical Relation Extractions](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004216)
-* [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) by T. Mikolov, 2012. * [Slides on the same here](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
-
-#### Named Entity Recognition
-
-[Back to Top](#contents)
-
-* [A survey of named entity recognition and classification](http://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
-* [Benchmarking the extraction and disambiguation of named entities on the semantic web](http://www.lrec-conf.org/proceedings/lrec2014/pdf/176_Paper.pdf)
-* [Knowledge base population: Successful approaches and challenges](http://www.aclweb.org/anthology/P11-1115)
-* [SpeedRead: A fast named entity recognition Pipeline](http://arxiv.org/pdf/1301.2857.pdf)
-
-#### Question Answering and Knowledge Extraction
-
-[Back to Top](#contents)
-
-* [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/pdf/1507.03045v1.pdf)
-* [Template-Based Information Extraction without the Templates](http://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
-* [Relation extraction with matrix factorization and universal schemas](http://www.anthology.aclweb.org/N/N13/N13-1008.pdf)
-* [Privee: An Architecture for Automatically Analyzing Web Privacy Policies](http://www.sebastianzimmeck.de/zimmeckAndBellovin2014Privee.pdf)
-* [Teaching Machines to Read and Comprehend](http://arxiv.org/abs/1506.03340) - DeepMind paper
-* [DrQA: Open Domain Question Answering](https://github.com/facebookresearch/DrQA) by facebook on Wikipedia data
-* [Relation Extraction with Matrix Factorization and Universal Schemas](http://www.riedelcastro.org//publications/papers/riedel13relation.pdf)
-* [Towards a Formal Distributional Semantics: Simulating Logical Calculi with Tensors](http://www.aclweb.org/anthology/S13-1001)
-* [Presentation slides for MLN tutorial](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/mln-summary-20150918.ppt)
-* [Presentation slides for QA applications of MLNs](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/Markov%20Logic%20Networks%20for%20Natural%20Language%20Question%20Answering.pdf)
-* [Presentation slides](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/poon-paper.pdf)
-
-#### Text Summarization
-
-[Back to Top](#contents)
-
-* [awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - curated list of resources in text summarization.
-* [Example blogpost](https://medium.com/@Currie32/text-summarization-with-amazon-reviews-41801c2210b) uses Amazon food reviews for text summarization. Code on [Github here](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews).
-* [TextRank- bringing order into text](http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) by Mihalcea and Tarau. Code on [Github here](https://github.com/ceteri/pytextrank)
-* [Modelling compressions with Discourse constraints](http://jamesclarke.net/media/papers/clarke-lapata-emnlp07.pdf) by Clarke and Zapata provides a discourse informed model for summarization and subtitle generation.
-* [Deep Recurrent Generative Decoder model for Abstractive Text Summarization](https://arxiv.org/pdf/1708.00625v1.pdf) by Li et al, 2017 uses a sequence-to-sequence oriented encoder-decoder model equipped with a deep recurrent generative decoder.
-* [A Semantic Relevance Based Neural Network for Text Summarization and Text Simplification](https://arxiv.org/pdf/1710.02318v1.pdf) by Ma and Sun, 2017 uses a gated attention enocder-decoder for text summarization.
-* [TextSum](https://github.com/tensorflow/models/tree/master/research/textsum) implementation from Tensorflow
-
-#### Text Classification
-
-[Back to Top](#contents)
-* [Brightmart/text_classification](https://github.com/brightmart/text_classification) has a list of all text classification models with their respective scores, trainings,explanations and their Python implementations.
-* [Facebook's fasttext](https://github.com/facebookresearch/fastText) is a library for text embeddings and text classification
-* [Convolutional Neural Networks for Sentence Classfication](https://arxiv.org/pdf/1408.5882v2.pdf) by Kim Yoon is now regarded as the standard baseline for text classification architecture. 
-* [Using a CNN for text classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) by Denny Britz uses the same dataset as Kim Yoon's paper(mentioned above). The code implementation can be found [here](https://github.com/dennybritz/cnn-text-classification-tf).
-* [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626v3.pdf) by Zhang et al uses CNN and compares them with the traditional text classification models. Its Lua implementation can be found [here](https://github.com/zhangxiangxiao/Crepe).
 
 ------------------
 ### Speech Techniques
@@ -331,7 +193,12 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 
 ### AI in Robotics - Techniques
 
-
+- [A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation](https://arxiv.org/abs/1612.07139v4)
+- [A Survey on Deep Learning Methods for Robot Vision](https://arxiv.org/abs/1803.10862v1)
+- [A Survey of Deep Learning Techniques for Mobile Robot Applications](https://arxiv.org/abs/1803.07608v1)
+- [RGB-D-based Human Motion Recognition with Deep Learning: A Survey](https://arxiv.org/abs/1711.08362v2)
+- [Deep Reinforcement Learning for Robotic Manipulation-The state of the art](https://arxiv.org/abs/1701.08878v1)
+- [Towards Lifelong Self-Supervision: A Deep Learning Direction for Robotics](https://arxiv.org/abs/1611.00201v1)
 
 --------------
 
