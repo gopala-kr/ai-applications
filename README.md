@@ -369,6 +369,77 @@ so, you have data --> build data pipelines
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
 | [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) ||
 
+-----------------
+------------------------
+
+
+Movies:
+
+|| [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
+| [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
+| [Automata](http://www.imdb.com/title/tt1971325/)
+| [Blade Runner](http://www.imdb.com/title/tt0083658/)
+| [Chappie](http://www.imdb.com/title/tt1823672/)
+| [Ex Machina](http://www.imdb.com/title/tt0470752/)
+| [Her](http://www.imdb.com/title/tt1798709/)
+| [I, Robot](http://www.imdb.com/title/tt0343818/)
+| [Prometheus](http://www.imdb.com/title/tt1446714/)
+| [The Terminator series](http://www.imdb.com/title/tt0088247/)
+| [Transcendence](http://www.imdb.com/title/tt2209764/)
+| [The Matrix Trilogy](https://www.imdb.com/list/ls061622168/)
+| [WarGames](https://www.imdb.com/title/tt0086567/)
+| [Chappie (2015)](https://www.imdb.com/title/tt1823672/)
+| [Metropolis (1927)](https://www.imdb.com/title/tt0017136/)
+| [Star Wars series](https://www.imdb.com/title/tt0076759/)
+| [The Hitchhiker's Guide to the Galaxy (2005)](https://www.imdb.com/title/tt0371724/)
+| [Avengers series](https://www.imdb.com/title/tt2395427/)
+| [Automata (2014)](https://www.imdb.com/title/tt1971325/)
+| [Stealth (2005)](https://www.imdb.com/title/tt0382992/)
+| [Enthiran (2010)](https://www.imdb.com/title/tt1305797/)
+| [TRON: Legacy (2010)](https://www.imdb.com/title/tt1104001/)
+| [The Creation of the Humanoids (1962)](https://www.imdb.com/title/tt0055872/) ||
+
+TV Shows:
+
+|| [Black Mirror ](https://www.imdb.com/title/tt2085059/)
+| [Intelligence ](https://www.imdb.com/title/tt2693776/)
+| [Minority Report](https://www.imdb.com/title/tt4450826/)
+| [Almost Human](https://www.imdb.com/title/tt2654580/)
+| [Battlestar Galactica ](https://www.imdb.com/title/tt0407362/)
+| [Caprica ](https://www.imdb.com/title/tt0799862/)
+| [Numb3rs ](https://www.imdb.com/title/tt0433309/?ref_=ttfc_fc_tt)
+| [Humans](https://www.imdb.com/title/tt4122068/)
+| [Person of Interest ](https://www.imdb.com/title/tt1839578/)
+| [Small Wonder ](https://www.imdb.com/title/tt0088610/)
+| [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+| [Total Recall 2070 ](https://www.imdb.com/title/tt0159920/)
+| [Westworld](https://www.imdb.com/title/tt0475784/)
+| [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/) ||
+
+Documentaries:
+
+| [Lo and Behold, Reveries of the Connected World (2016)](https://www.imdb.com/title/tt5275828/)
+| [AlphaGo](https://www.alphagomovie.com/)
+| [Revolutionaries: Artificial Intelligence](https://www.bbc.co.uk/programmes/p034t02l)
+| [Road to AI](https://www.youtube.com/watch?v=_sNNSEP-P7A)
+| [Artificial Intelligence and Robotics](https://www.youtube.com/watch?v=t6iJrNE7nwQ)
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+| []()
+
+
+
+
+
+
+
 -------------------------------
 ------------------------------
 
