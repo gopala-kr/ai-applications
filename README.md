@@ -144,16 +144,16 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ---------------
 ### NLP 
 
-- [Text Embeddings](#text-embeddings)
-- [Thought Vectors](#thought-vectors)
-- [Machine Translation](#machine-translation)
-- [Dialogs and Conversational](#dialogs-and-conversational)
-- [Memory and Attention Models](#memory-and-attention-models)
-- [Named Entity Recognition](#named-entity-recognition)
-- [Natural Language Understanding](#natural-language-understanding)
-- [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
-- [Text Summarization](#text-summarization)
-- [Text Classification](#text-classification)
+- [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
+- [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
+- [Machine Translation](https://github.com/keon/awesome-nlp#machine-translation)
+- [Dialogs and Conversational](https://github.com/keon/awesome-nlp#dialogs-and-conversational)
+- [Memory and Attention Models](https://github.com/keon/awesome-nlp#memory-and-attention-models)
+- [Named Entity Recognition](https://github.com/keon/awesome-nlp#named-entity-recognition)
+- [Natural Language Understanding](https://github.com/keon/awesome-nlp#natural-language-understanding)
+- [Question Answering and Knowledge Extraction](#https://github.com/keon/awesome-nlp#question-answering-and-knowledge-extraction)
+- [Text Summarization](https://github.com/keon/awesome-nlp#text-summarization)
+- [Text Classification](https://github.com/keon/awesome-nlp#text-classification)
 
 
 
