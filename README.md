@@ -100,8 +100,29 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 **DeepLearning Techniques**
 
-**CV Techniques**
+----------------
 
+### CV Techniques
+
+ - [ImageNet Classification](#imagenet-classification)
+  - [Object Detection](#object-detection)
+  - [Object Tracking](#object-tracking)
+  - [Low-Level Vision](#low-level-vision)
+    - [Super-Resolution](#super-resolution)
+    - [Other Applications](#other-applications)
+  - [Edge Detection](#edge-detection)
+  - [Semantic Segmentation](#semantic-segmentation)
+  - [Visual Attention and Saliency](#visual-attention-and-saliency)
+  - [Object Recognition](#object-recognition)
+  - [Human Pose Estimation](#human-pose-estimation)
+  - [Understanding CNN](#understanding-cnn)
+  - [Image and Language](#image-and-language)
+    - [Image Captioning](#image-captioning)
+    - [Video Captioning](#video-captioning)
+    - [Question Answering](#question-answering)
+  - [Image Generation](#image-generation)
+  - [Other Topics](#other-topics)
+  
 ---------------
 ### NLP Techniques
 
