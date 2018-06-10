@@ -373,7 +373,7 @@ so, you have data --> build data pipelines
 ------------------------
 
 
-Movies:
+**Movies:**
 
 || [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
 | [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
@@ -399,7 +399,7 @@ Movies:
 | [TRON: Legacy (2010)](https://www.imdb.com/title/tt1104001/)
 | [The Creation of the Humanoids (1962)](https://www.imdb.com/title/tt0055872/) ||
 
-TV Shows:
+**TV Shows:**
 
 || [Black Mirror ](https://www.imdb.com/title/tt2085059/)
 | [Intelligence ](https://www.imdb.com/title/tt2693776/)
@@ -416,7 +416,7 @@ TV Shows:
 | [Westworld](https://www.imdb.com/title/tt0475784/)
 | [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/) ||
 
-Documentaries:
+**Documentaries:**
 
 || [The Rise of AI Deep Learning - Documentary 2018 HD](https://www.youtube.com/watch?v=Y5KWcIRriT8)
 | [Ray Kurzweil - The Singularity Is Near](https://www.youtube.com/watch?v=y5jiGeQBLTk)
