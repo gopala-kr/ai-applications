@@ -97,7 +97,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 
 
-### ML/DL Techniques
+### ML/DL
 
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
@@ -137,7 +137,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ----------------
 
-### CV Techniques
+### CV 
 
  - [ImageNet Classification](#imagenet-classification)
   - [Object Detection](#object-detection)
@@ -159,7 +159,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
   - [Other Topics](#other-topics)
   
 ---------------
-### NLP Techniques
+### NLP 
 
 - [Text Embeddings](#text-embeddings)
 - [Thought Vectors](#thought-vectors)
@@ -175,7 +175,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 
 ------------------
-### Speech Techniques
+### Speech 
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
@@ -189,7 +189,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-### AI in Robotics - Techniques
+### AI in Robotics 
 
 - [A Survey of Deep Network Solutions for Learning Control in Robotics: From Reinforcement to Imitation](https://arxiv.org/abs/1612.07139v4)
 - [A Survey on Deep Learning Methods for Robot Vision](https://arxiv.org/abs/1803.10862v1)
