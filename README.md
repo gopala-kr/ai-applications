@@ -311,7 +311,9 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 ------------------
 ### Speech Techniques
 
-|| [Speech Recognition Techniques: A Review](https://www.researchgate.net/publication/49587837_A_Review_on_Speech_Recognition_Technique) | [Different Methods Used In Voice Recognition Techniques](https://www.irjet.net/archives/V3/i7/IRJET-V3I7133.pdf)
+- [Speech Recognition Techniques: A Review](https://www.researchgate.net/publication/49587837_A_Review_on_Speech_Recognition_Technique) - [Different Methods Used In Voice Recognition Techniques](https://www.irjet.net/archives/V3/i7/IRJET-V3I7133.pdf) 
+- [Deep Learning for Speech Recognition](http://lxmls.it.pt/2017/talk.pdf)
+- [Deep Learning for Distant Speech Recognition](https://arxiv.org/abs/1712.06086)
 
 
 ![fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
