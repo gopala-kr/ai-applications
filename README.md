@@ -141,6 +141,8 @@ Have a quick look at these threads( Day-1)
 - [numer.ai/rounds](https://numer.ai/rounds)
 - [analyticsvidhya-hackathons](https://datahack.analyticsvidhya.com/contest/all/)
 - [ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
+- [AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
+
 
 ----------------
 
