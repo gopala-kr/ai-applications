@@ -177,8 +177,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ------------------
 ### Speech Techniques
 
-[[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/lec26_audio.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/LiDeng-BerlinOct2015-ASR-GenDisc-4by3.pptx)] [[PPT](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/HumansVsMachine-Afeka2017-invited.pdf)]
-
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
 - Towards End-To-End Speech Recognition with Recurrent Neural Networks[[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
