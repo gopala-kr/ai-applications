@@ -28,19 +28,6 @@
 There is no established unifying theory or paradigm that guides AI research. Researchers disagree about many issues. A few of the most long standing questions that have remained unanswered are these: should artificial intelligence simulate natural intelligence by studying psychology or neurobiology? Or is human biology as irrelevant to AI research as bird biology is to aeronautical engineering? Can intelligent behavior be described using simple, elegant principles (such as logic or optimization)? Or does it necessarily require solving a large number of completely unrelated problems?
 </blockquote>
 
----------------------
-#### Histroy of AI
-
- | [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) |[Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) | [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning) | [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/) | 
-
----------------------------------
-
-<p><center><img src="https://webassets.mongodb.com/_com_assets/cms/breadth-cskq2zo1b8.png" alt=""></center>
-
-<br>
-
-![neural-net](https://raw.githubusercontent.com/qingkaikong/blog/master/38_ANN_part1/figures/figure1_ANN_history.jpg)
-
 ---------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
@@ -94,8 +81,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
 -------------
-
-
 
 ### ML/DL
 
@@ -198,18 +183,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Deep Reinforcement Learning for Robotic Manipulation-The state of the art](https://arxiv.org/abs/1701.08878v1)
 - [Towards Lifelong Self-Supervision: A Deep Learning Direction for Robotics](https://arxiv.org/abs/1611.00201v1)
 
---------------
-
-**Research Areas**
-
-- Computer vision, Face recognition, Virtual reality and Image processing
-- Natural language processing, Speech recognition, Translation and Chatterbots
-- OCR and Handwriting recognition
-- Game AI, game bots and Strategic planning
-- Robotics
-- Knowledge representation
-
-For research start [here](https://github.com/gopala-kr/summary)
 
 -------------------
 **AI Tools**
