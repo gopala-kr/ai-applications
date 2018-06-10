@@ -418,23 +418,31 @@ TV Shows:
 
 Documentaries:
 
+|| [The Rise of AI Deep Learning - Documentary 2018 HD](https://www.youtube.com/watch?v=Y5KWcIRriT8)
+| [Ray Kurzweil - The Singularity Is Near](https://www.youtube.com/watch?v=y5jiGeQBLTk)
 | [Lo and Behold, Reveries of the Connected World (2016)](https://www.imdb.com/title/tt5275828/)
 | [AlphaGo](https://www.alphagomovie.com/)
 | [Revolutionaries: Artificial Intelligence](https://www.bbc.co.uk/programmes/p034t02l)
 | [Road to AI](https://www.youtube.com/watch?v=_sNNSEP-P7A)
 | [Artificial Intelligence and Robotics](https://www.youtube.com/watch?v=t6iJrNE7nwQ)
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
-| []()
-
-
+| [Singularity Or Bust](https://www.youtube.com/watch?v=owppju3jwPE)
+| [The Smartest Machine on Earth](https://www.youtube.com/watch?v=yywl7ugBubA)
+| [Humans Need not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
+| [Technocalyps](https://www.youtube.com/watch?v=7MXQSbjBL7Q)
+| [Hans Rosling's 200 Countries, 200 Years, 4 Minutes - The Joy of Stats - BBC Four](https://www.youtube.com/watch?v=jbkSRLYSojo)
+| [Future Intelligence](https://www.youtube.com/watch?v=WGZHMX_Srk4)
+| [Hans Rosling: Let my dataset change your mindset](https://www.youtube.com/watch?v=KVhWqwnZ1eM)
+| [BBC Documentaries 2016: The Joy of Data](https://www.youtube.com/watch?v=GEXy-XmmUic)
+| [Science Documentary 2016 | Big Data](https://www.youtube.com/watch?v=m9D-v6r3NJQ)
+| [Dangers of artificial intelligence documentary (2018)](https://www.youtube.com/watch?v=ERwjba9qYXA)
+| [BBC Documentary 2018 Artificial Intelligence](https://www.youtube.com/watch?v=0n4AT87CrF0)
+| [Great Debate - Artificial Intelligence: Who is in control? (OFFICIAL)](https://www.youtube.com/watch?v=rZe-A2aDOgA)
+| [Future World 2030: Dr Michio Kaku's predictions. Documentary 2018](https://www.youtube.com/watch?v=OtW6o9i1yWY)
+| [The World In 2050](https://www.youtube.com/watch?v=XeEYaX82jSE)
+| [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M)
+| [How to Become a Data Scientist](https://www.youtube.com/watch?v=ccCblUZFM0w)
+| [The Future of AI: from Deep Learning to Deep Understanding, Ben Goertzel](https://www.youtube.com/watch?v=nbUg9IuIs_8)
+| [Ted- Artificial intelligence](https://www.ted.com/playlists/310/talks_on_artificial_intelligen) ||
 
 
 
