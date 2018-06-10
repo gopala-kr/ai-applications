@@ -184,7 +184,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -------------------
 **AI Tools**
 
-Have a quick look at these threads( Day-1)
+Have a quick look at these threads
 
 - [AI tools](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
 - [Outline of artificial intelligence and applications](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
@@ -208,7 +208,7 @@ Have a quick look at these threads( Day-1)
 
 **DataMining/ MachineLearning/DeepLearning - Applications**
 
-Quickly scan and skim below articles (Day-2)
+Quickly scan and skim below articles
 
 
 > Media and blogs
