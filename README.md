@@ -94,11 +94,15 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
 
-**DataMining Techniques**
 
-**MachineLearning Techniques**
+### MachineLearning Techniques
 
-**DeepLearning Techniques**
+- [mlsurveys](https://www.mlsurveys.com/)
+- [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
+
+### DeepLearning Techniques
+
+- [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches ](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
 
 ----------------
 
