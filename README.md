@@ -1,6 +1,4 @@
-> Applications of AI: Industrial + research
-
->*ClassicalAI->ANI(Artificial Narrow Intelligence)->AGI(Artifical General Intelligence)->ASI(Artificial Super Intelligence)*
+> Applications of AI: Industrial
 
 -----------
 
@@ -647,7 +645,6 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [AI i n Telecommunications ](https://www.ijcai.org/Proceedings/91-1/Papers/086.pdf)
 - [Artificial intelligence in telecoms - current state of play](https://blogs.sas.com/content/hiddeninsights/2017/05/12/artificial-intelligence-in-telecoms/)
 - [AI in the telecommunications industry - a Q&A with Infosys](https://www.gigabitmagazine.com/telecoms/ai-telecommunications-industry-qa-infosys)
-- [Artificial Intelligence for Telecommunications Applications](https://www.prnewswire.com/news-releases/artificial-intelligence-for-
 - [Artificial Intelligence for Telecommunications Applications](https://www.prnewswire.com/news-releases/artificial-intelligence-for-telecommunications-applications-300638297.html)
 - [AI and the future of telecom with use cases Do Telecoms use Artificial Intelligence?](https://wildfireforce.com/ai-future-telecom-use-cases/)
 - [Artificial intelligence in Telecom: Intelligent operations is the new norm](http://bigdata-madesimple.com/artificial-intelligence-in-telecom-intelligent-operations-is-the-new-norm/)
