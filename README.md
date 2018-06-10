@@ -9,6 +9,19 @@
 > [When Will AI Exceed Human Performance?Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
 
 ---------------------
+#### Histroy of AI
+
+ | [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence) |[Timeline of artificial intelligence](https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence) | [Timeline of machine learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning) | [A History of Deep Learning](https://www.import.io/post/history-of-deep-learning/) | 
+
+---------------------------------
+
+<p><center><img src="https://webassets.mongodb.com/_com_assets/cms/breadth-cskq2zo1b8.png" alt=""></center>
+
+<br>
+
+![neural-net](https://raw.githubusercontent.com/qingkaikong/blog/master/38_ANN_part1/figures/figure1_ANN_history.jpg)
+
+-------------------------------
 
 ### AI approaches
 
