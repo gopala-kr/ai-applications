@@ -183,7 +183,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Deep Reinforcement Learning for Robotic Manipulation-The state of the art](https://arxiv.org/abs/1701.08878v1)
 - [Towards Lifelong Self-Supervision: A Deep Learning Direction for Robotics](https://arxiv.org/abs/1611.00201v1)
 
-
 -------------------
 **AI Tools**
 
@@ -364,6 +363,24 @@ language processing…](http://www.ai.mit.edu/courses/6.034b/language.pdf)
 - [Natural Language Processing (NLP)
 Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 - [Models of natural language understanding.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC40721/)
+
+**Speech applications**
+
+![t9mCYg2WMm8Z6ckCirO6pQ](https://cdn-images-1.medium.com/max/800/1*t9mCYg2WMm8Z6ckCirO6pQ.png)
+
+- [speech-recognition-applications](https://krazytech.com/technical-papers/speech-recognition)
+- [Voice Biometrics Month 2016: 4 Unique Applications of Voice Recognition](https://findbiometrics.com/4-applications-voice-recognition-305180/)
+- [Most Common Uses of Voice Recognition Software](http://www.totalvoicetech.com/Most-Common-Uses-of-Voice-Recognition-Software.html)
+- [applications of speech recog](https://www.isi.edu/natural-language/teaching/cs544/spring10/apps5-speech.pdf)
+- [8 Innovative Ways to Use Speech Recognition for Business](https://transcribeme.com/blog/8-innovative-ways-to-use-speech-recognition-for-business)
+- [Overview of speech recognition applications](https://users.ics.aalto.fi/mikkok/thesis/book/node31.html)
+- [Speech Recognition Software](https://www.capterra.com/speech-recognition-software/?utf8=%E2%9C%93&users=&sort_options=Highest+Rated)
+- [The Top Five Uses of Speech Recognition Technology](https://www.callcentrehelper.com/the-top-five-uses-of-speech-recognition-technology-1536.htm)
+- [Applications of Voice-Processing Technology in Telecommunications](https://www.nap.edu/read/2308/chapter/22)
+- [Understanding Speech RecognitionReal-world applications](https://www.nttdocomo.co.jp/english/binary/pdf/corporate/technology/rd/technical_journal/bn/vol13_4/vol13_4_079en.pdf)
+- [AUTOMATIC SPEECH RECOGNITION AND ITS
+APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a01f142124744c6ae425f8a23011366ec3ee.pdf)
+- [10 best practices for voice-based applications](https://www.techrepublic.com/blog/10-things/10-best-practices-for-voice-based-applications/)
 
 ---------------------
 
