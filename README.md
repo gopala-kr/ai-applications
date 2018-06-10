@@ -309,8 +309,13 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 * [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626v3.pdf) by Zhang et al uses CNN and compares them with the traditional text classification models. Its Lua implementation can be found [here](https://github.com/zhangxiangxiao/Crepe).
 
 ------------------
+### Speech Techniques
 
-**Speech Techniques**
+|| [Speech Recognition Techniques: A Review](https://www.researchgate.net/publication/49587837_A_Review_on_Speech_Recognition_Technique) | [Different Methods Used In Voice Recognition Techniques](https://www.irjet.net/archives/V3/i7/IRJET-V3I7133.pdf)
+
+
+![fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
+
 
 **AI in Robotics - Techniques**
 
