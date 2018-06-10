@@ -872,6 +872,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Cybersecurity
 
+[wesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
 > media and blogs
 -
 - [Artificial intelligence and cybersecurity: The real deal](https://www.csoonline.com/article/3250850/security/artificial-intelligence-and-cybersecurity-the-real-deal.html)
