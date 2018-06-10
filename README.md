@@ -311,15 +311,23 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 ------------------
 ### Speech Techniques
 
+[[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/lec26_audio.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/LiDeng-BerlinOct2015-ASR-GenDisc-4by3.pptx)] [[PPT](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/HumansVsMachine-Afeka2017-invited.pdf)]
+
+- Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
+- Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
+- Towards End-To-End Speech Recognition with Recurrent Neural Networks[[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
+- Fast and accurate recurrent neural network acoustic models for speech recognition [[pdf]](http://arxiv.org/pdf/1507.06947)(Google Speech Recognition System)
+- Deep speech 2: End-to-end speech recognition in english and mandarin [[pdf]](https://arxiv.org/pdf/1512.02595.pdf) (Baidu Speech Recognition System)
+- Achieving Human Parity in Conversational Speech Recognition [[pdf]](https://arxiv.org/pdf/1610.05256v1) (State-of-the-art in speech recognition, Microsoft)
 - [Speech Recognition Techniques: A Review](https://www.researchgate.net/publication/49587837_A_Review_on_Speech_Recognition_Technique) - [Different Methods Used In Voice Recognition Techniques](https://www.irjet.net/archives/V3/i7/IRJET-V3I7133.pdf) 
 - [Deep Learning for Speech Recognition](http://lxmls.it.pt/2017/talk.pdf)
 - [Deep Learning for Distant Speech Recognition](https://arxiv.org/abs/1712.06086)
 
+-------------
 
-![fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
+### AI in Robotics - Techniques
 
 
-**AI in Robotics - Techniques**
 
 --------------
 
