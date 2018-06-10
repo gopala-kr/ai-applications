@@ -122,24 +122,24 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ### CV 
 
- - [ImageNet Classification](#imagenet-classification)
-  - [Object Detection](#object-detection)
-  - [Object Tracking](#object-tracking)
-  - [Low-Level Vision](#low-level-vision)
+ - [ImageNet Classification](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
+  - [Object Detection](https://github.com/kjw0612/awesome-deep-vision#object-detection)
+  - [Object Tracking](https://github.com/kjw0612/awesome-deep-vision#object-tracking)
+  - [Low-Level Vision](https://github.com/kjw0612/awesome-deep-vision#low-level-vision)
     - [Super-Resolution](#super-resolution)
     - [Other Applications](#other-applications)
-  - [Edge Detection](#edge-detection)
-  - [Semantic Segmentation](#semantic-segmentation)
-  - [Visual Attention and Saliency](#visual-attention-and-saliency)
-  - [Object Recognition](#object-recognition)
-  - [Human Pose Estimation](#human-pose-estimation)
-  - [Understanding CNN](#understanding-cnn)
-  - [Image and Language](#image-and-language)
+  - [Edge Detection](https://github.com/kjw0612/awesome-deep-vision#edge-detection)
+  - [Semantic Segmentation](https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation)
+  - [Visual Attention and Saliency](https://github.com/kjw0612/awesome-deep-vision#visual-attention-and-saliency)
+  - [Object Recognition](https://github.com/kjw0612/awesome-deep-vision#object-recognition)
+  - [Human Pose Estimation](https://github.com/kjw0612/awesome-deep-vision#human-pose-estimation)
+  - [Understanding CNN](https://github.com/kjw0612/awesome-deep-vision#understanding-cnn)
+  - [Image and Language](https://github.com/kjw0612/awesome-deep-vision#image-and-language)
     - [Image Captioning](#image-captioning)
     - [Video Captioning](#video-captioning)
     - [Question Answering](#question-answering)
-  - [Image Generation](#image-generation)
-  - [Other Topics](#other-topics)
+  - [Image Generation](https://github.com/kjw0612/awesome-deep-vision#image-generation)
+  - [Other Topics](https://github.com/kjw0612/awesome-deep-vision#other-topics)
   
 ---------------
 ### NLP 
