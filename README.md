@@ -72,11 +72,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Motion and manipulation
 - Social intelligence
 - General intelligence
-----------------
-
-**AI Techniques**
-
-![s0LoDK_UbNZMb5iDT1vMEg](https://cdn-images-1.medium.com/max/1600/1*s0LoDK_UbNZMb5iDT1vMEg.png)
 
 -------------
 
@@ -151,7 +146,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Memory and Attention Models](https://github.com/keon/awesome-nlp#memory-and-attention-models)
 - [Named Entity Recognition](https://github.com/keon/awesome-nlp#named-entity-recognition)
 - [Natural Language Understanding](https://github.com/keon/awesome-nlp#natural-language-understanding)
-- [Question Answering and Knowledge Extraction](#https://github.com/keon/awesome-nlp#question-answering-and-knowledge-extraction)
+- [Question Answering and Knowledge Extraction](https://github.com/keon/awesome-nlp#question-answering-and-knowledge-extraction)
 - [Text Summarization](https://github.com/keon/awesome-nlp#text-summarization)
 - [Text Classification](https://github.com/keon/awesome-nlp#text-classification)
 
