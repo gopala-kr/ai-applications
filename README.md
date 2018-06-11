@@ -75,7 +75,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-**ML/DL**
+**ML/DL Methods**
 
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
@@ -111,11 +111,83 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436v1)
 - [Machine Learning and Cloud Computing: Survey of Distributed and SaaS Solutions](https://arxiv.org/abs/1603.08767v1)
 - [LSTM Benchmarks for Deep Learning Frameworks](https://arxiv.org/abs/1806.01818v1)
+- [A Survey of Domain Adaptation for Neural Machine Translation](https://arxiv.org/abs/1806.00258v1)
+- [Video Description: A Survey of Methods, Datasets and Evaluation Metrics](https://arxiv.org/abs/1806.00186v1)
+- [How convolutional neural network see the world - A survey of convolutional neural network visualization methods](https://arxiv.org/abs/1804.11191v2)
+- [Mobile Face Tracking: A Survey and Benchmark](https://arxiv.org/abs/1805.09749v1)
+- [Facial Landmark Detection: a Literature Survey](https://arxiv.org/abs/1805.05563v1)
+- [From Word to Sense Embeddings: A Survey on Vector Representations of Meaning](https://arxiv.org/abs/1805.04032v2)
+- [Explainable Recommendation: A Survey and New Perspectives](https://arxiv.org/abs/1804.11192v3)
+- [Face Recognition Techniques: A Survey](https://arxiv.org/abs/1803.07288v3)
+- [Hierarchical Temporal Memory using Memristor Networks: A Survey](https://arxiv.org/abs/1805.02921v1)
+- [The State of the Art in Developing Fuzzy Ontologies: A Survey](https://arxiv.org/abs/1805.02290v1)
+- [False Information on Web and Social Media: A Survey](https://arxiv.org/abs/1804.08559v1)
+- [Deep Facial Expression Recognition: A Survey](https://arxiv.org/abs/1804.08348v1)
+- [Automatic Language Identification in Texts: A Survey](https://arxiv.org/abs/1804.08186v1)
+- [First Impressions: A Survey on Computer Vision-Based Apparent Personality Trait Analysis](https://arxiv.org/abs/1804.08046v1)
+- [A Survey on Application of Machine Learning Techniques in Optical Networks](https://arxiv.org/abs/1803.07976v2)
+- [Detection and Resolution of Rumours in Social Media: A Survey](https://arxiv.org/abs/1704.00656v3)
+- [A Survey on Multi-View Clustering](https://arxiv.org/abs/1712.06246v2)
+- [Toolflows for Mapping Convolutional Neural Networks on FPGAs: A Survey and Future Directions](https://arxiv.org/abs/1803.05900v1)
+- [Deep Learning in Mobile and Wireless Networking: A Survey](https://arxiv.org/abs/1803.04311v1)
+- [Facial Expression Analysis under Partial Occlusion: A Survey](https://arxiv.org/abs/1802.08784v1)
+- [A Survey Of Methods For Explaining Black Box Models](https://arxiv.org/abs/1802.01933v2)
+- [Autonomous Agents Modelling Other Agents: A Comprehensive Survey and Open Problems](https://arxiv.org/abs/1709.08071v2)
+- [Online Learning: A Comprehensive Survey](https://arxiv.org/abs/1802.02871v1)
+- [Automatic differentiation in machine learning: a survey](https://arxiv.org/abs/1502.05767v4)
+- [A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications](https://arxiv.org/abs/1709.07604v3)
+- [Machine Translation Using Semantic Web Technologies: A Survey](https://arxiv.org/abs/1711.09476v2)
+- [A Survey of Recent Advances in Texture Representation](https://arxiv.org/abs/1801.10324v1)
+- [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/abs/1703.09902v4)
+- [Survey on Emotional Body Gesture Recognition](https://arxiv.org/abs/1801.07481v1)
+- [Graph Embedding Techniques, Applications, and Performance: A Survey](https://arxiv.org/abs/1705.02801v4)
+- [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/abs/1710.09282v5)
+- [Spatio-Temporal Data Mining: A Survey of Problems and Methods](https://arxiv.org/abs/1711.04710v2)
+- [Recommender Systems with Random Walks: A Survey](https://arxiv.org/abs/1711.04101v1)
+- [Machine Translation Evaluation: A Survey](https://arxiv.org/abs/1605.04515v7)
+- [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866v2)
+- [Survey of Recent Advances in Visual Question Answering](https://arxiv.org/abs/1709.08203v1)
+- [Salient Object Detection: A Survey](https://arxiv.org/abs/1411.5878v4)
+- [Machine Learning for Survival Analysis: A Survey](https://arxiv.org/abs/1708.04649v1)
+- [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/abs/1701.08546v2)
+- [Automated text summarisation and evidence-based medicine: A survey of two domains](https://arxiv.org/abs/1706.08162v1)
+- [Universal Reinforcement Learning Algorithms: Survey and Experiments](https://arxiv.org/abs/1705.10557v1)
+- [Emotion in Reinforcement Learning Agents and Robots: A Survey](https://arxiv.org/abs/1705.05172v1)
+- [Survey of Visual Question Answering: Datasets and Techniques](https://arxiv.org/abs/1705.03865v2)
+- [Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures](https://arxiv.org/abs/1601.03896v2)
+- [Next Generation Business Intelligence and Analytics: A Survey](https://arxiv.org/abs/1704.03402v1)
+- [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](https://arxiv.org/abs/1512.05742v3)
+- [Malicious URL Detection using Machine Learning: A Survey](https://arxiv.org/abs/1701.07179v2)
+- [SoK: Applying Machine Learning in Security - A Survey](https://arxiv.org/abs/1611.03186v1)
+- [Content Selection in Data-to-Text Systems: A Survey](https://arxiv.org/abs/1610.08375v1)
+- [A Survey of Voice Translation Methodologies - Acoustic Dialect Decoder](https://arxiv.org/abs/1610.03934v1)
+- [Survey on the Use of Typological Information in Natural Language Processing](https://arxiv.org/abs/1610.03349v1)
+- [Visual Question Answering: A Survey of Methods and Datasets](https://arxiv.org/abs/1607.05910v1)
+- [Incorporating prior knowledge in medical image segmentation: a survey](https://arxiv.org/abs/1607.01092v1)
+- [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/abs/1605.07895v1)
+- [A Survey of Semantic Segmentation](https://arxiv.org/abs/1602.06541v2)
+- [Sentiment Analysis of Twitter Data: A Survey of Techniques](https://arxiv.org/abs/1601.06971v3)
+- [Computational Sociolinguistics: A Survey](https://arxiv.org/abs/1508.07544v2)
+- [Socializing the Semantic Gap: A Comparative Survey on Image Tag Assignment, Refinement and Retrieval](https://arxiv.org/abs/1503.08248v3)
+- [A Survey on Object Detection in Optical Remote Sensing Images](https://arxiv.org/abs/1603.06201v2)
+- [Linear Dimensionality Reduction: Survey, Insights, and Generalizations](https://arxiv.org/abs/1406.0873v2)
+- [A Survey on Social Media Anomaly Detection](https://arxiv.org/abs/1601.01102v2)
+- [Survey on the attention based RNN model and its applications in computer vision](https://arxiv.org/abs/1601.06823v1)
+- [Facial Feature Point Detection: A Comprehensive Survey](https://arxiv.org/abs/1410.1037v1)
+- [A Survey of Named Entity Recognition in Assamese and other Indian Languages](https://arxiv.org/abs/1407.2918v1)
+- [Sentiment Analysis: A Survey](https://arxiv.org/abs/1405.2584v1)
+- [A Survey of Data Mining Techniques for Social Media Analysis](https://arxiv.org/abs/1312.4617v2)
+- [Semantics, Modelling, and the Problem of Representation of Meaning -- a Brief Survey of Recent Literature](https://arxiv.org/abs/1402.7265v1)
+- [Survey on Sparse Coded Features for Content Based Face Image Retrieval](https://arxiv.org/abs/1402.4888v1)
+- [Natural Language Processing - A Survey](https://arxiv.org/abs/1209.6238v1)
+- [Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice](https://arxiv.org/abs/1805.11773v1)
+- [TutorialBank: A Manually-Collected Corpus for Prerequisite Chains, Survey Extraction and Resource Recommendation](https://arxiv.org/abs/1805.04617v1)
+- [Text Detection and Recognition in images: A survey](https://arxiv.org/abs/1803.07278v2)
 
 
 ----------------
 
-**CV**
+**CV Methods**
 
  - [ImageNet Classification](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
   - [Object Detection](https://github.com/kjw0612/awesome-deep-vision#object-detection)
@@ -137,7 +209,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
   - [Other Topics](https://github.com/kjw0612/awesome-deep-vision#other-topics)
   
 ---------------
-**NLP**
+**NLP Methods**
 
 - [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
 - [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
@@ -153,7 +225,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 
 ------------------
-**Speech**
+**Speech Methods**
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
@@ -167,7 +239,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-**AI in Robotics**
+**AI in Robotics - Methods**
 
 - Evolving large-scale neural networks for vision-based reinforcement learning 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) [[PPT](https://computing.ece.vt.edu/~f15ece6504/slides/L26_RL.pdf)] 
 - End-to-end training of deep visuomotor policies (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) 
