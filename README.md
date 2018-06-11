@@ -366,6 +366,8 @@ language processing…](http://www.ai.mit.edu/courses/6.034b/language.pdf)
 Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 - [Models of natural language understanding.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC40721/)
 
+--------------------
+
 **Speech Applications**
 
 ![t9mCYg2WMm8Z6ckCirO6pQ](https://cdn-images-1.medium.com/max/800/1*t9mCYg2WMm8Z6ckCirO6pQ.png)
@@ -811,7 +813,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Automotive & Trasportation
 
--|| [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
+|| [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
 
 -------------
 
