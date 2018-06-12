@@ -284,7 +284,7 @@ Have a quick look at these threads
 
 **Hardware options/Infrastructure for AI:**
 
-![image002_eiiwx8](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image002_eiiwx8.jpg)
+![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
 ![2Fmoorinsights](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmoorinsights%2Ffiles%2F2017%2F03%2FKF2b-1200x547.jpg)
 
 
@@ -293,6 +293,11 @@ Have a quick look at these threads
 - [HARDWARE DESIGN FOR MACHINE LEARNING](http://aircconline.com/ijaia/V9N1/9118ijaia05.pdf)
 - [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
 - [stanford: Hardware options for Machine/Deep Learning](https://mse238blog.stanford.edu/2017/07/gnakhare/hardware-options-for-machinedeep-learning/)
+* [FPGAs and AI processors: DNN and CNN for all](https://meanderful.blogspot.in/2017/06/fpgas-and-ai-processors-dnn-and-cnn-for.html)
+* [12 AI Hardware Startups Building New AI Chips](https://www.nanalyze.com/2017/05/12-ai-hardware-startups-new-ai-chips/)
+* [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
+* [Investing in GPUs for AI – AMD GPUs vs NVIDIA GPUs](https://www.nanalyze.com/2017/05/investing-gpus-ai-amd-vs-nvidia/)
+* [Tutorial on Hardware Architectures for Deep Neural Networks - MIT](http://eyeriss.mit.edu/tutorial.html)
 - [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
 - [Hardware for Machine Learning](https://blog.algorithmia.com/hardware-for-machine-learning/)
 - [Hardware for Deep Learning](https://towardsdatascience.com/hardware-for-deep-learning-8d9b03df41a)
