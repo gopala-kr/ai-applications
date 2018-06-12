@@ -284,9 +284,8 @@ Have a quick look at these threads
 
 **Hardware options/Infrastructure for AI:**
 
-![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
-![2Fmoorinsights](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmoorinsights%2Ffiles%2F2017%2F03%2FKF2b-1200x547.jpg)
 
+![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
 
 - [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
 - [Hardware for Deep Learning. Part 1 - Part 8: CPU, GPU, FPGA, ASIC, Mobile AI, Neuromorphic computing, Quantum computing](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)
