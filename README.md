@@ -340,6 +340,46 @@ Have a quick look at these threads
 - [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
 - [facebook: Introducing Big Basin: Our next-generation AI hardware](https://code.facebook.com/posts/1835166200089399/introducing-big-basin-our-next-generation-ai-hardware/)
 
+------------------
+
+**Cloud and AI**
+
+![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
+![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
+
+- [Google: CLOUD AI](https://cloud.google.com/products/machine-learning/)
+- [Azure AI](https://azure.microsoft.com/en-in/overview/ai-platform/)
+- [IBM: Are you putting cloud and AI to work?](https://www.ibm.com/blogs/cloud-computing/2018/04/16/cloud-ai-think-roadshows/)
+- [A Brief Survey of Cloud AI Services](https://esciencegroup.com/2018/01/29/a-brief-survey-of-cloud-ai-services/)
+- [Cloud Services for Transfer Learning on Deep Neural Networks](https://esciencegroup.com/2018/02/16/cloud-services-for-transfer-learning-on-deep-neural-networks/)
+- [Moving Cloud AI to the Edge](https://esciencegroup.com/2017/12/11/moving-cloud-ai-to-the-edge/)
+- [“There Can be Only One!” Well probably several in the ever changing public cloud and niche provider landscape.](https://medium.com/@dougpollei/there-can-be-only-one-37667ff80647)
+- [The Rise Of Artificial Intelligence As A Service In The Public Cloud](https://www.forbes.com/sites/janakirammsv/2018/02/22/the-rise-of-artificial-intelligence-as-a-service-in-the-public-cloud/#1ab2f485198e)
+- [What is the relationship between cloud computing and AI?](https://www.quora.com/What-is-the-relationship-between-cloud-computing-and-AI)
+- [How the AI cloud could produce the richest companies ever](https://www.technologyreview.com/s/610554/how-the-ai-cloud-could-produce-the-richest-companies-ever/)
+- [The combination of artificial intelligence and the cloud](http://www.information-age.com/combination-artificial-intelligence-cloud-123470999/)
+- [A machine learning and AI guide for enterprises in the cloud](https://searchcloudcomputing.techtarget.com/essentialguide/A-machine-learning-and-AI-guide-for-enterprises-in-the-cloud)
+- [Five Data Trends That Will Transform Cloud And AI In 2018](https://www.forbes.com/sites/forbestechcouncil/2018/03/08/five-data-trends-that-will-transform-cloud-and-ai-in-2018/#2940f0f45f13)
+- [The future belongs to Cloud and AI](https://yourstory.com/mystory/9ce76619c6-the-future-belongs-to)
+- [How AI is transforming cloud computing](https://www.networkworld.com/article/3154363/cloud-computing/how-ai-is-transforming-cloud-computing.html)
+- [Microsoft Embraces Intelligent Cloud And AI Future; Windows Sidelined](https://aibusiness.com/microsoft-cloud-ai-future/)
+- [When the Cloud Is Swamped, It's Edge Computing, AI to the Rescue](https://www.pcmag.com/article/360311/when-the-cloud-is-swamped-its-edge-computing-ai-to-the-re)
+- [In 2018, can cloud, big data, and AI stand more turmoil?](https://www.infoworld.com/article/3245307/cloud-computing/in-2018-can-cloud-big-data-and-ai-stand-more-turmoil.html)
+- [Intel Capital pumps $72M into AI, IoT, cloud and silicon startups, $115M invested so far in 2018](https://techcrunch.com/2018/05/08/intel-capital-pumps-72m-into-ai-iot-cloud-and-silicon-startups-115m-invested-so-far-in-2018/)
+- [Microsoft is hiring engineers to work on A.I. chip design for its cloud](https://www.cnbc.com/2018/06/11/microsoft-hiring-engineers-for-cloud-ai-chip-design.html)
+- [Incorporating Google’s AI Principles into Google Cloud](https://www.blog.google/topics/google-cloud/incorporating-googles-ai-principles-google-cloud/)
+- [Prepping for the Oracle AI Cloud: Machine Learning](https://www.capgemini.com/2018/05/prepping-for-the-oracle-ai-cloud-machine-learning/)
+- [How cloud serves as the foundation of AI](https://www.infoworld.com/article/3223439/artificial-intelligence/how-cloud-serves-as-the-foundation-of-ai.html)
+- [Combining cloud computing and artificial intelligence (AI)](https://hackernoon.com/combining-cloud-computing-and-artificial-intelligence-ai-9db02226c7e3)
+- [Microsoft bets on faster chips, AI services to win cloud war](https://www.seattletimes.com/business/microsoft-bets-on-faster-chips-ai-services-to-win-cloud-war/)
+- [IBM Launches AI-Powered Enterprise Marketing Cloud Solutions In India](https://analyticsindiamag.com/ibm-watson-enterprise-marketing-cloud-solution-india/)
+- [Microsoft Reorganizes to Fuel Cloud and A.I. Businesses](https://www.nytimes.com/2018/03/29/technology/microsoft-reorganizes-to-fuel-cloud-and-ai-businesses.html)
+- [The AI-First Cloud: Can artificial intelligence power the next generation of cloud computing?](https://www.computerworld.com/article/3105405/cloud-computing/the-ai-first-cloud-can-artificial-intelligence-power-the-next-generation-of-cloud-computing.html)
+- [SAP Leonardo Machine Learning](https://www.sap.com/india/products/leonardo/machine-learning.html)
+- [AI applied: How SAP and MapR are adding AI to their platforms](https://www.zdnet.com/article/ai-applied-how-sap-and-mapr-are-adding-ai-to-their-platforms/)
+- [Oracle Places Huge Bets On AI And Machine Learning To Overtake Salesforce In SaaS](https://www.forbes.com/sites/bobevans1/2018/01/30/oracle-places-huge-bets-on-a-i-and-machine-learning-to-overtake-salesforce-com-in-saas/#7a70ba0b1da1)
+- [AI becomes the game changer in the public cloud](https://www.cio.com/article/3250861/artificial-intelligence/ai-becomes-the-game-changer-in-the-public-cloud.html)
+- [Is the cloud the key to democratizing AI?](https://www.infoworld.com/article/3265717/cloud-computing/is-the-cloud-the-key-to-democratizing-ai.html)
 
 ----------------------
 
