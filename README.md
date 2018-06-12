@@ -282,6 +282,48 @@ Have a quick look at these threads
 
 ----------------
 
+**Hardware options/Infrastructure for AI:**
+
+![image002_eiiwx8](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image002_eiiwx8.jpg)
+
+- [Hardware for Deep Learning. Part 1 - Part 8: CPU, GPU, FPGA, ASIC, Mobile AI, Neuromorphic computing, Quantum computing](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)
+- [HARDWARE DESIGN FOR MACHINE LEARNING](http://aircconline.com/ijaia/V9N1/9118ijaia05.pdf)
+- [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
+- [stanford: Hardware options for Machine/Deep Learning](https://mse238blog.stanford.edu/2017/07/gnakhare/hardware-options-for-machinedeep-learning/)
+- [Deep Learning Hardware Limbo](http://timdettmers.com/2017/12/21/deep-learning-hardware-limbo/)
+- [Hardware for Machine Learning](https://blog.algorithmia.com/hardware-for-machine-learning/)
+- [Hardware for Deep Learning](https://towardsdatascience.com/hardware-for-deep-learning-8d9b03df41a)
+- [Recommended Systems for Machine Learning / AI TensorFlow etc..](https://www.pugetsystems.com/recommended/Recommended-Systems-for-Machine-Learning-AI-TensorFlow-etc-174)
+- [What you need to do deep learning](http://www.fast.ai/2017/11/16/what-you-need/)
+- [Which hardware components (CPU, RAM, GC, etc.) are needed for a machine learning/deep learning home PC/computer to run fast?](https://www.quora.com/Which-hardware-components-CPU-RAM-GC-etc-are-needed-for-a-machine-learning-deep-learning-home-PC-computer-to-run-fast)
+- [What might another hardware bump mean for ML? What might we see implementing a DNN using MIT’s programmable nanophotonic processor (supposing its past prototype & scaled for conventional accuracy), or IBM’s computational phase-change memory for ML?](https://www.quora.com/What-might-another-hardware-bump-mean-for-ML-What-might-we-see-implementing-a-DNN-using-MIT%E2%80%99s-programmable-nanophotonic-processor-supposing-its-past-prototype-scaled-for-conventional-accuracy-or-IBM%E2%80%99s-computational-phase-change-memory-for-ML)
+- [What computer specs (CPU, GPU, memory, etc.) are used by Deep Learning researchers? What is the computer's speed/time performance when training a DL algorithm using a standard dataset such as MNIST handwritten digit dataset?](https://www.quora.com/What-computer-specs-CPU-GPU-memory-etc-are-used-by-Deep-Learning-researchers-What-is-the-computers-speed-time-performance-when-training-a-DL-algorithm-using-a-standard-dataset-such-as-MNIST-handwritten-digit-dataset)
+- [Computer Hardware for Machine Learning](https://machinelearningmastery.com/computer-hardware-for-machine-learning/)
+- [Building a machine learning / deep learning workstation for under $5000](https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/)
+- [HPC and AI: Intertwined Futures](https://ai.intel.com/hpc-and-ai-intertwined-futures/)
+- [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
+- [Build your 1st Deep Learning Rig: Step-by-step: How to find, buy, and construct your AI sandbox](https://blog.prolego.io/build-your-1st-deep-learning-rig-6f749f63798d)
+- [The Future of Machine Learning Hardware](https://hackernoon.com/the-future-of-machine-learning-hardware-c872a0448be8)
+- [I: Building a Deep Learning (Dream) Machine](http://graphific.github.io/posts/building-a-deep-learning-dream-machine/)
+- [Enterprise workstations and servers built for Deep Learning](https://lambdal.com/)
+- [a-glimpse-into-the-future-of-deep-learning-hardware](https://www.nextplatform.com/2015/08/25/a-glimpse-into-the-future-of-deep-learning-hardware/)
+- [OpenAI: Infrastructure for Deep Learning](https://blog.openai.com/infrastructure-for-deep-learning/)
+- [A Guide to Processors for Deep Learning](http://www.linleygroup.com/report_detail.php?num=65)
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
+- [HPC and AI – Two Communities Same Future](https://www.hpcwire.com/2018/01/25/hpc-ai-two-communities-future/)
+- [The Great Debate of AI Architecture](https://www.engineering.com/Hardware/ArticleID/16753/The-Great-Debate-of-AI-Architecture.aspx)
+- [AI And Machine Learning Drive New SoC Verification Choices](https://semiengineering.com/artificial-intelligence-and-machine-learning-drive-new-soc-verification-choices/)
+- [A closer look at Arm’s machine learning hardware](https://www.androidauthority.com/arm-project-trillium-842770/)
+- [An Overview of AI in the HPC Landscape](https://insidehpc.com/2017/11/overview-ai-hpc-landscape/)
+- [Picking a GPU for Deep Learning](https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9)
+- [Architectures Battle for Deep Learning](https://www.eetimes.com/author.asp?section_id=36&doc_id=1332538)
+- [AI Hardware to Support the Artificial Intelligence Software Ecosystem](https://insidehpc.com/2018/01/ai-hardware-support-software/)
+
+
+----------------------
+
+
+
 **DataMining/ MachineLearning/DeepLearning - Applications**
 
 Quickly scan and skim below articles
