@@ -282,7 +282,7 @@ Have a quick look at these threads
 
 ----------------
 
-**Hardware options/Infrastructure for AI:**
+**Hardware Options/Infrastructure for AI:**
 
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
@@ -342,7 +342,7 @@ Have a quick look at these threads
 
 ------------------
 
-**Cloud and AI**
+**AI and Cloud**
 
 ![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
 ![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
@@ -385,7 +385,7 @@ Have a quick look at these threads
 
 
 
-**DataMining/ MachineLearning/DeepLearning - Applications**
+**DataMining/MachineLearning/DeepLearning - Applications**
 
 Quickly scan and skim below articles
 
