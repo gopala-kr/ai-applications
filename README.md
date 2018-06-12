@@ -1078,6 +1078,17 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [How to Drive Intelligent, Personalized Consumer Engagement Using Data and AI](https://www.salesforce.com/blog/2018/01/intelligent-consumer-engagement-using-ai.html)
 - [The top 5 customer engagement innovations changing the game with AI](https://www.ibm.com/blogs/watson/2018/02/the-top-5-customer-engagement-innovations-changing-the-game-with-ai/)
 
+### AI in oil & gas
+
+- [Artificial Intelligence in Oil and Gas – Comparing the Applications of 5 Oil Giants](https://www.techemergence.com/artificial-intelligence-in-oil-and-gas/)
+- [AI in Oil & Gas Market worth 2.85 Billion USD by 2022](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-oil-gas.asp)
+- [artificial-intelligence-oil-gas-market](https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-oil-gas-market-87246288.html)
+- [Five AI techniques fit for an oil and gas revolution](https://www.oilandgasiq.com/strategy-management-and-information/articles/ai-techniques-oil-gas-ai-machine-learning)
+- [The oil and gas organization of the future](https://www.mckinsey.com/industries/oil-and-gas/our-insights/the-oil-and-gas-organization-of-the-future)
+- [Artificial Intelligence in the Oil & Gas Industry (AIOGI)]()
+-
+
+
 ### IT industry
 
 - [How Artificial Intelligence (AI) Will Impact IT Service Management](https://www.ivanti.com/blog/artificial-intelligence-ai-will-impact-service-management)
