@@ -285,7 +285,10 @@ Have a quick look at these threads
 **Hardware options/Infrastructure for AI:**
 
 ![image002_eiiwx8](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image002_eiiwx8.jpg)
+![2Fmoorinsights](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmoorinsights%2Ffiles%2F2017%2F03%2FKF2b-1200x547.jpg)
 
+
+- [AI accelerator](https://en.wikipedia.org/wiki/AI_accelerator)
 - [Hardware for Deep Learning. Part 1 - Part 8: CPU, GPU, FPGA, ASIC, Mobile AI, Neuromorphic computing, Quantum computing](https://blog.inten.to/hardware-for-deep-learning-current-state-and-trends-51c01ebbb6dc)
 - [HARDWARE DESIGN FOR MACHINE LEARNING](http://aircconline.com/ijaia/V9N1/9118ijaia05.pdf)
 - [Choosing Components for Personal Deep Learning Machine](https://medium.com/mlreview/choosing-components-for-personal-deep-learning-machine-56bae813e34a)
@@ -300,7 +303,6 @@ Have a quick look at these threads
 - [What computer specs (CPU, GPU, memory, etc.) are used by Deep Learning researchers? What is the computer's speed/time performance when training a DL algorithm using a standard dataset such as MNIST handwritten digit dataset?](https://www.quora.com/What-computer-specs-CPU-GPU-memory-etc-are-used-by-Deep-Learning-researchers-What-is-the-computers-speed-time-performance-when-training-a-DL-algorithm-using-a-standard-dataset-such-as-MNIST-handwritten-digit-dataset)
 - [Computer Hardware for Machine Learning](https://machinelearningmastery.com/computer-hardware-for-machine-learning/)
 - [Building a machine learning / deep learning workstation for under $5000](https://www.analyticsvidhya.com/blog/2016/11/building-a-machine-learning-deep-learning-workstation-for-under-5000/)
-- [HPC and AI: Intertwined Futures](https://ai.intel.com/hpc-and-ai-intertwined-futures/)
 - [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
 - [Build your 1st Deep Learning Rig: Step-by-step: How to find, buy, and construct your AI sandbox](https://blog.prolego.io/build-your-1st-deep-learning-rig-6f749f63798d)
 - [The Future of Machine Learning Hardware](https://hackernoon.com/the-future-of-machine-learning-hardware-c872a0448be8)
@@ -310,14 +312,29 @@ Have a quick look at these threads
 - [OpenAI: Infrastructure for Deep Learning](https://blog.openai.com/infrastructure-for-deep-learning/)
 - [A Guide to Processors for Deep Learning](http://www.linleygroup.com/report_detail.php?num=65)
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
-- [HPC and AI – Two Communities Same Future](https://www.hpcwire.com/2018/01/25/hpc-ai-two-communities-future/)
 - [The Great Debate of AI Architecture](https://www.engineering.com/Hardware/ArticleID/16753/The-Great-Debate-of-AI-Architecture.aspx)
 - [AI And Machine Learning Drive New SoC Verification Choices](https://semiengineering.com/artificial-intelligence-and-machine-learning-drive-new-soc-verification-choices/)
 - [A closer look at Arm’s machine learning hardware](https://www.androidauthority.com/arm-project-trillium-842770/)
 - [An Overview of AI in the HPC Landscape](https://insidehpc.com/2017/11/overview-ai-hpc-landscape/)
+- [HPC and AI – Two Communities Same Future](https://www.hpcwire.com/2018/01/25/hpc-ai-two-communities-future/)
+- [HPC and AI: Intertwined Futures](https://ai.intel.com/hpc-and-ai-intertwined-futures/)
 - [Picking a GPU for Deep Learning](https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9)
 - [Architectures Battle for Deep Learning](https://www.eetimes.com/author.asp?section_id=36&doc_id=1332538)
 - [AI Hardware to Support the Artificial Intelligence Software Ecosystem](https://insidehpc.com/2018/01/ai-hardware-support-software/)
+- [Microsoft ‘excited’ about its secret hardware built for artificial intelligence](https://www.digitaltrends.com/computing/microsoft-harry-shum-excited-ai-driven-hardware/)
+- [OMPUTATIONAL POWER AND THE SOCIAL IMPACT OF ARTIFICIAL INTELLIGENCE](https://arxiv.org/ftp/arxiv/papers/1803/1803.08971.pdf)
+- [A Wave of Purpose-Built AI Hardware Is Building](https://www.datanami.com/2018/05/15/a-wave-of-purpose-built-ai-hardware-is-building/)
+- [The future of hardware is AI](https://phys.org/news/2017-12-future-hardware-ai.html)
+- [MIT-Born A.I. Hardware Startup Raises $10M Led by Chinese Tech Giant Baidu](https://www.americaninno.com/boston/funding-boston/mit-spinoff-raises-10m-for-a-i-hardware-that-uses-the-power-of-light/)
+- [What’s Stopping Google’s Monopoly In AI – Limited Success In Hardware?](https://analyticsindiamag.com/what-stopping-google-monopoly-in-ai-limited-success-in-hardware/)
+- [Building the hardware for the next generation of artificial intelligence](http://news.mit.edu/2017/building-hardware-next-generation-artificial-intelligence-1201)
+- [The future of hardware is AI](https://www.ibm.com/blogs/research/2017/12/future-hardware-ai/)
+- [Chipmakers Are Racing To Build Hardware For Artificial Intelligence](https://www.fastcompany.com/3065843/artificial-intelligence-chips-race-nvidia-intel)
+- [AI World: What About Hardware?](https://dzone.com/articles/ai-world-what-about-hardware)
+- [Facebook to open-source AI hardware design](https://code.facebook.com/posts/1687861518126048/facebook-to-open-source-ai-hardware-design/)
+- [Forget algorithms. The future of AI is hardware!](https://www.huffingtonpost.com/entry/forget-algorithms-the-future-of-ai-is-hardware_us_5a5b4b23e4b0a233482e0c43)
+- [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
+- [facebook: Introducing Big Basin: Our next-generation AI hardware](https://code.facebook.com/posts/1835166200089399/introducing-big-basin-our-next-generation-ai-hardware/)
 
 
 ----------------------
