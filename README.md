@@ -140,7 +140,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-# Algorithm Categories
+**Algorithm Categories**
 
 - Decision tree learning
 - Association rule learning
@@ -933,6 +933,11 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 [Back to Top](#contents)
 
+    + Examples
+        * AlphaGo (Monte-Carlo Tree Search)
+        * DeepBlue
+        * Watson Jeapordy
+        
 > media and blogs
 
 - [Why-are-there-no-Game-AI-companies](https://www.quora.com/Why-are-there-no-Game-AI-companies)
@@ -960,6 +965,13 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 ### Telecommunications
 
 [Back to Top](#contents)
+
+    + 5G
+    + IoT
+    + Autonomous vehicles
+    + Smart cities
+    + Engagement insights whose info is sold back to advertisers
+
 
 > media and blogs
 
@@ -1079,6 +1091,17 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 [Back to Top](#contents)
 
+    + Segmentation
+    + Ranking/scoring
+    + Market basket analysis > location and promotions of items
+    + Cohort analysis and segmentation > targeted marketing
+    + Customer churn prediction > churn prevention
+    + Customer lifetime value forecasting > future business value and predicting growth
+    + Targeted and personalized advertising
+    + Companies
+        * [Appier](https://www.appier.com/)
+        * [Voyager Labs](http://voyagerlabs.co/)
+
 > media and blogs
 
 - [Artificial Intelligence in Marketing and Advertising – 5 Examples of Real Traction](https://www.techemergence.com/artificial-intelligence-in-marketing-and-advertising-5-examples-of-real-traction/)
@@ -1098,6 +1121,10 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 [Back to Top](#contents)
 
+    + Recommendation engines
+    + Virtual reality fitting systems
+    + Shopping experience
+    
 > media and blogs
 
 - [retail-nvidia](https://www.nvidia.com/en-us/deep-learning-ai/industries/retail/)
@@ -1121,6 +1148,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Cybersecurity
 
+    Security intelligence (security, fraud, and risk analysis)
+    
 [Back to Top](#contents)
 
 [wesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
@@ -1152,6 +1181,15 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 ### Automotive and Trasportation
 
 [Back to Top](#contents)
+
+    + Companies
+        * Google
+        * Apple
+        * Uber
+        * Lyft
+        * Tesla
+        * Waymo
+        
 
 || [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
 
