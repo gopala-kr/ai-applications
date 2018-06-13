@@ -12,7 +12,7 @@
 #### Contents
 
  - [AI approaches](#ai-approaches)
- - [Multidisciplinary](#multidisciplinary)
+ - [The Multidisciplinary](#the-multidisciplinary)
  - [Why AI is on Rise?](#why-ai-is-on-rise?)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
@@ -136,7 +136,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-### Multidisciplinary
+### The Multidisciplinary
 
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
