@@ -1,4 +1,4 @@
-> Applications of AI: Industrial
+> Applications of AI : Industrial
 
 -----------
 
@@ -9,8 +9,60 @@
 
 
 -------------------------------
+## Contents
 
-### AI approaches
+ - [AI approaches](#ai-approaches)
+ - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
+   - [Goals](#goals)
+   - [ML/DL Methods](#ml-dl-methods)
+   - [CV Methods](#cv-methods)
+   - [NLP Methods](#nlp-methods)
+   - [Speech Methods](#speech-methods)
+   - [AI in Robotics - Methods](#ai-in-robotics-methods)   
+ - [AI Tools](#ai-tools)
+ - [Hardware Options/Infrastructure for AI](#hardware-options-infrastructure-for-ai)
+ - [AI and Cloud](#ai-and-cloud)
+ - [DataMining/MachineLearning/DeepLearning - Applications](#datamining-machinelearning-deepLearning-applications)
+ - [Computer Vision - Applications](#computer-vision-applications)
+ - [NLP Applications](#nlp-applications)
+ - [Speech Recog. Applications](#speech-recog-applications)
+ - [AI in Robotics - Applications](#ai-in-robotics-applications)
+ - [Bigdata and Data Science](#bigdata-and-datascience)
+   - [The Heirarchy](#the-heirarchy)
+   - [Big Data Abstraction](#big-data-abstraction)
+   - [Bigdata Tools](#bigdata-tools)
+   - [Datascience Desciplines](#datascience-desciplines)
+   - [References](#references)
+ - [AI-M-T-D](#ai-m-t-d)
+   - [Movies](#movies)
+   - [TV shows](#tv-shows)
+   - [Dcoumentaries](#documentaries)
+ - [AI Industrial Applications](#ai-industrial-applications)
+   - [Healthcare](#healthcare)
+   - [Manufacturing](#manufacturing)
+   - [Legal/Law](#legal-law)
+   - [Games](#games)
+   - [Telecommunications](#telecommunications)
+   - [Music](#music)
+   - [HR and recruitment](#hr-and-recruitment)
+   - [Agriculture](#agriculture)
+   - [Education](#education)
+   - [Media and Entertainment](#media-and-entertainment)
+   - [Advertising and Marketing](#advertising-and-marketing)
+   - [Retail and Fashion](#retail-and-fashion)
+   - [Cybersecurity](#cybersecurity)
+   - [Aviation](#aviation)
+   - [Automotive and Trasportation](#automotive-and-trasportation)
+   - [Finance and Banking](#finance-banking)
+   - [Logistics](#logistics)
+   - [Customer Service, experience and engagement](#customer-service-experience-and-engagement)
+   - [AI in oil and gas](#ai-in-oil-and-gas)
+   - [IT industry](#it-industry)
+
+--------------------------
+----------------------
+
+## AI approaches
 
 | [Workshop](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/e2/09/e209cc8c-1ddc-4f7e-beb5-d23fbe509302/93-08-052.pdf) | [logic-ai](https://plato.stanford.edu/entries/logic-ai/) |
 
@@ -59,9 +111,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
 -------------------
-### AI Goals/Problems, Techniques and Tools
+## AI Goals, Techniques and Tools
 
-**Goals:**
+### Goals
 
 - Reasoning, problem solving
 - Knowledge representation (commonsense knowledge)
@@ -75,7 +127,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-**ML/DL Methods**
+### ML/DL Methods
 
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
@@ -187,7 +239,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ----------------
 
-**CV Methods**
+### CV Methods
 
  - [ImageNet Classification](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
   - [Object Detection](https://github.com/kjw0612/awesome-deep-vision#object-detection)
@@ -209,7 +261,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
   - [Other Topics](https://github.com/kjw0612/awesome-deep-vision#other-topics)
   
 ---------------
-**NLP Methods**
+### NLP Methods
 
 - [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
 - [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
@@ -225,7 +277,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 
 ------------------
-**Speech Methods**
+### Speech Methods
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
@@ -239,7 +291,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-**AI in Robotics - Methods**
+### AI in Robotics - Methods
 
 - Evolving large-scale neural networks for vision-based reinforcement learning 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) [[PPT](https://computing.ece.vt.edu/~f15ece6504/slides/L26_RL.pdf)] 
 - End-to-end training of deep visuomotor policies (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) 
@@ -258,7 +310,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Towards Lifelong Self-Supervision: A Deep Learning Direction for Robotics](https://arxiv.org/abs/1611.00201v1)
 
 -------------------
-**AI Tools**
+## AI Tools
 
 Have a quick look at these threads
 
@@ -282,7 +334,7 @@ Have a quick look at these threads
 
 ----------------
 
-**Hardware Options/Infrastructure for AI:**
+## Hardware Options/Infrastructure for AI
 
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
@@ -342,7 +394,7 @@ Have a quick look at these threads
 
 ------------------
 
-**AI and Cloud**
+## AI and Cloud
 
 ![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
 ![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
@@ -382,10 +434,10 @@ Have a quick look at these threads
 - [Is the cloud the key to democratizing AI?](https://www.infoworld.com/article/3265717/cloud-computing/is-the-cloud-the-key-to-democratizing-ai.html)
 
 ----------------------
+-----------------
 
 
-
-**DataMining/MachineLearning/DeepLearning - Applications**
+## DataMining/MachineLearning/DeepLearning - Applications
 
 Quickly scan and skim below articles
 
@@ -446,7 +498,7 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 
 
 ------------------
-**Computer Vision - Applications**
+## Computer Vision - Applications
 
 - [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
@@ -514,7 +566,7 @@ Networks](https://medium.com/gifs-ai/interactive-segmentation-with-convolutional
 - [Object detection: an overview in the age of Deep Learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
 
 -------------------
-**NLP - Applications**
+## NLP - Applications
 
 - [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
 - [10 Applications of Artificial Neural Networks in Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a)
@@ -543,7 +595,7 @@ Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 
 --------------------
 
-**Speech Applications**
+## Speech Recog. Applications
 
 ![t9mCYg2WMm8Z6ckCirO6pQ](https://cdn-images-1.medium.com/max/800/1*t9mCYg2WMm8Z6ckCirO6pQ.png)
 
@@ -563,7 +615,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 -----------------------
 
-**AI in Robotics -Applictions**
+## AI in Robotics -Applictions
 
 - [Robotic Application Research: Past, Present, & Future](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Industry-Insights/Robotic-Application-Research-Past-Present-Future/content_id/1609)
 - [Fields of Application](https://robotik.dfki-bremen.de/en/research/fields-of-application.html)
@@ -578,10 +630,11 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Top 6 Robotic Applications in Medicine](https://www.asme.org/engineering-topics/articles/bioengineering/top-6-robotic-applications-in-medicine)
 
 
+-----------------
 ---------------------
 
 
-### Bigdata and Data Science:
+## Bigdata and Data Science
 
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
@@ -590,28 +643,30 @@ so, you have data --> build data pipelines
 
 ![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
 
-**The Heirarchy**
+### The Heirarchy
 
 ![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 -----------
-**Big-Data-Abstraction**
+### Big Data Abstraction
 
 ![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
 
 -------------
-**Bigdata Tools**
+### Bigdata Tools
 
 ![ai-arch-09-p27](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bd_tools.JPG)
 
 ---------------------------
-**Datascience desciplines**
+### Datascience Desciplines
 
 ![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
 
 ![C8zj5yEUAAIIkIr](https://pbs.twimg.com/media/C8zj5yEUAAIIkIr.jpg)
 
+
 ----------------------
+### References
 
 || [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 | [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -647,11 +702,13 @@ so, you have data --> build data pipelines
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
 | [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) ||
 
------------------
+
+--------------------------
 ------------------------
 
+## AI-M-T-D
 
-**Movies:**
+### Movies
 
 || [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
 | [A.I. Artificial Intelligence](http://www.imdb.com/title/tt0212720/)
@@ -677,7 +734,8 @@ so, you have data --> build data pipelines
 | [TRON: Legacy (2010)](https://www.imdb.com/title/tt1104001/)
 | [The Creation of the Humanoids (1962)](https://www.imdb.com/title/tt0055872/) ||
 
-**TV Shows:**
+
+### TV Shows
 
 || [Black Mirror ](https://www.imdb.com/title/tt2085059/)
 | [Intelligence ](https://www.imdb.com/title/tt2693776/)
@@ -694,7 +752,7 @@ so, you have data --> build data pipelines
 | [Westworld](https://www.imdb.com/title/tt0475784/)
 | [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/) ||
 
-**Documentaries:**
+### Documentaries
 
 || [The Rise of AI Deep Learning - Documentary 2018 HD](https://www.youtube.com/watch?v=Y5KWcIRriT8)
 | [Ray Kurzweil - The Singularity Is Near](https://www.youtube.com/watch?v=y5jiGeQBLTk)
@@ -723,13 +781,10 @@ so, you have data --> build data pipelines
 | [Ted- Artificial intelligence](https://www.ted.com/playlists/310/talks_on_artificial_intelligen) ||
 
 
-
-
-
 -------------------------------
 ------------------------------
 
-## Industrial Applications
+## AI Industrial Applications
 
 ![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/i_a.JPG)
 
