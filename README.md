@@ -2118,6 +2118,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="ai"></a>Artificial Intelligence</h4>
 
+[Back to Top](#contents)
+
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 - [59 impressive things artificial intelligence can do today](http://www.businessinsider.com/artificial-intelligence-ai-most-impressive-achievements-2017-3/)
 - [MIT - The Missing Link of Artificial Intelligence](https://www.technologyreview.com/s/600819/the-missing-link-of-artificial-intelligence/)
@@ -2152,6 +2154,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="ml"></a>Machine Learning</h4>
 
+[Back to Top](#contents)
+
 - [Basic Concepts in Machine Learning
 ](https://machinelearningmastery.com/basic-concepts-in-machine-learning/)
 - [Choosing a Machine Learning Classifier](http://blog.echen.me/2011/04/27/choosing-a-machine-learning-classifier/)
@@ -2166,6 +2170,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [8 Ways Machine Learning Is Improving Companies’ Work Processes](https://hbr.org/2017/05/8-ways-machine-learning-is-improving-companies-work-processes)
 
 <h4><a name="data-sci"></a>Data Science</h4>
+
+[Back to Top](#contents)
 
 - [13 Great Data Science Infographics](http://www.datavizualization.com/blog/13-great-data-science-infographics)
 - [THE DATA SCIENCE VENN DIAGRAM](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
