@@ -140,6 +140,24 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
+# Algorithm Categories
+
+- Decision tree learning
+- Association rule learning
+- Artificial neural networks
+- Inductive logic programming
+- Support vector machines
+- Clustering
+- Bayesian networks
+- Reinforcement learning
+- Representation learning
+- Similarity and metric learning
+- Sparse dictionary learning
+- Genetic algorithms
+
+
+> Literature surveys:
+
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
 - [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches ](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
