@@ -14,33 +14,33 @@
  - [AI approaches](#ai-approaches)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
-   - [ML/DL Methods](#ml-dl-methods)
+   - [ML DL Methods](#ml-dl-methods)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
-   - [AI in Robotics - Methods](#ai-in-robotics-methods)   
+   - [Robotics Methods](#robotics-methods)   
  - [AI Tools](#ai-tools)
- - [Hardware Options/Infrastructure for AI](#hardware-options-infrastructure-for-ai)
+ - [Hardware Options Infrastructure for AI](#hardware-options-infrastructure-for-ai)
  - [AI and Cloud](#ai-and-cloud)
- - [DataMining/MachineLearning/DeepLearning - Applications](#datamining-machinelearning-deepLearning-applications)
- - [Computer Vision - Applications](#computer-vision-applications)
+ - [DataMining MachineLearning DeepLearning Applications](#datamining-machinelearning-deepLearning-applications)
+ - [Computer Vision Applications](#computer-vision-applications)
  - [NLP Applications](#nlp-applications)
- - [Speech Recog. Applications](#speech-recog-applications)
- - [AI in Robotics - Applications](#ai-in-robotics-applications)
+ - [Speech Recog Applications](#speech-recog-applications)
+ - [AI in Robotics Applications](#ai-in-robotics-applications)
  - [Bigdata and Data Science](#bigdata-and-datascience)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
    - [Datascience Desciplines](#datascience-desciplines)
    - [References](#references)
- - [AI-M-T-D](#ai-m-t-d)
+ - [AI MTD](#ai-mtd)
    - [Movies](#movies)
    - [TV shows](#tv-shows)
    - [Dcoumentaries](#documentaries)
  - [AI Industrial Applications](#ai-industrial-applications)
    - [Healthcare](#healthcare)
    - [Manufacturing](#manufacturing)
-   - [Legal/Law](#legal-law)
+   - [Legal or Law](#legal-law)
    - [Games](#games)
    - [Telecommunications](#telecommunications)
    - [Music](#music)
@@ -55,8 +55,8 @@
    - [Automotive and Trasportation](#automotive-and-trasportation)
    - [Finance and Banking](#finance-banking)
    - [Logistics](#logistics)
-   - [Customer Service, experience and engagement](#customer-service-experience-and-engagement)
-   - [AI in oil and gas](#ai-in-oil-and-gas)
+   - [Customer Service experience and engagement](#customer-service-experience-and-engagement)
+   - [Oil and gas](#ai-in-oil-and-gas)
    - [IT industry](#it-industry)
 
 --------------------------
@@ -136,7 +136,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-### ML/DL Methods
+### ML DL Methods
 
 [Back to Top](#contents)
 
@@ -308,7 +308,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-### AI in Robotics - Methods
+### Robotics Methods
 
 [Back to Top](#contents)
 
@@ -356,7 +356,7 @@ Have a quick look at these threads
 
 ----------------
 
-## Hardware Options/Infrastructure for AI
+## Hardware Options Infrastructure for AI
 
 [Back to Top](#contents)
 
@@ -462,7 +462,7 @@ Have a quick look at these threads
 -----------------
 
 
-## DataMining/MachineLearning/DeepLearning - Applications
+## DataMining MachineLearning DeepLearning Applications
 
 [Back to Top](#contents)
 
@@ -525,7 +525,7 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 
 
 ------------------
-## Computer Vision - Applications
+## Computer Vision Applications
 
 [Back to Top](#contents)
 
@@ -595,7 +595,7 @@ Networks](https://medium.com/gifs-ai/interactive-segmentation-with-convolutional
 - [Object detection: an overview in the age of Deep Learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
 
 -------------------
-## NLP - Applications
+## NLP Applications
 
 [Back to Top](#contents)
 
@@ -626,7 +626,7 @@ Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 
 --------------------
 
-## Speech Recog. Applications
+## Speech Recog Applications
 
 [Back to Top](#contents)
 
@@ -648,7 +648,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 -----------------------
 
-## AI in Robotics -Applictions
+## AI in Robotics Applictions
 
 [Back to Top](#contents)
 
@@ -752,7 +752,7 @@ so, you have data --> build data pipelines
 --------------------------
 ------------------------
 
-## AI-M-T-D
+## AI MTD
 
 [Back to Top](#contents)
 
@@ -892,7 +892,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 
-### Legal/Law
+### Legal or Law
 
 [Back to Top](#contents)
 
@@ -1076,7 +1076,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [3 Ways AI Marketing Will Revolutionize Your Ad Campaigns](https://goodwaygroup.com/blog/ai-marketing-revolutionize-ad-campaigns/)
 - [How AI is Driving a New Era of TV Advertising](https://martechseries.com/mts-insights/guest-authors/how-ai-is-driving-a-new-era-of-tv-advertising/)
 
-### Retail & Fashion
+### Retail and Fashion
 
 [Back to Top](#contents)
 
@@ -1131,7 +1131,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Automated Intelligent Pilots for Combat Flight Simulation](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1438/1337)
 - [The Story of Self-Repairing Flight Control Systems](https://crgis.ndc.nasa.gov/crgis/images/c/c9/88798main_srfcs.pdf)
 
-### Automotive & Trasportation
+### Automotive and Trasportation
 
 [Back to Top](#contents)
 
@@ -1158,7 +1158,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [The Future Of The Transport Industry - IoT, Big Data, AI And Autonomous Vehicles](https://www.forbes.com/sites/bernardmarr/2017/11/06/the-future-of-the-transport-industry-iot-big-data-ai-and-autonomous-vehicles/#683d640c1137)
 - [Artificial Intelligence (AI) in Transportation Market 2018 Global Industry By Applications, Types, Key Players, New Technologies, Growth Prediction By 2022](https://www.reuters.com/brandfeatures/venture-capital/article?id=28290)
 
-### Finance & Banking
+### Finance and Banking
 
 [Back to Top](#contents)
 
@@ -1211,7 +1211,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [How DHL Aims to Remake Logistics with AI](https://www.datanami.com/2018/04/17/how-dhl-aims-to-remake-logistics-with-ai/)
 - [Here, There, Everywhere: Transforming Logistics with Self-Learning AI](https://blogs.nvidia.com/blog/2018/03/28/self-learning-ai-for-logistics/)
 
-### Customer Service, experience and engagement
+### Customer Service experience and engagement
 
 [Back to Top](#contents)
 
@@ -1233,7 +1233,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [How to Drive Intelligent, Personalized Consumer Engagement Using Data and AI](https://www.salesforce.com/blog/2018/01/intelligent-consumer-engagement-using-ai.html)
 - [The top 5 customer engagement innovations changing the game with AI](https://www.ibm.com/blogs/watson/2018/02/the-top-5-customer-engagement-innovations-changing-the-game-with-ai/)
 
-### AI in oil & gas
+### Oil and gas
 
 [Back to Top](#contents)
 
