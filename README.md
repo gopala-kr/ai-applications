@@ -78,6 +78,9 @@
 There is no established unifying theory or paradigm that guides AI research. Researchers disagree about many issues. A few of the most long standing questions that have remained unanswered are these: should artificial intelligence simulate natural intelligence by studying psychology or neurobiology? Or is human biology as irrelevant to AI research as bird biology is to aeronautical engineering? Can intelligent behavior be described using simple, elegant principles (such as logic or optimization)? Or does it necessarily require solving a large number of completely unrelated problems?
 </blockquote>
 
+
+[Back to Top](#contents)
+
 ---------------
 
 > What is the difference between data mining, statistics, machine learning and AI? 
@@ -105,15 +108,21 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
 
+[Back to Top](#contents)
+
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
 ---------------
+[Back to Top](#contents)
+
 ![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
 -------------------
 ## AI Goals, Techniques and Tools
 
 ### Goals
+
+[Back to Top](#contents)
 
 - Reasoning, problem solving
 - Knowledge representation (commonsense knowledge)
@@ -128,6 +137,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -------------
 
 ### ML/DL Methods
+
+[Back to Top](#contents)
 
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
@@ -241,6 +252,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ### CV Methods
 
+[Back to Top](#contents)
+
  - [ImageNet Classification](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
   - [Object Detection](https://github.com/kjw0612/awesome-deep-vision#object-detection)
   - [Object Tracking](https://github.com/kjw0612/awesome-deep-vision#object-tracking)
@@ -263,6 +276,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ---------------
 ### NLP Methods
 
+[Back to Top](#contents)
+
 - [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
 - [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
 - [Machine Translation](https://github.com/keon/awesome-nlp#machine-translation)
@@ -279,6 +294,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ------------------
 ### Speech Methods
 
+[Back to Top](#contents)
+
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) (Breakthrough in speech recognition)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf) (RNN)
 - Towards End-To-End Speech Recognition with Recurrent Neural Networks[[pdf]](http://www.jmlr.org/proceedings/papers/v32/graves14.pdf)
@@ -292,6 +309,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -------------
 
 ### AI in Robotics - Methods
+
+[Back to Top](#contents)
+
 
 - Evolving large-scale neural networks for vision-based reinforcement learning 2013. [[pdf]](http://repository.supsi.ch/4550/1/koutnik2013gecco.pdf) [[PPT](https://computing.ece.vt.edu/~f15ece6504/slides/L26_RL.pdf)] 
 - End-to-end training of deep visuomotor policies (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) 
@@ -311,6 +331,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------------
 ## AI Tools
+
+[Back to Top](#contents)
 
 Have a quick look at these threads
 
@@ -336,6 +358,7 @@ Have a quick look at these threads
 
 ## Hardware Options/Infrastructure for AI
 
+[Back to Top](#contents)
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
 
@@ -396,6 +419,8 @@ Have a quick look at these threads
 
 ## AI and Cloud
 
+[Back to Top](#contents)
+
 ![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
 ![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
 
@@ -438,6 +463,8 @@ Have a quick look at these threads
 
 
 ## DataMining/MachineLearning/DeepLearning - Applications
+
+[Back to Top](#contents)
 
 Quickly scan and skim below articles
 
@@ -499,6 +526,8 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 
 ------------------
 ## Computer Vision - Applications
+
+[Back to Top](#contents)
 
 - [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
@@ -568,6 +597,8 @@ Networks](https://medium.com/gifs-ai/interactive-segmentation-with-convolutional
 -------------------
 ## NLP - Applications
 
+[Back to Top](#contents)
+
 - [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
 - [10 Applications of Artificial Neural Networks in Natural Language Processing](https://medium.com/@datamonsters/artificial-neural-networks-in-natural-language-processing-bcf62aa9151a)
 - [Natural language processing applications](https://www.expertsystem.com/natural-language-processing-applications/)
@@ -597,6 +628,8 @@ Applications](http://www.iro.umontreal.ca/~bengioy/talks/gss2012-YB5-NLP.pdf)
 
 ## Speech Recog. Applications
 
+[Back to Top](#contents)
+
 ![t9mCYg2WMm8Z6ckCirO6pQ](https://cdn-images-1.medium.com/max/800/1*t9mCYg2WMm8Z6ckCirO6pQ.png)
 
 - [speech-recognition-applications](https://krazytech.com/technical-papers/speech-recognition)
@@ -617,6 +650,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ## AI in Robotics -Applictions
 
+[Back to Top](#contents)
+
 - [Robotic Application Research: Past, Present, & Future](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Industry-Insights/Robotic-Application-Research-Past-Present-Future/content_id/1609)
 - [Fields of Application](https://robotik.dfki-bremen.de/en/research/fields-of-application.html)
 - [Robots in Retail – Examples of Real Industry Applications](https://www.techemergence.com/robots-in-retail-examples/)
@@ -636,6 +671,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ## Bigdata and Data Science
 
+[Back to Top](#contents)
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
@@ -645,20 +681,28 @@ so, you have data --> build data pipelines
 
 ### The Heirarchy
 
+[Back to Top](#contents)
+
 ![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 -----------
 ### Big Data Abstraction
+
+[Back to Top](#contents)
 
 ![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
 
 -------------
 ### Bigdata Tools
 
+[Back to Top](#contents)
+
 ![ai-arch-09-p27](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bd_tools.JPG)
 
 ---------------------------
 ### Datascience Desciplines
+
+[Back to Top](#contents)
 
 ![ds](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ds.JPG)
 
@@ -667,6 +711,8 @@ so, you have data --> build data pipelines
 
 ----------------------
 ### References
+
+[Back to Top](#contents)
 
 || [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 | [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -708,6 +754,8 @@ so, you have data --> build data pipelines
 
 ## AI-M-T-D
 
+[Back to Top](#contents)
+
 ### Movies
 
 || [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
@@ -737,6 +785,8 @@ so, you have data --> build data pipelines
 
 ### TV Shows
 
+[Back to Top](#contents)
+
 || [Black Mirror ](https://www.imdb.com/title/tt2085059/)
 | [Intelligence ](https://www.imdb.com/title/tt2693776/)
 | [Minority Report](https://www.imdb.com/title/tt4450826/)
@@ -753,6 +803,8 @@ so, you have data --> build data pipelines
 | [Terminator: The Sarah Connor Chronicles](https://www.imdb.com/title/tt0851851/) ||
 
 ### Documentaries
+
+[Back to Top](#contents)
 
 || [The Rise of AI Deep Learning - Documentary 2018 HD](https://www.youtube.com/watch?v=Y5KWcIRriT8)
 | [Ray Kurzweil - The Singularity Is Near](https://www.youtube.com/watch?v=y5jiGeQBLTk)
@@ -786,9 +838,15 @@ so, you have data --> build data pipelines
 
 ## AI Industrial Applications
 
+[Back to Top](#contents)
+
+
 ![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/i_a.JPG)
 
 ### Healthcare
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Machine Learning Healthcare Applications – 2018 and Beyond](https://www.techemergence.com/machine-learning-healthcare-applications/)
@@ -812,6 +870,9 @@ so, you have data --> build data pipelines
 
 
 ### Manufacturing
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [3 Advances Changing the Future of Artificial Intelligence in Manufacturing](https://www.autodesk.com/redshift/future-of-artificial-intelligence/)
@@ -832,6 +893,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 ### Legal/Law
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Applications of artificial intelligence to legal informatics](https://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
@@ -848,6 +912,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [The Future Of Law: How AI Is Revolutionizing the Legal Industry](https://www.litify.com/future-law-ai-revolutionizing-legal-industry/)
 
 ### Games
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Why-are-there-no-Game-AI-companies](https://www.quora.com/Why-are-there-no-Game-AI-companies)
@@ -873,6 +940,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 ### Telecommunications
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Telecom Machine Learning Applications – Comparing AT&T, Verizon, Comcast and More](https://www.techemergence.com/telecom-machine-learning-applications/)
@@ -889,6 +959,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial intelligence applications in the telecommunications industry](https://www.researchgate.net/publication/220658193_Artificial_intelligence_applications_in_the_telecommunications_industry)
 
 ### Music
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Google's 'Magenta' project will see if AIs can truly make art](https://www.engadget.com/2016/05/23/google-magenta-machine-learning-music-art/)
@@ -911,6 +984,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Will AI change the future of music?](http://www.dw.com/en/will-ai-change-the-future-of-music/a-41031406)
 
 ### HR and Recruitment
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [5 ways to use artificial intelligence (AI) in human resources](http://bigdata-madesimple.com/5-ways-to-use-artificial-intelligence-ai-in-human-resources/)
@@ -932,6 +1008,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Agriculture
 
+[Back to Top](#contents)
+
 > media and blogs
 
 - [AI in Agriculture – Present Applications and Impact](https://www.techemergence.com/ai-agriculture-present-applications-impact/)
@@ -948,6 +1026,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Education
 
+[Back to Top](#contents)
+
 > media and blogs
 
 - [The Future of AI, Data, and Education - udacity](https://blog.udacity.com/2018/02/future-ai-data-education.html)
@@ -963,6 +1043,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Media and Entertainment
 
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Top 10 areas Artificial Intelligence is leading automation in Media Industry](http://www.mediaentertainmentinfo.com/2017/09/top-10-areas-artificial-intelligence-is-leading-automation-in-media-industry.html/)
@@ -976,6 +1058,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Machine Learning And AI In The Media Industry](http://www.digitalistmag.com/customer-experience/2017/12/18/machine-learning-ai-in-media-industry-05639773)
 
 ### Advertising and Marketing
+
+[Back to Top](#contents)
 
 > media and blogs
 
@@ -993,6 +1077,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [How AI is Driving a New Era of TV Advertising](https://martechseries.com/mts-insights/guest-authors/how-ai-is-driving-a-new-era-of-tv-advertising/)
 
 ### Retail & Fashion
+
+[Back to Top](#contents)
 
 > media and blogs
 
@@ -1017,6 +1103,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### Cybersecurity
 
+[Back to Top](#contents)
+
 [wesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 
 > media and blogs
@@ -1027,6 +1115,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [AI for Cyber Security: How AI prevents future cyberattacks?](https://www.nec.com/en/global/ad/insite/article/safety10.html)
 
 ### Aviation
+
+[Back to Top](#contents)
 
 > media and blogs
 
@@ -1042,6 +1132,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [The Story of Self-Repairing Flight Control Systems](https://crgis.ndc.nasa.gov/crgis/images/c/c9/88798main_srfcs.pdf)
 
 ### Automotive & Trasportation
+
+[Back to Top](#contents)
 
 || [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) | [self-driving-cars-medium](https://medium.com/self-driving-cars) |  [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) | [av-resources](https://github.com/gopala-kr/summary/tree/master/av-resources) ||
 
@@ -1067,6 +1159,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Artificial Intelligence (AI) in Transportation Market 2018 Global Industry By Applications, Types, Key Players, New Technologies, Growth Prediction By 2022](https://www.reuters.com/brandfeatures/venture-capital/article?id=28290)
 
 ### Finance & Banking
+
+[Back to Top](#contents)
 
 > Top Media
 
@@ -1106,6 +1200,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
 
 ### Logistics
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [glo-ai-in-logistics-white-paper](https://www.logistics.dhl/content/dam/dhl/global/core/documents/pdf/glo-ai-in-logistics-white-paper.pdf)
@@ -1115,6 +1212,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [Here, There, Everywhere: Transforming Logistics with Self-Learning AI](https://blogs.nvidia.com/blog/2018/03/28/self-learning-ai-for-logistics/)
 
 ### Customer Service, experience and engagement
+
+[Back to Top](#contents)
+
 > media and blogs
 
 - [Rise of the Chatbots: How AI Changed Customer Service](https://www.salesforce.com/hub/service/how-ai-changed-customer-service/)
@@ -1135,6 +1235,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### AI in oil & gas
 
+[Back to Top](#contents)
+
+
 - [Artificial Intelligence in Oil and Gas – Comparing the Applications of 5 Oil Giants](https://www.techemergence.com/artificial-intelligence-in-oil-and-gas/)
 - [AI in Oil & Gas Market worth 2.85 Billion USD by 2022](https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-oil-gas.asp)
 - [artificial-intelligence-oil-gas-market](https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-oil-gas-market-87246288.html)
@@ -1145,6 +1248,8 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 
 ### IT industry
+
+[Back to Top](#contents)
 
 - [How Artificial Intelligence (AI) Will Impact IT Service Management](https://www.ivanti.com/blog/artificial-intelligence-ai-will-impact-service-management)
 - [how-ai-will-impact-it-service-management](https://www.servicedeskshow.com/feature/how-ai-will-impact-it-service-management/)
