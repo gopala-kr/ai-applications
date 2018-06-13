@@ -186,7 +186,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Reinforcement learning
 - Reality capture and reality computing
 
-<h2><a name="regression">Regression (Supervised) - Univariate, Multivariate, ...</a></h2>
+**Regression (Supervised) - Univariate, Multivariate, ...**
 
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
@@ -441,7 +441,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Credit card fraud detection
 
 
-**reinforcement">Reinforcement Learning**
+**Reinforcement Learning**
 
 - Q-learning
 - Markov decision process (MDP)
@@ -958,18 +958,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-- [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
-- [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
-- [Machine Translation](https://github.com/keon/awesome-nlp#machine-translation)
-- [Dialogs and Conversational](https://github.com/keon/awesome-nlp#dialogs-and-conversational)
-- [Memory and Attention Models](https://github.com/keon/awesome-nlp#memory-and-attention-models)
-- [Named Entity Recognition](https://github.com/keon/awesome-nlp#named-entity-recognition)
-- [Natural Language Understanding](https://github.com/keon/awesome-nlp#natural-language-understanding)
-- [Question Answering and Knowledge Extraction](https://github.com/keon/awesome-nlp#question-answering-and-knowledge-extraction)
-- [Text Summarization](https://github.com/keon/awesome-nlp#text-summarization)
-- [Text Classification](https://github.com/keon/awesome-nlp#text-classification)
-
-
 - [Text processing](https://en.wikipedia.org/wiki/Text_processing)
 - [Lexical Analysis](https://en.wikipedia.org/wiki/Lexical_analysis)
 - [Text Mining](https://en.wikipedia.org/wiki/Text_mining)
@@ -1065,7 +1053,16 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Smart instant messaging
     + Companies
         * [Google Allo](https://allo.google.com/) smart messaging app (https://allo.google.com/)
-
+- [Text Embeddings](https://github.com/keon/awesome-nlp#text-embeddings)
+- [Thought Vectors](https://github.com/keon/awesome-nlp#thought-vectors)
+- [Machine Translation](https://github.com/keon/awesome-nlp#machine-translation)
+- [Dialogs and Conversational](https://github.com/keon/awesome-nlp#dialogs-and-conversational)
+- [Memory and Attention Models](https://github.com/keon/awesome-nlp#memory-and-attention-models)
+- [Named Entity Recognition](https://github.com/keon/awesome-nlp#named-entity-recognition)
+- [Natural Language Understanding](https://github.com/keon/awesome-nlp#natural-language-understanding)
+- [Question Answering and Knowledge Extraction](https://github.com/keon/awesome-nlp#question-answering-and-knowledge-extraction)
+- [Text Summarization](https://github.com/keon/awesome-nlp#text-summarization)
+- [Text Classification](https://github.com/keon/awesome-nlp#text-classification)
 
 ------------------
 ### Speech Methods
@@ -1758,7 +1755,8 @@ Visualization tools
 
 ### Open Datasets
 
-**Lists**
+[Back to Top](#contents)
+
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
 - [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
