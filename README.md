@@ -13,7 +13,7 @@
 
  - [AI approaches](#ai-approaches)
  - [The Multidisciplinary](#the-multidisciplinary)
- - [Why AI is on Rise?](#why-ai-is-on-rise?)
+ - [Why AI is on Rise](#why-ai-is-on-rise)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
    - [Methods, categories, algorithms and applications](#methods-categories-algorithms-and-applications)
@@ -144,7 +144,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
 ---------------
-### Why AI is on Rise?
+### Why AI is on Rise
 
 [Back to Top](#contents)
 
