@@ -21,7 +21,7 @@
    - [Robotics Methods](#robotics-methods)   
  - [AI Tools](#ai-tools)
  - [Hardware Options Infrastructure for AI](#hardware-options-infrastructure-for-ai)
- - [AI and Cloud](#ai-and-cloud)
+ - [AI, Cloud, API's and Platforms](#ai-cloud-apis-and-platforms)
  - [DataMining MachineLearning DeepLearning Applications](#datamining-machinelearning-deeplearning-applications)
  - [Computer Vision Applications](#computer-vision-applications)
  - [NLP Applications](#nlp-applications)
@@ -33,10 +33,12 @@
    - [Bigdata Tools](#bigdata-tools)
    - [Datascience Desciplines](#datascience-desciplines)
    - [References](#references)
+   - [Cheatsheets](#cheatsheets)
  - [AI MTD](#ai-mtd)
    - [Movies](#movies)
    - [TV shows](#tv-shows)
    - [Dcoumentaries](#documentaries)
+ - [Principles and Rules](#principles-and-rules)
  - [AI Industrial Applications](#ai-industrial-applications)
    - [Healthcare](#healthcare)
    - [Manufacturing](#manufacturing)
@@ -1200,12 +1202,58 @@ Have a quick look at these threads
 
 ------------------
 
-## AI and Cloud
+## AI, Cloud, API's and Platforms
 
 [Back to Top](#contents)
 
 ![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
 ![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
+
+- [AWS Artificial Intelligence](https://aws.amazon.com/amazon-ai/)
+- [AWS SageMaker](https://aws.amazon.com/sagemaker/)
+- [AWS Machine Learning](https://aws.amazon.com/documentation/machine-learning/)
+    + [Lex](https://aws.amazon.com/lex/)
+    + [Rekognition](https://aws.amazon.com/rekognition/)
+    + [Polly](https://aws.amazon.com/polly/)
+    + [Machine Learning](https://aws.amazon.com/machine-learning)
+    + [AWS Athena](https://aws.amazon.com/athena/) - An interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL
+- [Google Cloud Machine Learning](https://cloud.google.com/ml/docs/) - Machine Learning on any data, of any size
+    + [Machine Learning Engine](https://cloud.google.com/ml-engine/)
+    + [Jobs API](https://cloud.google.com/jobs-api/)
+    + [Video Intelligence API](https://cloud.google.com/video-intelligence/)
+    + [Vision API](https://cloud.google.com/vision/)
+    + [Speech API](https://cloud.google.com/speech/)
+    + [Natural Language API](https://cloud.google.com/natural-language/)
+    + [Translation API](https://cloud.google.com/translate/)
+- Platforms and other
+    + [Houndify](https://www.houndify.com/) - Add a voice-enabled AI to anything
+    + [text-processing.com](http://text-processing.com/) - Natural Language Processing APIs and Python NLTK Demos
+    + [IBM Watson](http://www.ibm.com/watson/developercloud/doc/getting_started/) - Cognitive computing features in your app using IBM Watson's Language, Vision, Speech and Data APIs
+    + [Microsoft Machine Learning](Machine Learning) - Powerful cloud based analytics
+    + [BigML](https://bigml.com/)
+    + [Carto.com](https://carto.com/)
+    + [RISELab](https://rise.cs.berkeley.edu/) - Real-time Intelligence with Secure Execution
+    + [Crowdflower](https://www.crowdflower.com/) - AI for your business: Training data, machine learning and human-in-the-loop in a single platform
+- [Clarifai](https://clarifai.com/)
+- [Recast.ai](https://recast.ai/)
+- [Dialogflow - Formerly API.AI](https://dialogflow.com/)
+- [IBM Watson](https://www.ibm.com/watson/developer-resources/)
+- [Networked Insights - Audience.ai](http://www.networkedinsights.com/)
+- [KnowledgeHound](http://www.knowledgehound.com/)
+- [WebyClip](https://webyclip.com/)
+- [Infer](https://www.infer.com/)
+- [AgilOne](http://www.agilone.com/)
+- [SiteZeus](https://sitezeus.com/)
+- [Sentient's AI platform](https://www.sentient.ai/digital-marketing/)
+- [CamFind](http://camfindapp.com/)
+- [Tagalys](https://www.tagalys.com/)
+- [Findally](https://www.findally.com/)
+- [Persado](https://persado.com/)
+- [Boomtrain](https://boomtrain.com/why_boomtrain/)
+- [Mozilla's Common Voice](https://voice.mozilla.org/)
+
+
+> Media and blogs
 
 - [Google: CLOUD AI](https://cloud.google.com/products/machine-learning/)
 - [Azure AI](https://azure.microsoft.com/en-in/overview/ai-platform/)
@@ -1458,7 +1506,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
-so, you have data --> build data pipelines
+![data-science-puzzle-600](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-600.jpg)
+
+**so, you have data --> build data pipelines**
 
 ![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
 
@@ -1474,6 +1524,7 @@ so, you have data --> build data pipelines
 [Back to Top](#contents)
 
 ![Big-Data-Abstraction](https://blogs.informatica.com/wp-content/uploads/2017/04/Big-Data-Abstraction-1-768x444.jpg)
+![fig1](https://www.ibm.com/developerworks/library/bd-archpatterns1/fig1.png)
 
 -------------
 ### Bigdata Tools
@@ -1594,13 +1645,43 @@ so, you have data --> build data pipelines
 | [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
 | [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes) ||
 
+Visualization tools
+
+- [The Python Graph Gallery](https://python-graph-gallery.com/)
+- [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
+- [Python Plotting for EDA](http://pythonplot.com/)
+- [dataviz.tools](http://dataviz.tools/)
+- [Tableau Public Gallery](https://public.tableau.com/en-us/s/gallery)
+- [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
+- [D3 List Gallery](http://christopheviau.com/d3list/gallery.html)
+- [Google Charts Gallery](https://developers.google.com/chart/interactive/docs/gallery)
+- [Matplotlib Gallery](http://matplotlib.org/gallery.html)
+- [Seaborn Gallery](http://seaborn.pydata.org/examples/)
+- [Bokeh Gallery](http://bokeh.pydata.org/en/latest/docs/gallery.html)
+- [Power BI Custom Visuals](https://app.powerbi.com/visuals/)
+- [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+- [The R Graph Gallery](http://www.r-graph-gallery.com/all-graphs/)
+- [ggplot 2](http://docs.ggplot2.org/current/index.html)
+- [Zingchart Gallery](https://www.zingchart.com/gallery/)
+- [Visual Complexity](http://www.visualcomplexity.com/vc/)
+- [Kantar Information is Beautiful Awards](http://www.informationisbeautifulawards.com/showcase)
+- [New York Times](http://collection.marijerooze.nl/)
+- [Visually Staff Picks](http://visual.ly/staffpicks)
+- [Life Universe](http://moebio.com/research/lifeuniverse/)
+- [Visualgo](https://visualgo.net/)
+- [See, also](http://seealso.org/)
+- [Esri Maps](http://www.esri.com/esri-news/maps)
+- [Carto Maps](https://carto.com/gallery/)
+- [MobileVis](http://mobilev.is/)
+- [Visualizing Data Resources](http://www.visualisingdata.com/resources/)
+
 
 - [Top Algorithms and Methods Used by Data Scientists](http://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html)
 
 -----------
-## Cheetsheets
+### Cheetsheets
 
-- Python
+**Python**
 
 | [Pandas Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 | [NumPy Cheat Sheet - Python for Data Science](https://www.dataquest.io/blog/numpy-cheat-sheet/)
@@ -1610,13 +1691,13 @@ so, you have data --> build data pipelines
 | [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 | [Python For Data Science Cheat Sheet - Python Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf) |
 
-- R
+**R**
 
 | [RStudio Cheat Sheet Collection](https://www.rstudio.com/resources/cheatsheets/)
 | [R Reference Card for Data Mining](https://cran.r-project.org/doc/contrib/YanchangZhao-refcard-data-mining.pdf)
 | [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_128) |
 
-- Data Science and Machine Learning
+**Data Science and Machine Learning**
 
 | [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
 | [11 Steps for Data Exploration in R](https://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
@@ -1628,39 +1709,42 @@ so, you have data --> build data pipelines
 | [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 | [Scikit-Learn Cheat Sheet: Python Machine Learning](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet?imm_mid=0f1d05&cmp=em-data-na-na-newsltr_20170524) |
 
-- Artificial Intelligence
+**Artificial Intelligence**
 
 | [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
 | [Penn Treebank POS Tags](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 | [Brown Corpus](http://clu.uni.no/icame/manuals/) |
 
-- Big Data
 
-- Statistics and Mathematics
+**Statistics and Mathematics**
 
 | [MIT Statistics Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 | [ALL IN ONE MATHEMATICS CHEAT SHEET](http://www.alexspartalis.com/uploads/3/5/9/8/3598073/all_in_one_cheat_sheet_v2.6_web.pdf) |
 
-- Software, Packages, and Libraries
+**Software, Packages, and Libraries**
 
-| [The Data Stack](https://blog.liip.ch/archive/2017/02/13/data-stack.html) |
+| [The Data Stack](https://blog.liip.ch/archive/2017/02/13/data-stack.html) | [bigdata-2016](https://www.simplilearn.com/ice9/Other_Infographics/Top-12-interesting-careers-to-explore-in-bigdata-2016-final.jpg) | [Big Data’s Leadership & Development](https://online.norwich.edu/academic-programs/masters/leadership/resources/infographics/big-data-growing-role)
 
-- Databases and querying languages
+**Databases and querying languages**
 
 | [MongoDB - Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) |
 
-- Shortcuts
+**Shortcuts**
 
 | [Jupyter Notebook Keyboard Shortcuts](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)|
 
-- Markup and Syntax
+
+**Markup and Syntax**
 
 | [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 | [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/) |
 
+
+--------------
+
 ![nxDTMqJ](https://xmindshare.s3.amazonaws.com/preview/WvfC-nxDTMqJ-97899.png)
 ![eVZHWtc](https://xmindshare.s3.amazonaws.com/preview/LKF2-eVZHWtc-47347.png)
-
+![1528892035](https://img.labnol.org/di/data-chart-type.png?_ga=2.77551701.1750931711.1528892035-757378008.1528892034)
 
 
 --------------------------
@@ -1746,7 +1830,132 @@ so, you have data --> build data pipelines
 | [The Future of AI: from Deep Learning to Deep Understanding, Ben Goertzel](https://www.youtube.com/watch?v=nbUg9IuIs_8)
 | [Ted- Artificial intelligence](https://www.ted.com/playlists/310/talks_on_artificial_intelligen) ||
 
+----------------------
 
+### Principles and Rules
+
+- Principle of least priviledge - Requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose
+- Peter principle - The selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role
+    + Employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."
+- Pareto principle
+    + 20% of the features will account for 80% of the value
+    + 20% of the work will produce 80% of the value
+- Ninety/Ninety Rule
+    + The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time. (180% of time)
+- SUCCESs - Made to stick principles
+    + Simplicity
+    + Unexpectedness
+    + Concreteness
+    + Credibility
+    + Emotions
+    + Stories
+- Build, measure, learn
+    + Maximize learning through incremental and iterative engineering
+    + Build relates to MVP, ie, the simplest product to show customers to get most learning at that time
+    + Goal is always to maximize learning and not build fully featured beta/prototype
+    + Lean startup version: hypothesis, design experiments, test, insight
+
+## Laws
+- Parkinson's law of triviality - Members of an organisation give disproportionate weight to trivial issues
+- Parkinson's law - Work expands so as to fill the time available for its completion
+- Brooks's law - Adding manpower to a late software project makes it later
+- Hofstadter's law - It always takes longer than you expect, even when you take into account Hofstadter's Law
+- Little's law - The long-term average number of customers in a stable system L is equal to the long-term average effective arrival rate, λ, multiplied by the (Palm‑)average time a customer spends in the system, W; or expressed algebraically: L = λW.
+
+## Quotes, Idioms, and Sayings
+- Nothing is more permanent than a temporary solution
+- The world doesn't need wrong answers in record time
+- Work on the business, not in the business
+- Fail to plan is to plan to fail
+- Silence equals agreement
+- Deliver results rather than excuses
+- Don't prove own importance by vetoing good ideas and road-blocking productive work
+- Accept total accountability and make it happen
+- When making decisions, slower ultimate success is better than rapid permanent failure
+- YAGNI (from XP) - You aren’t gonna need it
+    + "Always implement things when you actually need them, never when you just foresee that you need them."
+- DTSTTCPW (from XP) - "do the simplest thing that could possibly work"
+- Skip blame and complain game and get things done despite major obstacles. Victim mentality is the kiss of death.
+- KISS - Keep it simple, stupid
+- A good plan implemented today is better than a perfect plan implemented tomorrow
+- MLP - minimum lovable product
+- A problem without a solution is a complaint
+- Working on the right thing is as—if not more important—than how hard you are working
+- You can’t have five North Stars, you can’t have five most important goals…
+- Prioritize goals that are ‘critical’ ahead of goals that are ‘beneficial
+
+## General terms, models, acronymns, and concepts
+- Priorities for business (in order)
+    + People
+    + Products
+    + Profits
+- Iron triangle success
+    + Build MVP based on perceived value and market research with associated scope and let that choose the time and resources required
+- GRIT
+    + Generosity
+    + Respect
+    + Integrity
+        * Accountability
+    + Truth
+- Give credit, don't take it
+- The most effective way to solve any problem is to put together all of the people with the skills required to solve it, i.e., a cross-functional or multi-disciplinary team
+- A startup is a temporary organization designed to search for a repeatable and scalable business model
+- When people don’t take responsibility
+    + Reputations decline
+    + Timelines are extended
+    + Performance falls short
+    + Frustration shoots up
+    + Goals are adapted
+    + Accusation and blame escalates
+    + Gossip soars. “What’s up with Fred? He never get’s things done on time.
+    + Excuses abound. Irresponsible people give “good” reason for irresponsibility.
+    + Higher ups complain
+    + Stress increase
+- Curse of knowledge
+    + The curse of knowledge is a cognitive bias that leads better-informed parties to find it extremely difficult to think about problems from the perspective of lesser-informed parties
+    + Aka the ‘tapper effect’ (2.5% guessed right), charades, etc.
+- Maslow's Hierarchy of Needs
+    + Self-actualization
+    + Esteem
+    + Love/belonging
+    + Safety
+    + Physiological
+- Analysis paralysis
+    + The state of over- analyzing (or over-thinking) a situation so that a decision or action is never taken, in effect paralyzing the outcome
+- The paradox of choice
+- SMART model for goals
+    + S – Specific
+    + M – Measurable
+    + A – Achievable
+    + R – Relevant
+    + T – Time-boxed
+- FURPS - Model for classifying software quality attributes
+    + Functionality
+    + Usability
+    + Reliability
+    + Performance
+    + Supportability
+- AAARR metrics for pirates
+    + Acquisition
+    + Activation
+    + Retention
+    + Referrals
+    + Revenue
+- MTMM - Metric that matters most
+- Problem space vs solution space
+    + Problem space - user benefit
+        * A customer problem, need, or benefit that the product should address
+        * A product requirement
+    + Solution space - product
+        * A specific implementation to address the need or product requirement
+- INVEST - user story model
+    + Independent: The user story should be self-contained, in a way that there is no inherent dependency on another user story.
+    + Negotiable: User stories, up until they are part of an iteration, can always be changed and rewritten.
+    + Valuable: A user story must deliver value to the end user.
+    + Estimatable: You must always be able to estimate the size of a user story.
+    + Small: User stories should not be so big as to become impossible to plan/task/prioritize with a certain level of certainty.
+    + Testable: The user story or its related description must provide the necessary information to make test development possible.
+    
 -------------------------------
 ------------------------------
 
