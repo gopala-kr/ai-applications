@@ -14,7 +14,7 @@
  - [AI approaches](#ai-approaches)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
-   - [Supervised, Unsupervised and Reinforcement learning methods, algorithms, categories and applications](#supervised-unsupervised-and-reinforcement-learning-methods-algorithms-categories-and-applications)
+   - [Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications](#supervised-unsupervised-and-reinforcement-learning-methods-categories-algorithms-and-applications)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
@@ -34,6 +34,7 @@
    - [Datascience Desciplines](#datascience-desciplines)
    - [References](#references)
    - [Cheatsheets](#cheatsheets)
+   - [Open Datasets](#open-datasets)
  - [AI MTD](#ai-mtd)
    - [Movies](#movies)
    - [TV shows](#tv-shows)
@@ -1129,9 +1130,7 @@ Have a quick look at these threads
 - [AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 - [DL4J Deep Learning Use Cases](https://deeplearning4j.org/use_cases)
-- [Wikipedia Outline of Machine Learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
 - [Wikipedia Machine Learning Portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
-- [Wikipedia Outline of Artificial Intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
 - [Wikipedia Artificial Intelligence Portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
 - [Wikipedia List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 - [Wikipedia Outline of Statistics](https://en.wikipedia.org/wiki/Outline_of_statistics)
@@ -1684,7 +1683,7 @@ Visualization tools
 
 -----------
 
-### Cheetsheets
+### Cheatsheets
 
 [Back to Top](#contents)
 
@@ -1755,6 +1754,88 @@ Visualization tools
 ![eVZHWtc](https://xmindshare.s3.amazonaws.com/preview/LKF2-eVZHWtc-47347.png)
 ![1528892035](https://img.labnol.org/di/data-chart-type.png?_ga=2.77551701.1750931711.1528892035-757378008.1528892034)
 
+--------------------
+
+### Open Datasets
+
+**Lists**
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
+- [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
+- [Rdatasets list](http://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [17 places to find datasets for data science projects](http://www.dataquest.io/blog/free-datasets-for-projects/)
+- [Machine Learning Data Set Repository](http://mldata.org/)
+- [The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
+- [AWS Public Datasets Home](https://aws.amazon.com/datasets/)
+- [AWS Public Datasets](https://aws.amazon.com/public-datasets/)
+- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [FiveThirtyEight data](https://github.com/fivethirtyeight/data)
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
+- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
+- [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+- [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
+- [Deep learning datasets](http://deeplearning.net/datasets/)
+- [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
+- [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
+- [Wikipedia List of datasets for machine learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
+- [NYC OpenData](https://data.cityofnewyork.us/browse)
+- [Data.gov](https://www.data.gov/)
+- [FiveThirtyEight datasets and code](https://github.com/fivethirtyeight/data)
+- [data.world](https://data.world/)
+- [Great IoT, Sensor and other Data Sets Repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)
+- [Quora - Where can I find large datasets open to the public?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+- [Subreddit](https://www.reddit.com/r/datasets/)
+- [AI and Deep Learning in 2017 – A Year in Review - Datasets section](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+- [70 Amazing Free Data Sources You Should Know](https://www.kdnuggets.com/2017/12/big-data-free-sources.html)
+
+**Dataset By Category**
+- Streaming Open Data
+    + [Satori](https://www.satori.com) - Live streaming open data
+- Classification
+    + http://archive.ics.uci.edu/ml/datasets/Wine+Quality
+    + http://archive.ics.uci.edu/ml/datasets/Wine
+    + http://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
+    + http://archive.ics.uci.edu/ml/datasets/Student+Performance
+    + http://archive.ics.uci.edu/ml/datasets/seeds
+    + http://archive.ics.uci.edu/ml/datasets/Iris
+    + http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
+    + http://archive.ics.uci.edu/ml/datasets/BLOGGER
+- Clustering
+    + http://archive.ics.uci.edu/ml/datasets/User+Knowledge+Modeling
+    + http://archive.ics.uci.edu/ml/datasets/Sponge
+    + http://archive.ics.uci.edu/ml/datasets/seeds
+    + http://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index
+- Recommendender
+    + http://grouplens.org/datasets/movielens/
+    + http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+    + http://grouplens.org/datasets/hetrec-2011/
+    + https://en.wikipedia.org/wiki/Wikipedia:Database_download#English-language_Wikipedia
+    + http://planet.openstreetmap.org/planet/full-history/
+    + http://webscope.sandbox.yahoo.com/catalog.php?datatype=r
+    + http://www.cs.cornell.edu/people/pabo/movie-review-data/
+    + http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data
+- Regression
+    + http://archive.ics.uci.edu/ml/datasets/Wine+Quality
+    + http://archive.ics.uci.edu/ml/datasets/Student+Performance
+    + http://archive.ics.uci.edu/ml/datasets/Automobile
+    + http://archive.ics.uci.edu/ml/datasets/Auto+MPG
+- Computer Vision and Recognition
+    + http://www.cvpapers.com/datasets.html
+    + http://www.image-net.org/
+- IoT
+
+**Specific Data Sets**
+- [3 Million Instacart Orders, Open Sourced](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+**Data Portals and Meta portals**
+- [DataPortals.org](http://dataportals.org/)
+- [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+- [Quandl](https://www.quandl.com/)
+
+**Data Marketplaces and Monetization**
+- [Dawex](https://www.dawex.com/en/)
 
 --------------------------
 ------------------------
