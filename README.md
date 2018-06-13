@@ -22,12 +22,12 @@
  - [AI Tools](#ai-tools)
  - [Hardware Options Infrastructure for AI](#hardware-options-infrastructure-for-ai)
  - [AI and Cloud](#ai-and-cloud)
- - [DataMining MachineLearning DeepLearning Applications](#datamining-machinelearning-deepLearning-applications)
+ - [DataMining MachineLearning DeepLearning Applications](#datamining-machinelearning-deeplearning-applications)
  - [Computer Vision Applications](#computer-vision-applications)
  - [NLP Applications](#nlp-applications)
  - [Speech Recog Applications](#speech-recog-applications)
  - [AI in Robotics Applications](#ai-in-robotics-applications)
- - [Bigdata and Data Science](#bigdata-and-datascience)
+ - [Bigdata and Data Science](#bigdata-and-data-science)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
@@ -40,7 +40,7 @@
  - [AI Industrial Applications](#ai-industrial-applications)
    - [Healthcare](#healthcare)
    - [Manufacturing](#manufacturing)
-   - [Legal or Law](#legal-law)
+   - [Legal or Law](#legal-or-law)
    - [Games](#games)
    - [Telecommunications](#telecommunications)
    - [Music](#music)
@@ -53,10 +53,10 @@
    - [Cybersecurity](#cybersecurity)
    - [Aviation](#aviation)
    - [Automotive and Trasportation](#automotive-and-trasportation)
-   - [Finance and Banking](#finance-banking)
+   - [Finance and Banking](#finance-and-banking)
    - [Logistics](#logistics)
    - [Customer Service experience and engagement](#customer-service-experience-and-engagement)
-   - [Oil and gas](#ai-in-oil-and-gas)
+   - [Oil and gas](#oil-and-gas)
    - [IT industry](#it-industry)
 
 --------------------------
@@ -648,7 +648,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 -----------------------
 
-## AI in Robotics Applictions
+## AI in Robotics Applications
 
 [Back to Top](#contents)
 
