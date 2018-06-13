@@ -12,7 +12,8 @@
 #### Contents
 
  - [AI approaches](#ai-approaches)
- - [Why AI is on Rise?](why-ai-is-on-rise?)
+ - [Multidisciplinary](#multidisciplinary)
+ - [Why AI is on Rise?](#why-ai-is-on-rise?)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
    - [Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications](#supervised-unsupervised-and-reinforcement-learning-methods-categories-algorithms-and-applications)
@@ -135,6 +136,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
+### Multidisciplinary
+
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
 ---------------
@@ -186,7 +189,6 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Algorithms and Applications by Data Type
 
-Ref <sup>2</sup>
 - Sound/Audio
     + Voice detection/recognition
     + Voice search
