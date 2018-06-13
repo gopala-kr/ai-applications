@@ -1658,6 +1658,7 @@ so, you have data --> build data pipelines
 | [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 | [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/) |
 
+![nxDTMqJ](https://xmindshare.s3.amazonaws.com/preview/WvfC-nxDTMqJ-97899.png)
 ![eVZHWtc](https://xmindshare.s3.amazonaws.com/preview/LKF2-eVZHWtc-47347.png)
 
 
