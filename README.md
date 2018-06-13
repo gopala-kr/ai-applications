@@ -1643,6 +1643,10 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 ----------------
 ![data-science-puzzle-2017](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-2017.jpg)
 
+------------------
+
+[Back to Top](#contents)
+
 **so, you have data --> build data pipelines**
 
 ![334-Think-Big-Analytics-RGB-KYLO-Diagram-v12](http://www.thinkbiganalytics.com/wp-content/uploads/2016/10/334-Think-Big-Analytics-RGB-KYLO-Diagram-v12.png)
