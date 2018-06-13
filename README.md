@@ -179,8 +179,85 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Sparse dictionary learning
 - Genetic algorithms
 
+-----------------
 
-**Algorithms and Applications by Task**
+#### Algorithms and Applications by Data Type
+
+Ref <sup>2</sup>
+- Sound/Audio
+    + Voice detection/recognition
+    + Voice search
+    + Speaker identification
+    + Sentiment analysis
+    + Flaw detection (engine noise)
+    + Fraud detection (latent audio artifacts)
+    + Speech-to-Text
+- Time Series/sequence
+    + Log analysis/Risk detection
+    + Enterprise resource planning
+    + Predictive analysis using sensor data
+    + Business and economic analysis
+    + Recommendation engine
+    + Examples and algorithms
+        * Web log
+            - RNN
+        * Time series in general (has time stamp)
+            - RNN
+        * Sensors and measures over time
+            - RNN
+        * Arbitrarily long sequence that may take full input data
+            - RNN
+            - Markova model with large hidden state space
+        * Fixed length sequence
+            - CNN
+            - Multilayer perceptron
+- Text
+    + Sentiment analysis
+    + Augmented search, theme detection
+    + Threat detection
+    + Fraud detection
+    + Named-entity recognition
+- Image
+    + Facial recognition and expression recognition
+    + People identification
+    + Image search
+    + Machine vision
+    + Photo clustering
+    + Image recognition/classification
+        * Is it a certain class or multiple classes (e.g., cat, car, ...)
+    + Object recognition and detection
+        * Detection is the location of the recognized object in the image (i.e., localization)
+            - Output is bounding box (b_x, b_y, b_h, B_w), is object recognized in image, and class label(s)
+            - Loss function calculation depends on whether the object is detected in the image
+            - Sliding window detection (window size and stride)
+                + Pass window as input to CNN
+    + Landmark detection
+        * X,Y point pairs representing individual landmarks in the image
+        * Useful for emotion detection, filters, pose detection, ...
+    + Algorithms
+        * CNN
+- Video
+    + Motion detection
+    + Real-time threat detection
+    + Gesture recognition
+- Unlabeled and/or unstructured data
+    + Clustering
+    + Anamoly detection (detecting anamolies)
+    + Search (detecting similarities)
+        * Compare docs, images, sounds, etc., and return similar items
+- Labeled data
+    + Predictive analytics
+        * Regression and classification
+            - Hardware failure
+            - Health degredation, failure, and disease
+            - Customer churn
+            - Employee churn
+- Columnar/tabular
+    + Classic multilayer perceptrons + feature engineering
+
+----------------------
+
+#### Algorithms and Applications by Task
 
 - Prediction
     + Regression/classification
@@ -207,7 +284,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Reinforcement learning
 - Reality capture and reality computing
 
-**Regression (Supervised) - Univariate, Multivariate, ...**
+--------------
+
+#### Regression (Supervised) - Univariate, Multivariate, ...
 
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
@@ -235,7 +314,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
         * [Numerai](https://numer.ai/)
         * [QPLUM](https://www.qplum.co/)
 
-**Classification (Supervised) - Unary (one-class), Binary, and Multi-class</a>**
+#### Classification (Supervised) - Unary (one-class), Binary, and Multi-class
 
 - Linear
     + Linear discriminant analysis (LDA), aka Fisher's linear discriminant
@@ -271,15 +350,20 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Credit decisions
     + Companies
         * [Underwrite.ai](http://www.underwrite.ai/)
+        
+        
+------------------
 
-**Regularization and Overfitting Prevention**
+#### Regularization and Overfitting Prevention
 
 - Least absolute shrinkage and selection operator (LASSO)
 - Ridge regression
 - Akaike information criterion (AIC)
 - Bayesian information criterion (BIC)
 
-**Clustering (Unsupervised)**
+--------------
+
+#### Clustering (Unsupervised)
 
 - Hierarchical clustering, aka connectivity-basedclustering and Hierarchical Cluster Analysis (HCA)
     + Single-linkage clustering
@@ -307,7 +391,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Ensemble Methods (Supervised, Unsupervised)**
+--------------
+
+#### Ensemble Methods (Supervised, Unsupervised)
 
 - Bootstrap aggregating (bagging)
     + Random Forests and ExtraTrees
@@ -330,7 +416,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Bayesian model combination (BMC)
 - Bucket of models
 
-**Recommender Systems and Recommendations**
+
+------------
+
+####  Recommender Systems and Recommendations
 
 - Collaborative filtering
 - Content-based filtering
@@ -368,7 +457,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-**Neural Networks and Deep Learning**
+#### Neural Networks and Deep Learning
 
 - Feed forward neural networks (FF or FFNN) and perceptrons (P)
 - Radial basis function (RBF)
@@ -432,9 +521,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Combinations
     + Image captioning (LSTM + CNN)
 
+-----------------------
 
-
-**Anomaly Detection (Supervised, Unsupervised, Semi-supervised)**
+#### Anomaly Detection (Supervised, Unsupervised, Semi-supervised)
 
 **Algorithms**
 - Density-based techniques - K-nearest neighbor, Local outlier factor
@@ -465,8 +554,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Application performance
 - Credit card fraud detection
 
+------------------
 
-**Reinforcement Learning**
+#### Reinforcement Learning
 
 - Q-learning
 - Markov decision process (MDP)
@@ -492,7 +582,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-**Model selection, validation, and resampling methods**
+#### Model selection, validation, and resampling methods
 
 - Cross-validation
 - Hyperparameter optimization
@@ -502,7 +592,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Bayesian information criterion (BIC)
 - Minimum description length (MDL)
 
-**Model tuning: bias variance tradeoff and model complexity**
+#### Model tuning: bias variance tradeoff and model complexity
 
 - Validation curve
 - Learning curve
@@ -510,7 +600,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Goodness-of-fit metrics
 - Grid search
 
-**Feature extraction, feature selection, and feature engineering**
+#### Feature extraction, feature selection, and feature engineering
 
 - Wrapper methods
 - Sensitivity analysis
@@ -525,7 +615,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Least absolute shrinkage and selection operator (LASSO)
 - Subset selection
 
-**Dimensionality Reduction**
+#### Dimensionality Reduction
 
 - Principle component analysis (PCA)
 - Kernel PCA
@@ -543,11 +633,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
     + Inverse document frequency (IDF)
 - Latent Dirichlet Allocation (LDA)
 
-**Virtual and Augmented Reality**
 
-- Coming soon...
-
-**Information Retrieval**
+#### Information Retrieval
 
 - Discounted cumulative gain (DCG)
 - Discounted cumulative gain (nDCG)
@@ -579,7 +666,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Monte Carlo tree search (MCTS)
 - Evolutionary computation
 
-**Mathematical/quantitative Finance and Risk Management**
+
+--------------
+
+#### Mathematical/quantitative Finance and Risk Management
 
 - [Risk management](https://en.wikipedia.org/wiki/Risk_management)
 - [Mathematical/quantitative Finance](https://en.wikipedia.org/wiki/Mathematical_finance)
@@ -606,7 +696,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**survival">Survival**
+**Survival**
 
 - [Survival analysis](https://en.wikipedia.org/wiki/Survival_analysis)
 
@@ -767,7 +857,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-**Other Algorithms**
+#### Other Algorithms
 
 - Massive-scale graph
 - Geospatial temporal predictive analytics
@@ -786,8 +876,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Genetic algorithms
 
 
+--------------------
 
-> **Literature surveys:**
+#### Literature surveys
 
 [Back to Top](#contents)
 - [mlsurveys](https://www.mlsurveys.com/)
