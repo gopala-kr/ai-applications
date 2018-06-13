@@ -16,7 +16,7 @@
  - [Why AI is on Rise?](#why-ai-is-on-rise?)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
-   - [Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications](#supervised-unsupervised-and-reinforcement-learning-methods-categories-algorithms-and-applications)
+   - [Methods, categories, algorithms and applications](#methods-categories-algorithms-and-applications)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
@@ -166,7 +166,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-### Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications
+### Methods, categories, algorithms and applications
 
 [Back to Top](#contents)
 
