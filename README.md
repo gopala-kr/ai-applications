@@ -41,6 +41,7 @@
      - <a href="#scientists">Data Scientists</a>
      - <a href="#stats">Statistics, Probability, and Mathematics</a>
      - <a href="#jobs">Jobs, Skills, and Salary Trends</a>
+     - <a href="#iot">Internet of Things (IoT)</a>
      - <a href="#tools">Tools and Language Popularity, Comparisons, Trends, ...</a>
      - <a href="#freelancing">Freelancing and Consulting</a>
      - <a href="#online-learning">Online Learning</a>
@@ -2182,6 +2183,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="scientists"></a>Data Scientists</h4>
 
+[Back to Top](#contents)
+
 - [How to Consistently Hire Remarkable Data Scientists](http://firstround.com/review/how-to-consistently-hire-remarkable-data-scientists/)
 - [Battle of the Data Science Venn Diagrams](http://www.prooffreader.com/2016/09/battle-of-data-science-venn-diagrams.html)
 - [Hiring a data scientist](https://blog.wikimedia.org/2017/02/02/hiring-data-scientist/)
@@ -2203,13 +2206,19 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="stats"></a>Statistics, Probability, and Mathematics</h4>
 
+[Back to Top](#contents)
+
 - [Descriptive Statistics Key Terms, Explained](https://www.kdnuggets.com/2017/05/descriptive-statistics-key-terms-explained.html)
 
-<h2><a name="iot"></a>Internet of Things (IoT)</h2>
+<h4><a name="iot"></a>Internet of Things (IoT)</h4>
+
+[Back to Top](#contents)
 
 - [The Internet of Things Market](https://www.oreilly.com/ideas/the-internet-of-things-market)
 
 <h4><a name="jobs"></a>Jobs, Skills, and Salary Trends</h4>
+
+[Back to Top](#contents)
 
 - [The 3 Highest Paid Jobs in Tech (and 17 Skills That Get You Hired)](https://hired.com/blog/candidates/3-highest-paid-jobs-technology/)
 - [2017 State of Global Tech Salaries](https://hired.com/state-of-salaries-2017)
@@ -2220,6 +2229,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Top 12 Interesting Careers to Explore in Big Data](https://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
 
 <h4><a name="tools"></a>Tools and Language Popularity, Comparisons, Trends, ...</h4>
+
+[Back to Top](#contents)
 
 - [Tiobe Index for Programming Languages](http://www.tiobe.com/tiobe-index/)
 - [A list of artificial intelligence tools you can use today](https://medium.com/imlyra/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
@@ -2245,12 +2256,16 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="freelancing"></a>Freelancing and Consulting</h4>
 
+[Back to Top](#contents)
+
 - [Infographic: How to Calculate Your Freelance Hourly Rate](http://blog.creativelive.com/how-to-calculate-freelance-hourly-rate-infographic/)
 - [Freelancer 101: How to Set Up a Simple Accounting System](https://hired.com/blog/candidates/freelancer-101-simple-accounting-system/)
 - [New to Freelancing? 9 Things You Need to Know](https://hired.com/blog/candidates/new-freelancing-9-things-need-know/)
 - [How to Become a Freelance Data Scientist](https://www.springboard.com/blog/freelance-data-scientist/)
 
 <h4><a name="online-learning"></a>Online Learning</h4>
+
+[Back to Top](#contents)
 
 - [Course Report](https://www.coursereport.com/schools)
 - [CourseTalk](https://www.coursetalk.com/)
@@ -2270,6 +2285,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="big-data"></a>Big Data and Data Engineering</h4>
 
+[Back to Top](#contents)
+
 - [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
 - [Real-Time Stream Processing as Game Changer in a Big Data World with Hadoop and Data Warehouse](https://www.infoq.com/articles/stream-processing-hadoop/)
 - [Real-time Data Processing in AWS Cloud](https://www.infoq.com/articles/real-time-data-processing-in-aws-cloud)
@@ -2285,6 +2302,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="databases"></a>Databases, Schemas, and Data Modeling</h4>
 
+[Back to Top](#contents)
+
 - [Analytics 101: Choosing the right database](https://reflect.io/blog/analytics-101-choosing-the-right-database/)
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [Data Warehouse vs. OLAP Cube](https://www.solverglobal.com/blog/2014/04/data-warehouse-vs-olap-cube/)
@@ -2299,18 +2318,24 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="product"></a>Product</h4>
 
+[Back to Top](#contents)
+
 - [The Product Management Hierarchy of Needs](https://medium.com/product-problems/the-product-management-hierarchy-of-needs-1003b6c439d2)
 - [What are the best product management and/or product marketing training programs?](https://www.quora.com/What-are-the-best-product-management-and-or-product-marketing-training-programs)
 - [How product marketing helps build product](https://blog.intercom.com/how-product-marketing-helps-build-product/)
 - [WHAT MAKES A GREAT PRODUCT MANAGER](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 - [Books for Product Managers](https://www.kennorton.com/essays/books-for-product-managers.html)
 
-<h2><a name="methodologies"></a>Methodologies</h2>
+<h4><a name="methodologies"></a>Methodologies</h4>
+
+[Back to Top](#contents)
 
 - [Transitioning from Scrum to Kanban](https://www.mindtheproduct.com/2017/06/transitioning-scrum-kanban/)
 - [Running in Circles - Why Agile Isn’t Working and What We Do Differently](https://m.signalvnoise.com/running-in-circles-aae73d79ce19)
 
 <h4><a name="cs"></a>Computer Science and Programming</h4>
+
+[Back to Top](#contents)
 
 - Programming languages
     + [What is SQL and why is it important?
@@ -2320,10 +2345,14 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 <h4><a name="biz"></a>Business</h4>
 
+[Back to Top](#contents)
+
 - [GitLab team handbook](https://about.gitlab.com/handbook/)
 - [Meet the 2017 CNBC Disruptor 50 companies](https://www.cnbc.com/2017/05/16/the-2017-cnbc-disruptor-50-list-of-companies.html)
 
 <h4><a name="gartner"></a>Gartner Magic Quadrants</h4>
+
+[Back to Top](#contents)
 
 - [Magic Quadrant for Business Intelligence and Analytics Platforms](https://www.gartner.com/doc/reprints?id=1-2XXET8P&ct=160204)
 - [Magic Quadrant for Cloud Infrastructure as a Service, Worldwide](https://www.gartner.com/doc/reprints?id=1-2G2O5FC&ct=150519)
@@ -2332,7 +2361,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + [Gartner 2017 Magic Quadrant for Advanced Analytics Platforms: gainers and losers](http://www.kdnuggets.com/2017/02/gartner-2017-mq-data-science-platforms-gainers-losers.html)
 - [Magic Quadrant for Data Integration](https://www.informatica.com/data-integration-magic-quadrant.html)
 
-**Architectures*
+#### Architectures
+
+[Back to Top](#contents)
 
 - [Lambda Architecture](http://lambda-architecture.net/)
 - [AWS Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
