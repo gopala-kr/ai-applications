@@ -1506,7 +1506,11 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
-![data-science-puzzle-600](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-600.jpg)
+-------------------
+![venn](https://www.ibm.com/blogs/business-analytics/wp-content/uploads/2017/12/venn.jpeg)
+
+----------------
+![data-science-puzzle-2017](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-2017.jpg)
 
 **so, you have data --> build data pipelines**
 
@@ -1645,6 +1649,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 | [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
 | [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes) ||
 
+[Back to Top](#contents)
+
 Visualization tools
 
 - [The Python Graph Gallery](https://python-graph-gallery.com/)
@@ -1674,12 +1680,13 @@ Visualization tools
 - [Carto Maps](https://carto.com/gallery/)
 - [MobileVis](http://mobilev.is/)
 - [Visualizing Data Resources](http://www.visualisingdata.com/resources/)
-
-
 - [Top Algorithms and Methods Used by Data Scientists](http://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html)
 
 -----------
+
 ### Cheetsheets
+
+[Back to Top](#contents)
 
 **Python**
 
@@ -1739,6 +1746,8 @@ Visualization tools
 | [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 | [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/) |
 
+
+[Back to Top](#contents)
 
 --------------
 
@@ -1834,6 +1843,9 @@ Visualization tools
 
 ### Principles and Rules
 
+[Back to Top](#contents)
+
+
 - Principle of least priviledge - Requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose
 - Peter principle - The selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role
     + Employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."
@@ -1855,14 +1867,15 @@ Visualization tools
     + Goal is always to maximize learning and not build fully featured beta/prototype
     + Lean startup version: hypothesis, design experiments, test, insight
 
-## Laws
+**Laws**
 - Parkinson's law of triviality - Members of an organisation give disproportionate weight to trivial issues
 - Parkinson's law - Work expands so as to fill the time available for its completion
 - Brooks's law - Adding manpower to a late software project makes it later
 - Hofstadter's law - It always takes longer than you expect, even when you take into account Hofstadter's Law
 - Little's law - The long-term average number of customers in a stable system L is equal to the long-term average effective arrival rate, λ, multiplied by the (Palm‑)average time a customer spends in the system, W; or expressed algebraically: L = λW.
 
-## Quotes, Idioms, and Sayings
+**Quotes, Idioms, and Sayings**
+
 - Nothing is more permanent than a temporary solution
 - The world doesn't need wrong answers in record time
 - Work on the business, not in the business
@@ -1884,7 +1897,10 @@ Visualization tools
 - You can’t have five North Stars, you can’t have five most important goals…
 - Prioritize goals that are ‘critical’ ahead of goals that are ‘beneficial
 
-## General terms, models, acronymns, and concepts
+**General terms, models, acronymns, and concepts**
+
+[Back to Top](#contents)
+
 - Priorities for business (in order)
     + People
     + Products
