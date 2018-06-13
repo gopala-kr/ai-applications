@@ -14,7 +14,7 @@
  - [AI approaches](#ai-approaches)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
-   - [ML DL Methods](#ml-dl-methods)
+   - [Supervised, Unsupervised and Reinforcement learning methods, algorithms, categories,and applications](#supervised-unsupervised-and-reinforcementlearning-methods-algorithms-categories-and-applications)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
@@ -136,7 +136,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------
 
-### ML DL Methods
+### Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications
 
 [Back to Top](#contents)
 
@@ -153,6 +153,599 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Representation learning
 - Similarity and metric learning
 - Sparse dictionary learning
+- Genetic algorithms
+
+
+**Algorithms and Applications by Task**
+
+- Prediction
+    + Regression/classification
+        * RNN
+- Recommendation
+- Generative
+    + Novel output
+        * RNN
+- Reconstruction
+    + Example: MINST
+- Recognition and computer vision
+    + Changing images in time (video)
+        * LSTM (temporal aspect) with convolutions layers (capture structure/features)
+- NLP, NLG, NLU
+    + Machine translation
+        * CNN
+    + Sentiment analysis
+        * CNN
+    + Sentence classification
+        * CNN
+- Personal assistant
+    + Voice to text then NLP to understand what the user wants to accomplish, then generating text, voice, action
+- Anamoly detection
+- Reinforcement learning
+- Reality capture and reality computing
+
+<h2><a name="regression">Regression (Supervised) - Univariate, Multivariate, ...</a></h2>
+
+- Simple and multiple linear regression
+- Tree-based methods (e.g., decision tree or forest)
+- Generalized linear models (GLM)
+    + Poisson regression, aka log-linear model
+- Generalized additive model (GAM)
+- Regression with shrinkage (e.g., regularization)
+- Stepwise regression
+- Ordinary least squares
+- Artificial Neural networks (ANN) and deep learning
+- Ordinal regression
+- Polynomial regression
+- Nearest neighbor methods (e.g., k-NN or k-Nearest Neighbors)
+- Gradient tree boosting
+- Logistic regression
+- Nonlinear regression
+
+***Example Applications***
+
+- Stock market predictions and algorithmic trading
+    + Companies
+        * [Kavout](https://www.kavout.com/)
+        * [Sentient](http://www.sentient.ai/)
+        * [Genotick](http://genotick.com/)
+        * [Numerai](https://numer.ai/)
+        * [QPLUM](https://www.qplum.co/)
+
+**Classification (Supervised) - Unary (one-class), Binary, and Multi-class</a>**
+
+- Linear
+    + Linear discriminant analysis (LDA), aka Fisher's linear discriminant
+    + Logistic regression and multinomial logistic regression
+    + Bayesian classifiers (as opposed to frequentist)
+        * Naive Bayes
+    + Perceptron methods
+- Decision trees and random forests
+- Naive bayes
+- Hidden markov model
+- Support vector machines (SVM)
+    + Least squares support vector machines
+- Artificial Neural networks (ANN) and deep learning
+- Kernel estimation
+    + Nearest neighbor methods (e.g., k-NN or k-Nearest Neighbors)
+- One vs Rest and One vs One (binary transformation)
+- Gradient tree boosting
+
+***Example Applications***
+
+- Many diseases or issues, including stroke, cancer, ...
+    + Cancer detection using cell-free genomes
+    + Cardiovascular events prediction (e.g., heart attack, stroke)
+    + Companies
+        * [Google DeepMind](https://deepmind.com/)
+        * IBM's [Watson](https://www.ibm.com/watson/) (Watson for Oncology)
+        * Others
+            * [Freenome](https://www.freenome.com/)
+            * [CureMetrix](http://curemetrix.com/)
+- Spam for email
+- Smart email categorization (Gmail)
+    + Primary, social, and promotion inboxes, as well as labeling emails as important
+- Credit decisions
+    + Companies
+        * [Underwrite.ai](http://www.underwrite.ai/)
+
+**Regularization and Overfitting Prevention**
+
+- Least absolute shrinkage and selection operator (LASSO)
+- Ridge regression
+- Akaike information criterion (AIC)
+- Bayesian information criterion (BIC)
+
+**Clustering (Unsupervised)**
+
+- Hierarchical clustering, aka connectivity-basedclustering and Hierarchical Cluster Analysis (HCA)
+    + Single-linkage clustering
+    + Complete linkage clustering
+    + Unweighted Pair Group Method with Arithmetic Mean (UPGMA), aka average linkage clustering
+- Centroid-based clustering
+    + k-means
+    + k-medoids
+    + k-medians
+    + K-means++
+    + Fuzzy c-means
+- Distribution-based clustering
+    + Gaussian mixture models via expectation-maximization algorithm
+- Density-based clustering
+    + Density-based spatial clustering of applications with noise (DBSCAN)
+    + Ordering points to identify the clustering structure (OPTICS)
+    + Mean-shift
+- Canapoy
+- Association rule learning
+    + Apriori
+    + Eclat
+- Topic modeling (text data)
+- Fractal
+- Guassian mixture models
+
+***Example Applications***
+
+**Ensemble Methods (Supervised, Unsupervised)**
+
+- Bootstrap aggregating (bagging)
+    + Random Forests and ExtraTrees
+- Boosting
+    + AdaBoost
+    + Gradient boosting
+    + Boost by majority
+    + BrownBoost
+    + xgboost
+    + MadaBoost
+    + LogitBoost
+    + LPBoost
+    + TotalBoost
+- Pasting
+- Bayesian model averaging (BMA)
+- Weak learner theory
+- Stacking (stacked generalization) and Blending
+- Bayes optimal classifier
+- Bayesian parameter averaging (BPA)
+- Bayesian model combination (BMC)
+- Bucket of models
+
+**Recommender Systems and Recommendations**
+
+- Collaborative filtering
+- Content-based filtering
+- Graph-based methods
+
+***Example Applications***
+
+- Netflix
+    + Increase engagement, retention, and revenues
+    + Examples
+        * "Because you watched ..."
+        * "Top picks for ..."
+        * Recommendations by category
+            - Trending Now
+            - Neflix originals
+            - TV Documentaries
+- Amazon
+    + Increase average order size and therefore sales (studies show between 5.9 to 30%)
+    + Examples
+        * "Customers who bought this item also bought"
+        * "Customers who viewed this item also viewed"
+        * "What other items do customers buy after viewing this item?"
+        * "Recommendations for you in ..." (e.g., "Recommended for You in Kindle Books")
+        * "New for you"
+        * "Inspired by your shopping trends"
+        * "Inspired by your Wish List"
+- Robo-advisors and portfolio rebalancing
+    + [Weathfront](https://www.wealthfront.com/)
+    + [Betterment](https://www.betterment.com/)
+- Spotify
+    + [Daily Mix](https://support.spotify.com/us/using_spotify/search_play/daily-mix/)
+- Personalized news feeds, including Facebook
+
+**Neural Networks and Deep Learning**
+
+- Feed forward neural networks (FF or FFNN) and perceptrons (P)
+- Radial basis function (RBF)
+- Hopfield network (HN)
+- Markov chains (MC or discrete time Markov Chain, DTMC)
+- Boltzmann machines (BM)
+- Restricted Boltzmann machines (RBM)
+- Autoencoders (AE)
+- Sparse autoencoders (SAE)
+- Variational autoencoders (VAE)
+- Denoising autoencoders (DAE) 
+- Deep belief networks (DBN)
+- Convolutional neural networks (CNN or deep convolutional neural networks, DCNN)
+- Deconvolutional networks (DN)
+- Deep convolutional inverse graphics networks (DCIGN)
+- Generative adversarial networks (GAN)Recurrent neural networks (RNN)Long / short term memory (LSTM)
+    + CycleGAN
+    + DiscoGAN
+    + StarGAN
+- Gated recurrent units (GRU)
+- Neural Turing machines (NTM)
+- Bidirectional recurrent neural networks, bidirectional long / short term memory networks and bidirectional gated recurrent units (BiRNN/BRNN, BiLSTM and BiGRU respectively)
+- Deep residual networks (DRN)
+- Echo state networks (ESN)
+- Extreme learning machines (ELM)
+- Liquid state machines (LSM)
+- Support vector machines (SVM)
+- Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)
+
+***Example Applications***
+
+- Feed forward neural network and Multilayer perceptron
+    + Regression and classifications
+- Restricted Boltzmann machine
+    + Dimensionality reduction
+    + Feature extraction/learning
+    + Classification
+    + Recommender systems
+    + Topic modeling
+    + Pretraining for weight initialization
+- Autoencoders
+    + Dimensionality reduction
+    + Anomaly detection
+    + Generative modeling
+- Convolutional neural network
+    + Image recognition
+    + Video recognition
+    + Automatic speech recognition (ASR)
+    + Recommender systems
+    + Natural language processing
+- Recurrent neural network
+    + Language modeling
+    + Machine translation
+    + Handwriting recognition
+    + Speech recognition
+    + Multilingual Language Processing
+    + Natural language processing
+- Self-organizing map
+    + Dimensionality reduction
+- Generative models
+- Combinations
+    + Image captioning (LSTM + CNN)
+
+
+
+**Anomaly Detection (Supervised, Unsupervised, Semi-supervised)**
+
+**Algorithms**
+- Density-based techniques - K-nearest neighbor, Local outlier factor
+- Subspace and correlation-based outlier detection for high-dimensional data
+- One class support vector machines
+- Replicator neural networks
+- Cluster analysis-based outlier detection
+- Deviations from association rules and frequent itemsets
+- Fuzzy logic based outlier detection
+- Ensemble techniques, using feature bagging, score normalization and different sources of diversity
+- PCA (Principle component analysis)
+
+***Example Applications***
+
+- Per Wikipedia
+    + Intrusion detection
+    + Fraud detection
+    + Fault detection
+    + System health monitoring
+    + Event detection in sensor networks
+- Manufacturing
+- Data security
+    + Companies
+        * [Cylance](https://www.cylance.com/en_us/home.html)
+        * [Darktrace](https://www.darktrace.com/)
+- Personal security (security screenings at airports, stadiums, concerts, and other venues)
+- Law enforcement
+- Application performance
+- Credit card fraud detection
+
+
+**reinforcement">Reinforcement Learning**
+
+- Q-learning
+- Markov decision process (MDP)
+- Finite MDPs
+- Monte Carlo methods
+- Criterion of optimality
+- Brute force
+- Value function estimation
+- Direct policy search
+- Temporal difference methods
+- Generalized policy iteration
+- Stochastic optimization
+- Gradient ascent
+- Simulation-based optimization
+- Learning Automata[edit]
+- Example
+    + Multi-armed bandit problem
+
+***Example Applications***
+
+**Model selection, validation, and resampling methods**
+
+- Cross-validation
+- Hyperparameter optimization
+- Bootstrap
+- Mallow’s Cp
+- Akaike information criterion (AIC)
+- Bayesian information criterion (BIC)
+- Minimum description length (MDL)
+
+**Model tuning: bias variance tradeoff and model complexity**
+
+- Validation curve
+- Learning curve
+- Residual sum of squares
+- Goodness-of-fit metrics
+- Grid search
+
+**Feature extraction, feature selection, and feature engineering**
+
+- Wrapper methods
+- Sensitivity analysis
+- PCA
+- Random forests
+    + Mean decrease impurity
+    + Mean decrease accuracy
+- Text-based
+    + Stemming
+    + Tokenizing
+    + Synonym substitutions
+- Least absolute shrinkage and selection operator (LASSO)
+- Subset selection
+
+**Dimensionality Reduction**
+
+- Principle component analysis (PCA)
+- Kernel PCA
+- Locally-Linear Embedding (LLE)
+- t-distributed Stochastic Neighbor Embedding (t-SNE)
+- Factor analysis
+- K-means clustering
+- Canopy clustering
+- Feature hashing
+- Wrapper methods
+- Sensitivity analysis
+- Self organizing maps
+- Text data
+    + Term frequency (TF)
+    + Inverse document frequency (IDF)
+- Latent Dirichlet Allocation (LDA)
+
+**Virtual and Augmented Reality**
+
+- Coming soon...
+
+**Information Retrieval**
+
+- Discounted cumulative gain (DCG)
+- Discounted cumulative gain (nDCG)
+- Term frequency–inverse document frequency (TF-IDF)
+
+**Logical Reasoning**
+
+- Expert systems
+- Logical reasoning
+
+**Optimization and Search**
+
+- Stochastic search
+- Stochastic optimization (SO) methods
+- Genetic algorithms
+- Simulated annealing
+- Gradient search
+- Linear programming
+- Integrer programming
+- Non-linear programming
+- Active learning
+- Ensemble learning
+- Minimum
+- Maximum
+- Optimal value or optimal combination
+- Metaheuristic methods
+- Randomized search methods
+- Tree search
+- Monte Carlo tree search (MCTS)
+- Evolutionary computation
+
+**Mathematical/quantitative Finance and Risk Management**
+
+- [Risk management](https://en.wikipedia.org/wiki/Risk_management)
+- [Mathematical/quantitative Finance](https://en.wikipedia.org/wiki/Mathematical_finance)
+- Linear Regression
+- Monte Carlo methods
+- Empirical risk minimization
+
+***Example Applications***
+
+**Ranking**
+
+- [Ranking](https://en.wikipedia.org/wiki/Ranking)
+
+***Example Applications***
+
+**Time-series**
+
+- [Time series](https://en.wikipedia.org/wiki/Time_series)
+- Rolling means
+- Autocorrelation
+- Frequency vs time domains and transfers (e.g., spectral analysis)
+- Trend and residual component decomposition
+- ARIMA modeling for forecasting and detecting trends
+
+***Example Applications***
+
+**survival">Survival**
+
+- [Survival analysis](https://en.wikipedia.org/wiki/Survival_analysis)
+
+***Example Applications***
+
+**Forecasting (Wikipedia)**
+
+- Last period demand
+- Simple and weighted N-Period moving averages
+- Simple exponential smoothing
+- Poisson process model based forecasting and multiplicative seasonal indexes
+- Average approach
+- Naïve approach
+- Drift method
+- Seasonal naïve approach
+- Time series methods
+    + Moving average
+    + Weighted moving average
+    + Kalman filtering
+    + Exponential smoothing
+    + Autoregressive moving average (ARMA)
+    + Autoregressive integrated moving average (ARIMA)
+    + Extrapolation
+    + Linear prediction
+    + Trend estimation
+    + Growth curve (statistics)
+- Causal / econometric forecasting methods
+    + Regression analysis
+        * Parametric (linear or non-linear)
+        * Non-parametric techniques
+    + Autoregressive moving average with exogenous inputs (ARMAX)
+- Judgmental methods
+    + Composite forecasts
+    + Cooke's method
+    + Delphi method
+    + Forecast by analogy
+    + Scenario building
+    + Statistical surveys
+    + Technology forecasting
+- Artificial intelligence methods
+    + Artificial neural networks
+    + Group method of data handling
+    + Support vector machines
+- Other
+    + Simulation
+    + Prediction market
+    + Probabilistic forecasting and Ensemble forecasting
+- Considerations
+    + Seasonality and cyclic behaviour
+
+***Example Applications***
+
+**Simulation**
+
+- Discrete event simulation
+- Markov models
+- Agent-based simulations
+- Monte carlo simulations
+- Systems dynamics
+- Activity-based simulation
+- ODES and PDES
+- Fuzzy logic
+
+***Example Applications***
+
+**Segmentation**
+
+- Behavioral
+- Demographic
+- Geographic
+
+***Example Applications***
+
+**Experimentation and Experimental Design**
+
+- Design of Experiments (DOE)
+- A/B testing
+
+***Example Applications***
+
+**Embedded**
+
+- Deep learning
+
+***Example Applications***
+
+- Robotic cognition
+
+**Hypothesis Testing**
+
+- T-test - Compare two groups
+- ANOVA - Compare multiple groups
+
+**Hybrid Solutions and Applications**
+
+***Example Applications***
+- Google search
+- Autonymous vehicles (Business insider)
+    + Reduce accidents and related injuries and death
+    + Improved traffic (via ridesharing and smart traffic lights) and fuel efficiency
+    + Reduced carbon emissions
+    + Faster commutes and travel time
+    + Get your time back in the vehicle to do what you want
+    + Efficient ride-sharing
+    + Companies
+        * [Zoox](http://zoox.com/)
+        * [Nauto](http://www.nauto.com/)
+        * [nuTonomy](http://nutonomy.com/)
+- Home monitoring, control, and security
+    + Companies
+        * [Flare](https://buddyguard.io/)
+- Voice-controled robotics
+- Photo-realistic pictures generation from text or sketches
+    + [NYU article](http://cds.nyu.edu/astronomers-explore-uses-ai-generated-images-using-ai-generating-imagess/)
+- Music generation
+    + Companies
+        * [Jukedeck](https://www.jukedeck.com/)
+- Movie and script generation
+- Automatically generated software code
+    + Companies
+        * [DeepCoder](https://openreview.net/pdf?id=ByldLrqlx) (Microsoft and Cambridge)
+- Authentication without passwords (using mobile phone that knows it's you)
+    + Companies
+        * [TypingDNA](https://typingdna.com/)
+- Customer support
+    + Companies
+        * [DigitalGenius](https://www.digitalgenius.com/)
+- Optimized directions and routes
+- Plagiarism Checkers
+- Robo-readers and graders
+- Virtual reality
+- Gaming
+- [Zillow’s](https://www.zillow.com/zestimate/) “zestimate” feature, which estimates the price of homes
+- Medical/Health
+    + Companies
+        * [BenevolentAI](http://benevolent.ai/)
+- Sales
+    + Companies
+        * [InsideSales.com](https://www.insidesales.com/)
+- Crime
+    + Who, Type, and location
+    + Based on previous crime and social media activity
+    + Companies
+        * [BRS Labs AISight](https://www.genetec.com/solutions/resources/brs-labs-aisight-technology-and-omnicast-integration)
+- Suicide risk
+    + Based on a lot of different risk factors
+    + Companies
+        * [Facebook](https://research.fb.com/category/facebook-ai-research-fair/)
+        * [Instagram](https://www.instagram.com/)
+        * [Cogito](https://www.cogitocorp.com/)
+- Agriculture - predicting crop yields
+    + Companies
+        * [Descartes Lab](http://www.descarteslabs.com/)
+        * [Stanford's Sustainability and Artificial Intelligence Lab](http://sustain.stanford.edu/)
+- Uber's ETA
+
+**Other Algorithms**
+
+- Massive-scale graph
+- Geospatial temporal predictive analytics
+- Hyperfast analytics
+- Embedded deep learning
+- Cognitive machine learning and IoT
+- Natural language processing, generation, and understanding
+- Structured database generation
+- Game theory
+- Control theory
+- Operations research
+- Information theory
+- Simulation-based optimization
+- Multi-agent systems
+- Swarm intelligence
 - Genetic algorithms
 
 
@@ -272,6 +865,72 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
+- Image
+- Speech
+- Video
+- Text and optical character
+- Pattern
+- Audio
+- Facial    
+- Handwriting
+
+***Example Applications***
+
+- Recognition
+    + [Shazam](https://www.shazam.com/)
+    + Wine
+        * Companies
+            - [Delectable](https://delectable.com/)
+            - [Vivino](https://www.vivino.com/)
+    + Facebook photo recognition (highlights faces and suggests friends to tag)
+    + Speech/Voice to text (faster to talk than to type acc'g to Stanford)
+        * Companies
+            - [Google Cloud Speech API](https://cloud.google.com/speech/)
+    + Text to speech
+        * Companies
+            - [Amazon Polly](https://aws.amazon.com/polly/)
+    + Video
+        * Companies
+            - [Clarifai](https://www.clarifai.com/)
+            - [Google Cloud Video Intelligence](https://cloud.google.com/video-intelligence/)
+    + OCR
+        * Mobile app check deposits and uploading receipts
+        * Post office address recognition
+    + Object recognition
+        * Companies
+            - [Pinterest](https://medium.com/@Pinterest_Engineering) (then used to recommend other pins)
+    + Image
+        * Companies
+            - [Clarifai](https://www.clarifai.com/)
+            - [Captricity](http://captricity.com/)
+            - [Google Cloud Vision API](https://cloud.google.com/vision/)
+            - [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+- Computer vision
+    + Manufacturing
+        * Inspections
+        * Quality control
+        * Assembly line
+    + Visual surveillance
+        * Companies
+            - [BRS Labs AISight](https://www.genetec.com/solutions/resources/brs-labs-aisight-technology-and-omnicast-integration)
+    + Navigation, including autonomous vehicles
+        * Land, water, and space
+    + Medical image processing and diagnosis
+    + Military
+        * Detection of enemy solidiers and vehicles
+        * Missle guidance
+    + Drones
+        * Inspection (pipelines), surveillance, exploration (buildings), and protection
+        * Companies
+            - [Digital Signal](http://www.digitalsignalcorp.com/)
+            - [Shield.ai](http://shield.ai/)
+    + Item recognition
+        * Companies
+            - [Amazon Go](https://www.amazon.com/b?node=16008589011)
+
+
+> Related papers
+
  - [ImageNet Classification](https://github.com/kjw0612/awesome-deep-vision#imagenet-classification)
   - [Object Detection](https://github.com/kjw0612/awesome-deep-vision#object-detection)
   - [Object Tracking](https://github.com/kjw0612/awesome-deep-vision#object-tracking)
@@ -307,6 +966,102 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - [Text Summarization](https://github.com/keon/awesome-nlp#text-summarization)
 - [Text Classification](https://github.com/keon/awesome-nlp#text-classification)
 
+
+- [Text processing](https://en.wikipedia.org/wiki/Text_processing)
+- [Lexical Analysis](https://en.wikipedia.org/wiki/Lexical_analysis)
+- [Text Mining](https://en.wikipedia.org/wiki/Text_mining)
+    + Information retrieval
+    + Text categorization
+    + Text clustering
+    + Concept/entity extraction
+    + Production of granular taxonomies
+    + Sentiment analysis
+    + Document summarization
+    + Entity relation modeling
+    + Named entity recognition
+    + Recognition of Pattern Identified Entities
+    + Coreference
+    + Syntactic parsing
+    + Part-of-speech tagging
+    + Quantitative text analysis
+
+<h5><a name="nlp" href="https://en.wikipedia.org/wiki/Natural_language_processing">Natural Language Processing (NLP), Natural Language Generation (NLG), and Natural Language Understanding (NLU)</a></h5>
+
+- Syntax
+    + Lemmatization
+    + Morphological segmentation
+    + Part-of-speech tagging
+    + Parsing
+    + Sentence breaking (also known as sentence boundary disambiguation)
+    + Stemming
+    + Word segmentation
+    + Terminology extraction
+- Semantics
+    + Lexical semantics
+    + Machine translation
+    + Named entity recognition (NER)
+    + Natural language generation
+    + Natural language understanding
+    + Optical character recognition (OCR)
+    + Question answering
+    + Recognizing Textual entailment
+    + Relationship extraction
+    + Sentiment analysis
+    + Topic segmentation and recognition
+    + Word sense disambiguation
+- Discourse
+    + Automatic summarization
+    + Coreference resolution
+    + Discourse analysis
+- Speech
+    + Speech recognition
+    + Speech segmentation
+    + Text-to-speech
+
+***Example Applications***
+
+- Smart personal assistants
+    + Companies
+        * [Alexa](https://developer.amazon.com/alexa)
+        * [Google Assistant](https://assistant.google.com/)
+        * [Siri](https://www.apple.com/ios/siri/)
+    + Uses
+        * Internet searches and answer questions
+        * Set reminders
+        * Integrate with your calendar
+            - Make appointments
+        * Receive sports, news, and finance updates
+        * Create to-do lists
+        * Order items online
+        * Use services (e.g., order an Uber)
+        * Play music
+        * Play games
+        * Smart home integration
+- NLG - computer generated reports and news
+    + Summarizing documents
+    + Story telling
+    + Sports recaps
+    + Companies
+        * [Narrative Science](https://www.narrativescience.com/)
+- NLP and language translation
+    + Voicemail transcripts
+    + eDiscovery
+    + Companies
+        * [Google Natural Language API](https://cloud.google.com/natural-language/)
+        * [Google Cloud Translation API](https://cloud.google.com/translate/)
+        * [Textio](https://textio.com/) for writing optimal job descriptions
+- NLU and Chatbots
+    + Shopping
+    + Errands
+    + Day to day tasks
+    + Companies
+        * [x.ai](https://x.ai/) (personal assistant)
+        * [MindMeld](https://www.mindmeld.com/)
+        * [Google Inbox Smart Reply](https://blog.google/products/gmail/save-time-with-smart-reply-in-gmail/)
+        * [Amazon Lex](https://aws.amazon.com/lex/), includes Automatic speech recognition (ASR)
+- Smart instant messaging
+    + Companies
+        * [Google Allo](https://allo.google.com/) smart messaging app (https://allo.google.com/)
 
 
 ------------------
@@ -370,7 +1125,17 @@ Have a quick look at these threads
 - [analyticsvidhya-hackathons](https://datahack.analyticsvidhya.com/contest/all/)
 - [ai-learning-roadmap](https://github.com/gopala-kr/ai-learning-roadmap)
 - [AI-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks)
-
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- [DL4J Deep Learning Use Cases](https://deeplearning4j.org/use_cases)
+- [Wikipedia Outline of Machine Learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
+- [Wikipedia Machine Learning Portal](https://en.wikipedia.org/wiki/Portal:Machine_learning)
+- [Wikipedia Outline of Artificial Intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
+- [Wikipedia Artificial Intelligence Portal](https://en.wikipedia.org/wiki/Portal:Artificial_intelligence)
+- [Wikipedia List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [Wikipedia Outline of Statistics](https://en.wikipedia.org/wiki/Outline_of_statistics)
+- [Wikipedia Statistics Portal](https://en.wikipedia.org/wiki/Portal:Statistics)
+- [Wikipedia Outline of Mathemetics](https://en.wikipedia.org/wiki/Outline_of_mathematics)
+- [Wikipedia Mathemetics Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
 
 ----------------
 
@@ -766,6 +1531,7 @@ so, you have data --> build data pipelines
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
 | [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) ||
 
+- [Top Algorithms and Methods Used by Data Scientists](http://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html)
 
 --------------------------
 ------------------------
