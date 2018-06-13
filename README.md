@@ -33,7 +33,25 @@
    - [Bigdata Tools](#bigdata-tools)
    - [Datascience Desciplines](#datascience-desciplines)
    - [Architecture Guides, Usage, and Examples](#architecture-guides-usage-and-examples)
-   - [Bigdata, AI, Datascience Reads](#bigdata-ai-datascience-reads)   
+   - [Bigdata, AI, Datascience Reads](#bigdata-ai-datascience-reads)
+     - <a href="#adv-analytics">Advanced Analytics</a>
+     - <a href="#ai">Artificial Intelligence</a>
+     - <a href="#ml">Machine Learning</a>
+     - <a href="#data-sci">Data Science</a>
+     - <a href="#scientists">Data Scientists</a>
+     - <a href="#stats">Statistics, Probability, and Mathematics</a>
+     - <a href="#jobs">Jobs, Skills, and Salary Trends</a>
+     - <a href="#tools">Tools and Language Popularity, Comparisons, Trends, ...</a>
+     - <a href="#freelancing">Freelancing and Consulting</a>
+     - <a href="#online-learning">Online Learning</a>
+     - <a href="#big-data">Big Data and Data Engineering</a>
+     - <a href="#databases">Databases, Schemas, and Data Modeling</a>
+     - <a href="#product">Product</a>
+     - <a href="#methodologies">Methodologies</a>
+     - <a href="#cs">Computer Science and Programming</a>
+     - <a href="#biz">Business</a>
+     - <a href="#gartner">Gartner Magic Quadrants</a>
+     - [architectures](#architectures)
    - [References](#references)
    - [Cheatsheets](#cheatsheets)
    - [Open Datasets](#open-datasets)
@@ -345,6 +363,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
     + [Daily Mix](https://support.spotify.com/us/using_spotify/search_play/daily-mix/)
 - Personalized news feeds, including Facebook
 
+--------------
+
+[Back to Top](#contents)
+
 **Neural Networks and Deep Learning**
 
 - Feed forward neural networks (FF or FFNN) and perceptrons (P)
@@ -463,6 +485,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
     + Multi-armed bandit problem
 
 ***Example Applications***
+
+
+------------
+
+[Back to Top](#contents)
 
 **Model selection, validation, and resampling methods**
 
@@ -735,6 +762,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
         * [Stanford's Sustainability and Artificial Intelligence Lab](http://sustain.stanford.edu/)
 - Uber's ETA
 
+------------
+
+[Back to Top](#contents)
+
 **Other Algorithms**
 
 - Massive-scale graph
@@ -754,8 +785,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Genetic algorithms
 
 
-> Literature surveys:
 
+> **Literature surveys:**
+
+[Back to Top](#contents)
 - [mlsurveys](https://www.mlsurveys.com/)
 - [machine-learning-surveys](https://github.com/mlreview/machine-learning-surveys)
 - [The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches ](https://arxiv.org/ftp/arxiv/papers/1803/1803.01164.pdf)
@@ -1547,7 +1580,10 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 
 -----------------------
+
 ### Architecture Guides, Usage, and Examples
+
+[Back to Top](#contents)
 
 **AWS**
 - [Solution Development Guides](https://aws.amazon.com/solutions)
@@ -1657,6 +1693,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - Predictive Analytics
 
 **Big Data Exploration Example Architecture - IBM**
+
 - Applications layer
     + Consists of
         * Visualization
@@ -1703,8 +1740,12 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Social media
     + Public data
     + Enterprise data
+    
 
 #### Architectural Goals, Principles, and Considerations
+
+[Back to Top](#contents)
+
 - Consistency
 - [Batch (slow/cold) vs. real-time streaming (fast/hot) data processing and paths](https://www.opsgility.com/blog/2016/11/07/big-data-and-iot-lambda-architecture/)
     + Slow/cold path - batch processing
@@ -1751,6 +1792,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Governance structures and polices
 
 #### Enterprise Big Data Architectural Components
+
+[Back to Top](#contents)
+
 - Governance
     + Govern data quality
 - Operations, Infrastructure, and DevOps
@@ -1881,8 +1925,13 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + EPM and BI applications
     + Recommendations
 
+
 #### Enterprise Big Data Components
+
+[Back to Top](#contents)
+
 - ![11](http://hortonworks.com/wp-content/uploads/2014/03/11.png)
+
 
 #### Big Data Processing Key Functional Capabilities - IBM
 - Data ingestion
@@ -1936,34 +1985,11 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Develop a Strategic Roadmap
     + Establish Governance over the Architecture
 
-#### Data Storage Functions
-- Staging
-    + Temporary storage
-    + Used for cleaning, integration and transformation routines
-- Data management
-    + Long-time managed storage
-    + Clean and integrated data
-- Sandboxing
-    + Temporary data stores
-    + Used by people, groups, and departments
-    + Experimentation with data, processing, and analysis techniques
-- Application optimized storage
-    + Example usage = data mart
-- Archive and raw data archive
-    + Raw, processed, and transformed data
-
-#### [The 7 V's of Big Data](https://www.impactradius.com/blog/7-vs-big-data/)
-+ Volume - Scale of data
-+ Variety - Different forms of data
-+ Velocity - Analysis of streaming data
-+ Veracity - Overall quality and correctness of the data
-    * Garbage in, garbage out
-    * Assess the truthfulness and accuracy of the data as well as identify missing or incomplete information
-- Visibility/Visualization
-- Value
-- Variability
 
 #### Data types and sources
+
+[Back to Top](#contents)
+
 + Structured
     * Transactions
     * Master and reference
@@ -2027,6 +2053,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 + Surveillance
 
 **Big Data Architecture Patterns**
+
+[Back to Top](#contents)
+
 - [Polyglot](http://datadventures.ghost.io/2014/07/06/polyglot-processing/)
 - [Lambda](http://lambda-architecture.net/)
 - [Kappa](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -2079,24 +2108,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ### Bigdata, AI, Datascience Reads
 
-- <a href="#adv-analytics">Advanced Analytics</a>
-- <a href="#ai">Artificial Intelligence</a>
-- <a href="#ml">Machine Learning</a>
-- <a href="#data-sci">Data Science</a>
-- <a href="#scientists">Data Scientists</a>
-- <a href="#stats">Statistics, Probability, and Mathematics</a>
-- <a href="#iot">Internet of Things (IoT)</a>
-- <a href="#jobs">Jobs, Skills, and Salary Trends</a>
-- <a href="#tools">Tools and Language Popularity, Comparisons, Trends, ...</a>
-- <a href="#freelancing">Freelancing and Consulting</a>
-- <a href="#online-learning">Online Learning</a>
-- <a href="#big-data">Big Data and Data Engineering</a>
-- <a href="#databases">Databases, Schemas, and Data Modeling</a>
-- <a href="#product">Product</a>
-- <a href="#methodologies">Methodologies</a>
-- <a href="#cs">Computer Science and Programming</a>
-- <a href="#biz">Business</a>
-- <a href="#gartner">Gartner Magic Quadrants</a>
+[Back to Top](#contents)
 
 <h4><a name="adv-analytics">Advanced Analytics</a></h4>
 
