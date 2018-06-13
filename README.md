@@ -12,6 +12,7 @@
 #### Contents
 
  - [AI approaches](#ai-approaches)
+ - [Why AI is on Rise?](why-ai-is-on-rise?)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
    - [Supervised, Unsupervised and Reinforcement learning methods, categories, algorithms and applications](#supervised-unsupervised-and-reinforcement-learning-methods-categories-algorithms-and-applications)
@@ -137,9 +138,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
 ---------------
+### Why AI is on Rise?
+
 [Back to Top](#contents)
 
-![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
+![8HhnQF8csx6NpT5m](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/why_ai.JPG)
 
 -------------------
 ## AI Goals, Techniques and Tools
