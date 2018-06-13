@@ -90,6 +90,8 @@
 
 ## AI approaches
 
+[Back to Top](#contents)
+
 | [Workshop](https://sfi-edu.s3.amazonaws.com/sfi-edu/production/uploads/sfi-com/dev/uploads/filer/e2/09/e209cc8c-1ddc-4f7e-beb5-d23fbe509302/93-08-052.pdf) | [logic-ai](https://plato.stanford.edu/entries/logic-ai/) |
 
 - **Symbolic AI(formal logic - (1950-1980)** - "If an otherwise healthy adult has a fever, then they may have influenza"
