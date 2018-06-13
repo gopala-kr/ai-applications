@@ -14,7 +14,7 @@
  - [AI approaches](#ai-approaches)
  - [AI Goals, Techniques and Tools](#ai-goals-techniques-and-tools)
    - [Goals](#goals)
-   - [Supervised, Unsupervised and Reinforcement learning methods, algorithms, categories,and applications](#supervised-unsupervised-and-reinforcementlearning-methods-algorithms-categories-and-applications)
+   - [Supervised, Unsupervised and Reinforcement learning methods, algorithms, categories and applications](#supervised-unsupervised-and-reinforcementlearning-methods-algorithms-categories-and-applications)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
