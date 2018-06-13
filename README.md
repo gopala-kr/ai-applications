@@ -173,7 +173,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
-**Algorithm Categories**
+#### Algorithm Categories
 
 - Decision tree learning
 - Association rule learning
@@ -191,6 +191,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -----------------
 
 #### Algorithms and Applications by Data Type
+
+[Back to Top](#contents)
 
 - Sound/Audio
     + Voice detection/recognition
@@ -267,6 +269,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Algorithms and Applications by Task
 
+[Back to Top](#contents)
+
 - Prediction
     + Regression/classification
         * RNN
@@ -324,6 +328,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Classification (Supervised) - Unary (one-class), Binary, and Multi-class
 
+[Back to Top](#contents)
+
 - Linear
     + Linear discriminant analysis (LDA), aka Fisher's linear discriminant
     + Logistic regression and multinomial logistic regression
@@ -364,6 +370,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Regularization and Overfitting Prevention
 
+[Back to Top](#contents)
+
 - Least absolute shrinkage and selection operator (LASSO)
 - Ridge regression
 - Akaike information criterion (AIC)
@@ -372,6 +380,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 --------------
 
 #### Clustering (Unsupervised)
+
+[Back to Top](#contents)
 
 - Hierarchical clustering, aka connectivity-basedclustering and Hierarchical Cluster Analysis (HCA)
     + Single-linkage clustering
@@ -399,7 +409,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
---------------
+-------------------
 
 #### Ensemble Methods (Supervised, Unsupervised)
 
@@ -429,6 +439,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ####  Recommender Systems and Recommendations
 
+[Back to Top](#contents)
 - Collaborative filtering
 - Content-based filtering
 - Graph-based methods
@@ -463,9 +474,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 --------------
 
-[Back to Top](#contents)
-
 #### Neural Networks and Deep Learning
+
+[Back to Top](#contents)
 
 - Feed forward neural networks (FF or FFNN) and perceptrons (P)
 - Radial basis function (RBF)
@@ -533,6 +544,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Anomaly Detection (Supervised, Unsupervised, Semi-supervised)
 
+[Back to Top](#contents)
+
 **Algorithms**
 - Density-based techniques - K-nearest neighbor, Local outlier factor
 - Subspace and correlation-based outlier detection for high-dimensional data
@@ -566,6 +579,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Reinforcement Learning
 
+[Back to Top](#contents)
+
 - Q-learning
 - Markov decision process (MDP)
 - Finite MDPs
@@ -588,9 +603,9 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ------------
 
-[Back to Top](#contents)
-
 #### Model selection, validation, and resampling methods
+
+[Back to Top](#contents)
 
 - Cross-validation
 - Hyperparameter optimization
@@ -600,7 +615,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Bayesian information criterion (BIC)
 - Minimum description length (MDL)
 
+-------------------
+
 #### Model tuning: bias variance tradeoff and model complexity
+
+[Back to Top](#contents)
 
 - Validation curve
 - Learning curve
@@ -609,6 +628,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Grid search
 
 #### Feature extraction, feature selection, and feature engineering
+
+[Back to Top](#contents)
 
 - Wrapper methods
 - Sensitivity analysis
@@ -623,7 +644,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Least absolute shrinkage and selection operator (LASSO)
 - Subset selection
 
+---------------
+
 #### Dimensionality Reduction
+
+[Back to Top](#contents)
 
 - Principle component analysis (PCA)
 - Kernel PCA
@@ -641,8 +666,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
     + Inverse document frequency (IDF)
 - Latent Dirichlet Allocation (LDA)
 
+-------------------------
 
 #### Information Retrieval
+
+[Back to Top](#contents)
 
 - Discounted cumulative gain (DCG)
 - Discounted cumulative gain (nDCG)
@@ -678,6 +706,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 --------------
 
 #### Mathematical/quantitative Finance and Risk Management
+
+[Back to Top](#contents)
 
 - [Risk management](https://en.wikipedia.org/wiki/Risk_management)
 - [Mathematical/quantitative Finance](https://en.wikipedia.org/wiki/Mathematical_finance)
