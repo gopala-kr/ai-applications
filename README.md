@@ -136,9 +136,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [more detailed explaination](https://stats.stackexchange.com/questions/5026/what-is-the-difference-between-data-mining-statistics-machine-learning-and-ai)
 
-[Back to Top](#contents)
-
 ### The Multidisciplinary
+
+
+[Back to Top](#contents)
 
 ![8DHdRYSU82AtabM3Xt](https://cdn-images-1.medium.com/max/1600/1*8DHdRYSU82AtabM3Xt--aA.png)
 
