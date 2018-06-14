@@ -22,7 +22,7 @@
      - [Algorithms and Applications by Data Type](#algorithms-and-applications-by-data-type)
      - [Algorithms and Applications by Task](#algorithms-and-applications-by-task)
      - [Regression, Univariate, Multivariate](regression-univariate-multivariate)
-     - [Classification Unary, Binary, and Multiclass](#classification-unary-binary-and-multiclass)
+     - [Classification Unary, Binary and Multiclass](#classification-unary-binary-and-multiclass)
      - [Regularization and Overfitting Prevention](#regularization-and-overfitting-prevention)
      - [Clustering](#clustering)
      - [Ensemble Methods Supervised, Unsupervised](#ensemble-methods-supervised-unsupervised)
@@ -363,7 +363,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
         
 ---------------------------
 
-#### Classification Unary, Binary, and Multi-class
+#### Classification Unary, Binary and Multiclass
 
 [Back to Top](#contents)
 
@@ -449,6 +449,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 -------------------
 
 #### Ensemble Methods Supervised, Unsupervised
+
+[Back to Top](#contents)
 
 - Bootstrap aggregating (bagging)
     + Random Forests and ExtraTrees
