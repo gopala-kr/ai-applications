@@ -21,17 +21,17 @@
      - [Algorithm Categories](#algorithm-categories)
      - [Algorithms and Applications by Data Type](#algorithms-and-applications-by-data-type)
      - [Algorithms and Applications by Task](#algorithms-and-applications-by-task)
-     - [Regression, Univariate, Multivariate, ...](regression-univariate-multivariate, -...)
-     - [Classification Unary, Binary, and Multi-class](#classification-unary-binary-and-multi-class)
+     - [Regression, Univariate, Multivariate](regression-univariate-multivariate)
+     - [Classification Unary, Binary, and Multiclass](#classification-unary-binary-and-multiclass)
      - [Regularization and Overfitting Prevention](#regularization-and-overfitting-prevention)
      - [Clustering](#clustering)
-     - [Ensemble Methods (Supervised, Unsupervised)](#ensemble-methods-(supervised-unsupervised))
+     - [Ensemble Methods Supervised, Unsupervised](#ensemble-methods-supervised-unsupervised)
      - [Recommender Systems and Recommendations](#recommender-systems-and-recommendations)
      - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
-     - [Anomaly Detection (Supervised, Unsupervised, Semi-supervised)](#anomaly-detection-(supervised,-unsupervised-semi-supervised))
+     - [Anomaly Detection Supervised, Unsupervised, Semi-supervised](#anomaly-detection-supervised,-unsupervised-semi-supervised)
      - [Reinforcement Learning](#reinforcement-learning)
      - [Model selection, validation, and resampling methods](#model-selection-validation-and-resampling-methods)
-     - [Model tuning: bias variance tradeoff and model complexity](#model-tuning:-bias-variance-tradeoff-and-model-complexity)
+     - [Model tuning bias variance tradeoff and model complexity](#model-tuning-bias-variance-tradeoff-and-model-complexity)
      - [Feature extraction, feature selection, and feature engineering](#feature-extraction-feature-selection-and-feature-engineering)
      - [Dimensionality Reduction](#dimensionality-reduction)
      - [Information Retrieval](#information-retrieval)
@@ -41,7 +41,7 @@
      - [Ranking](#ranking)
      - [Time-series](#time-series)
      - [Survival](#survival)
-     - [Forecasting (Wikipedia)](#forecasting-(wikipedia))
+     - [Forecasting](#forecasting)
      - [Simulation](#simulation)
      - [Segmentation](#segmentation)
      - [Experimentation and Experimental Design](#experimentation-and-experimental-design)
@@ -49,6 +49,7 @@
      - [Hypothesis Testing](#hypothesis-testing)
      - [Hybrid Solutions and Applications](#hybrid-solutions-and-applications)
      - [Other Algorithms](#other-algorithms)
+     - [Literature surveys](#literature-surveys)
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
@@ -207,6 +208,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Algorithm Categories
 
+[Back to Top](#contents)
+
 - Decision tree learning
 - Association rule learning
 - Artificial neural networks
@@ -330,7 +333,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 --------------
 
-#### Regression (Supervised) - Univariate, Multivariate, ...
+#### Regression, Univariate, Multivariate
 
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
@@ -357,8 +360,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
         * [Genotick](http://genotick.com/)
         * [Numerai](https://numer.ai/)
         * [QPLUM](https://www.qplum.co/)
+        
+---------------------------
 
-#### Classification (Supervised) - Unary (one-class), Binary, and Multi-class
+#### Classification Unary, Binary, and Multi-class
 
 [Back to Top](#contents)
 
@@ -411,7 +416,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 --------------
 
-#### Clustering (Unsupervised)
+#### Clustering
 
 [Back to Top](#contents)
 
@@ -443,7 +448,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -------------------
 
-#### Ensemble Methods (Supervised, Unsupervised)
+#### Ensemble Methods Supervised, Unsupervised
 
 - Bootstrap aggregating (bagging)
     + Random Forests and ExtraTrees
@@ -574,7 +579,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -----------------------
 
-#### Anomaly Detection (Supervised, Unsupervised, Semi-supervised)
+#### Anomaly Detection Supervised, Unsupervised, Semi-supervised
 
 [Back to Top](#contents)
 
@@ -708,12 +713,23 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - Discounted cumulative gain (nDCG)
 - Term frequency–inverse document frequency (TF-IDF)
 
-**Logical Reasoning**
+------------------
+
+#### Logical Reasoning
+
+[Back to Top](#contents)
+
 
 - Expert systems
 - Logical reasoning
 
-**Optimization and Search**
+
+-------------------
+
+#### Optimization and Search
+
+[Back to Top](#contents)
+
 
 - Stochastic search
 - Stochastic optimization (SO) methods
@@ -749,13 +765,19 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Ranking**
+----------------------
+
+#### Ranking
 
 - [Ranking](https://en.wikipedia.org/wiki/Ranking)
 
 ***Example Applications***
 
-**Time-series**
+--------------------------
+
+#### Time-series
+
+[Back to Top](#contents)
 
 - [Time series](https://en.wikipedia.org/wiki/Time_series)
 - Rolling means
@@ -766,13 +788,24 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Survival**
+
+---------------------
+
+#### Survival
+
+[Back to Top](#contents)
+
 
 - [Survival analysis](https://en.wikipedia.org/wiki/Survival_analysis)
 
 ***Example Applications***
 
-**Forecasting (Wikipedia)**
+--------------------------
+
+#### Forecasting
+
+[Back to Top](#contents)
+
 
 - Last period demand
 - Simple and weighted N-Period moving averages
@@ -819,7 +852,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Simulation**
+-----------------------
+
+#### Simulation
+
+[Back to Top](#contents)
 
 - Discrete event simulation
 - Markov models
@@ -832,7 +869,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Segmentation**
+---------------------
+
+#### Segmentation
+
+[Back to Top](#contents)
 
 - Behavioral
 - Demographic
@@ -840,14 +881,20 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ***Example Applications***
 
-**Experimentation and Experimental Design**
+-------------------------
+
+#### Experimentation and Experimental Design
 
 - Design of Experiments (DOE)
 - A/B testing
 
 ***Example Applications***
 
-**Embedded**
+------------------------
+
+#### Embedded
+
+[Back to Top](#contents)
 
 - Deep learning
 
@@ -855,12 +902,18 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 - Robotic cognition
 
-**Hypothesis Testing**
+------------------
+
+#### Hypothesis Testing
+
+[Back to Top](#contents)
 
 - T-test - Compare two groups
 - ANOVA - Compare multiple groups
 
-**Hybrid Solutions and Applications**
+#### Hybrid Solutions and Applications
+
+
 
 ***Example Applications***
 - Google search
@@ -925,9 +978,10 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 ------------
 
-[Back to Top](#contents)
 
 #### Other Algorithms
+
+[Back to Top](#contents)
 
 - Massive-scale graph
 - Geospatial temporal predictive analytics
@@ -949,6 +1003,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 --------------------
 
 #### Literature surveys
+
 
 [Back to Top](#contents)
 - [mlsurveys](https://www.mlsurveys.com/)
