@@ -2240,6 +2240,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 #### Oracle Architecture and Patterns Examples
 
+[Back to Top](#contents)
+
 - Designed to be a flexible and a “just-in-time” architecture development approach
 - Key Steps
     + Establish Business Context and Scope
@@ -2252,6 +2254,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 -------------------
 
 #### IBM Architecture and Patterns Examples
+
+[Back to Top](#contents)
 
 **Key Functionalities**
 
@@ -2314,6 +2318,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 #### Big Data Exploration Example Architecture IBM
 
+
+[Back to Top](#contents)
+
 - Applications layer
     + Consists of
         * Visualization
@@ -2364,6 +2371,10 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 --------------------- 
 
 #### Big data and analytics architecture on cloud IBM
+
+[Back to Top](#contents)
+
+
 - Analytics-as-a-service
     + Consumes both data at rest and in motion
     + Applies analytical algorithms
@@ -3240,6 +3251,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Small: User stories should not be so big as to become impossible to plan/task/prioritize with a certain level of certainty.
     + Testable: The user story or its related description must provide the necessary information to make test development possible.
     
+    
+ [Back to Top](#contents)
+ 
 -------------------------------
 ------------------------------
 
@@ -3704,6 +3718,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [4 Big Benefits—And Hurdles—of Artificial Intelligence in ITSM](https://www.cherwell.com/blog/4-big-benefits-of-artificial-intelligence-in-itsm-and-a-few-hurdles-too)
 - [Artificial Intelligence Is Set To Change The Face Of IT Operations](https://www.forbes.com/sites/janakirammsv/2017/07/16/artificial-intelligence-is-set-to-change-the-face-of-it-operations/#559c1dbe1d21)
 - [12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic](https://www.gartner.com/smarterwithgartner/12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic/)
+
+
+[Back to Top](#contents)
 
 -------------
 
