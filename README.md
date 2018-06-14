@@ -1761,9 +1761,15 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
 
 -------------------
+
+[Back to Top](#contents)
+
 ![venn](https://www.ibm.com/blogs/business-analytics/wp-content/uploads/2017/12/venn.jpeg)
 
 ----------------
+
+[Back to Top](#contents)
+
 ![data-science-puzzle-2017](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-2017.jpg)
 
 ------------------
