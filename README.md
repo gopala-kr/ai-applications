@@ -53,7 +53,10 @@
    - [CV Methods](#cv-methods)
    - [NLP Methods](#nlp-methods)
    - [Speech Methods](#speech-methods)
-   - [Robotics Methods](#robotics-methods)   
+   - [Robotics Methods](#robotics-methods)  
+
+[Back to Top](#contents)
+
  - [AI Tools](#ai-tools)
  - [Hardware Options Infrastructure for AI](#hardware-options-infrastructure-for-ai)
  - [AI, Cloud, API's and Platforms](#ai-cloud-apis-and-platforms)
@@ -91,6 +94,9 @@
    - [References](#references)
    - [Cheatsheets](#cheatsheets)
    - [Open Datasets](#open-datasets)
+
+[Back to Top](#contents)
+
  - [AI MTD](#ai-mtd)
    - [Movies](#movies)
    - [TV shows](#tv-shows)
@@ -117,6 +123,8 @@
    - [Customer Service experience and engagement](#customer-service-experience-and-engagement)
    - [Oil and gas](#oil-and-gas)
    - [IT industry](#it-industry)
+
+[Back to Top](#contents)
 
 --------------------------
 ----------------------
