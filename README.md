@@ -1417,7 +1417,7 @@ Have a quick look at these threads
 - [Wikipedia Outline of Mathemetics](https://en.wikipedia.org/wiki/Outline_of_mathematics)
 - [Wikipedia Mathemetics Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
 - [WHO IS READY FOR THE COMING WAVE OF AUTOMATION?](http://www.automationreadiness.eiu.com/)
-
+- [SAP -digitalistmag](http://www.digitalistmag.com/machine-learning-ai)
 ----------------
 
 ## Hardware Options Infrastructure for AI
