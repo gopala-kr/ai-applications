@@ -21,7 +21,7 @@
      - [Algorithm Categories](#algorithm-categories)
      - [Algorithms and Applications by Data Type](#algorithms-and-applications-by-data-type)
      - [Algorithms and Applications by Task](#algorithms-and-applications-by-task)
-     - [Regression, Univariate, Multivariate](regression-univariate-multivariate)
+     - [Regression, Univariate, Multivariate](#regression-univariate-multivariate)
      - [Classification Unary, Binary and Multiclass](#classification-unary-binary-and-multiclass)
      - [Regularization and Overfitting Prevention](#regularization-and-overfitting-prevention)
      - [Clustering](#clustering)
