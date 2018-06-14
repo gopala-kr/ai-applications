@@ -1828,168 +1828,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 -----------------------
 
-### Architecture Guides, Usage, and Examples
-
-[Back to Top](#contents)
-
-**AWS**
-- [Solution Development Guides](https://aws.amazon.com/solutions)
-    + Reference Architectures
-        * [Web Application Hosting](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf)
-        * [Batch Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_batch_03.pdf)
-        * [Large Scale Computing and Large Data Sets](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_largescale_05.pdf)
-        * [Time Series Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_timeseriesprocessing_16.pdf)
-    + By Application
-        * [Websites](https://aws.amazon.com/websites/)
-        * [Backup and Recovery](https://aws.amazon.com/backup-recovery/)
-        * [Archiving](https://aws.amazon.com/archive/)
-        * [DevOps](https://aws.amazon.com/devops/)
-        * [Big Data](https://aws.amazon.com/big-data/)
-        * [High Performance Computing](https://aws.amazon.com/hpc/)
-        * [Internet of Things](https://aws.amazon.com/iot/)
-        * [Business Applications](https://aws.amazon.com/business-applications/)
-        * [Content Delivery](https://aws.amazon.com/content-delivery/)
-        * [Mobile Services](https://aws.amazon.com/mobile/)
-        * [Scientific Computing](https://aws.amazon.com/government-education/scientific-computing1/)
-        * [E-commerce](https://aws.amazon.com/ecommerce-applications/)
-    + By Industry Sector
-        * [Financial Services](https://aws.amazon.com/financial-services/)
-        * [Digital Marketing](https://aws.amazon.com/digital-marketing/)
-        * [Media and Entertainment](https://aws.amazon.com/digital-media/)
-        * [Gaming](https://aws.amazon.com/game-hosting/)
-        * [Enterprise IT](https://aws.amazon.com/enterprise/)
-        * [Healthcare & Life Sciences](https://aws.amazon.com/health/)
-        * [Government](https://aws.amazon.com/government-education/government/)
-        * [Nonprofit](https://aws.amazon.com/government-education/nonprofits/)
-        * [Education](https://aws.amazon.com/education/)
-- [Partner Solutions](https://aws.amazon.com/solutions/partners/)
-    + [Big Data](https://aws.amazon.com/big-data/partner-solutions/)
-    + [Storage](https://aws.amazon.com/backup-recovery/partner-solutions/)
-    + [DevOps](https://aws.amazon.com/devops/partner-solutions/)
-- [Case Studies](https://aws.amazon.com/solutions/case-studies/)
-    + [Analytics](https://aws.amazon.com/solutions/case-studies/analytics/)
-    + [Big Data](https://aws.amazon.com/solutions/case-studies/big-data/)
-    + [Enterprise](https://aws.amazon.com/solutions/case-studies/enterprise-it/)
-    + [Startups](https://aws.amazon.com/solutions/case-studies/start-ups/)
-    + [Web Apps](https://aws.amazon.com/solutions/case-studies/web-mobile-social/)
-
-**Google Cloud Platform**
-- [Big data reference architecture diagram](https://cloud.google.com/images/products/big-data/big-data-diagram.png)
-- [Solution Development Guides](https://cloud.google.com/solutions/)
-    + [Media](https://cloud.google.com/solutions/media/)
-    + [Mobile Applications](https://cloud.google.com/solutions/mobile/#development_guides)
-    + [Big Data](https://cloud.google.com/solutions/big-data/#development_guides)
-    + [Financial Services](https://cloud.google.com/solutions/financial-services/#development_guides)
-    + [Gaming](https://cloud.google.com/solutions/gaming/#development_guides)
-    + [Retail & Commerce](https://cloud.google.com/solutions/commerce/#development_guides)
-    + [Internet of Things](https://cloud.google.com/solutions/iot/#development_guides)
-    + [Websites and Web Apps](https://cloud.google.com/solutions/websites/#development_guides)
-    + [Development & Test](https://cloud.google.com/solutions/dev-test/#development_guides)
-
-**By Technology**
-- [Apache Storm](http://storm.apache.org/releases/current/Powered-By.html)
-- [Apache Spark](http://www.datanami.com/2014/03/06/apache_spark_3_real-world_use_cases/)
-- [Apache Mahout](https://mahout.apache.org/general/powered-by-mahout.html)
-
-
-<figure>
-    <img src='http://www.datazoomers.com/wp-content/uploads/2013/02/bi_data_ware_house.jpg' alt='missing' />
-    <figcaption>Courtesty of DataZoomers</figcaption>
-</figure>
-<br/>
-<figure>
-    <img src='http://cdn.guru99.com/images/ETL_Testing/ETLTesting_1.jpg' alt='missing' />
-    <figcaption>Courtesty of Guru99</figcaption>
-</figure>
-
-#### Oracle Architecture and Patterns Examples
-
-#### IBM Architecture and Patterns Examples
-
-**Solution Patterns - IBM**
-- Landing Zone Warehouse
-- Virtual Tables
-- Discovery Tables
-- Streams Dynamic Warehouse
-- Streams Detail with Update
-- Direct Augmentation
-- Warehouse Augmentation
-- Streams Augmentation
-- Dynamic Search Cube
-
-**Component Patterns - IBM**
-- Source Data
-- Source Event
-- Landing Area Zone ETL
-    + Extract
-    + Normalize
-    + Clean
-- Landing Area Zone Search and Survey
-    + Find
-    + Filter
-    + Extract
-- Landing Area Zone Stream Filter
-- Landing Area Zone Stream Augmentation
-- Landing Area Zone Warehouse Augmentation
-- Landing Area Zone Index
-- Exploration Mart
-- Analytics Mart
-- Report Mart
-- Virtual Report Mart
-- Virtual Search Mart
-- Predictive Analytics
-
-**Big Data Exploration Example Architecture - IBM**
-
-- Applications layer
-    + Consists of
-        * Visualization
-        * Discovery
-        * Analysis
-        * Reporting
-        * Statistics
-        * Text and entity analytics
-    + Access
-        * SQL
-        * MDX
-        * Search
-        * REST
-- Discovery and assembly layer
-    + Consists of
-        * Virtual search mart
-            - Faceted search
-        * Analytics mart
-            - Report mart
-            - Discovery table
-            - Search and survey
-        * Report mart
-            - ETL
-            - Analytics
-            - Streams
-    + Access
-        * NoSQL
-        * SQL
-        * Search
-        * REST
-- Landing layer
-    + Consists of
-        * Shared warehouse and ETL
-            - Extract
-            - Provision
-    + Access
-        * Search
-        * REST
-        * SQL
-        * Files
-- Source layer
-    + Sensors and telemetry
-    + Internet
-    + Social media
-    + Public data
-    + Enterprise data
-    
-
-#### Architectural Goals, Principles, and Considerations
+### Architectural Goals, Principles, and Considerations
 
 [Back to Top](#contents)
 
@@ -2037,6 +1876,131 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Development patterns
     + Operational processes
     + Governance structures and polices
+    
+------------------
+
+#### Data types and sources
+
+[Back to Top](#contents)
+
++ Structured
+    * Transactions
+    * Master and reference
++ Unstructured
+    * Text
+    * Image
+    * Video
+    * Audio
+    * Social
++ Semi-structured
+    * Machine generated
++ Data storage (databases)
++ Sensors
++ Events
++ [Parquet](https://parquet.apache.org/)
++ RFID tags
++ Instore WiFi logs
++ Machine Logs
+    * Application
+    * Events
+    * Server
+    * CDRs
+    * Clickstream
++ Text, including documents, emails, scanned documents, records, ...
++ Social networks
++ Public web
++ Geo-location/geospatial
++ Feeds
++ Machine generated
++ Clickstream
++ Software
++ Media
+    * Images
+    * Video
+    * Audio
++ Business applications
+    * OLTP - Online transaction processing
+    * ERP - Enterprise resource planning
+    * CRM - Customer relationship management
+    * SCM - Supply chain management
+    * HR
+    * Product/Project management
++ Online chat
++ Merchant listings
++ DMP - Data management platform (advertising/marketing)
++ CDR - Call detail records
++ Surveys, questionnaires, binary questions, and sentiment
++ Billing data
++ Product catalog
++ Network data
++ Subscriber data
++ Staffing
++ Inventory
++ POS and transactional
++ eCommerce transactions
++ Biometrics
++ Mobile devices
++ Weather data
++ Traffic pattern data
++ Mobile devices
++ Surveillance
+
+------------------------
+
+#### Big Data Architecture Patterns
+
+[Back to Top](#contents)
+
+- [Polyglot](http://datadventures.ghost.io/2014/07/06/polyglot-processing/)
+- [Lambda](http://lambda-architecture.net/)
+- [Kappa](http://milinda.pathirage.org/kappa-architecture.com/)
+- [IOT-A](http://iot-a.info/)
+    + Message Queue/Stream Processing (MQ/SP) block
+        * Buffer data
+            - Processing speed
+            - Throughput handling of downstream components
+            - Micro-batching can increase ingestion rate into downstream components
+        * Process and filter data
+            - Cleaning and removal
+            - Stream processing
+                + Continuous queries
+                + Aggregates
+                + Counts
+                + Real-time machine learning/AI
+        * Output
+            - Real-time
+            - Ingest data into downstream blocks (DB and/or DFS)
+        * Example technologies
+            - [Kafka](http://kafka.apache.org/)
+            - [Spark](http://spark.apache.org/)
+            - [Fluentd](http://www.fluentd.org/)
+            - [Storm](http://storm.apache.org/)
+    + Database (DB) block
+        * Provides granular, structured, low-latency access to the data
+        * Typically NoSQL
+            - MongoDB
+            - Cassandra
+            - HBase
+        * Output
+            - Interactive ad-hoc querying
+                + Data store API (e.g., HBase, MongoDB, ...)
+                + Standard SQL interface
+        * Example technologies
+            - [Spark](http://spark.apache.org/)
+            - [Drill](http://incubator.apache.org/drill/)
+    + Distributed File System (DFS) block
+        * Batch jobs over entire dataset
+            - Aggregations
+            - Reporting
+            - Integration across data sources
+                - E.g., with unstructured data
+        * Long term storage (archiving)
+        * Example technologies
+            - [Hive](http://hive.apache.org/)
+            - [Mahout](http://mahout.apache.org/)    
+    
+
+---------------------
 
 #### Enterprise Big Data Architectural Components
 
@@ -2172,15 +2136,115 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + EPM and BI applications
     + Recommendations
 
-
-#### Enterprise Big Data Components
+-----------
 
 [Back to Top](#contents)
 
-- ![11](http://hortonworks.com/wp-content/uploads/2014/03/11.png)
+![11](http://hortonworks.com/wp-content/uploads/2014/03/11.png)
+
+<figure>
+    <img src='http://www.datazoomers.com/wp-content/uploads/2013/02/bi_data_ware_house.jpg' alt='missing' />
+</figure>
+<br/>
+<figure>
+    <img src='http://cdn.guru99.com/images/ETL_Testing/ETLTesting_1.jpg' alt='missing' />
+</figure>
+
+[Back to Top](#contents)
+
+-----------------
 
 
-#### Big Data Processing Key Functional Capabilities - IBM
+#### AWS
+
+[Back to Top](#contents)
+
+- [Solution Development Guides](https://aws.amazon.com/solutions)
+    + Reference Architectures
+        * [Web Application Hosting](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf)
+        * [Batch Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_batch_03.pdf)
+        * [Large Scale Computing and Large Data Sets](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_largescale_05.pdf)
+        * [Time Series Processing](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_timeseriesprocessing_16.pdf)
+    + By Application
+        * [Websites](https://aws.amazon.com/websites/)
+        * [Backup and Recovery](https://aws.amazon.com/backup-recovery/)
+        * [Archiving](https://aws.amazon.com/archive/)
+        * [DevOps](https://aws.amazon.com/devops/)
+        * [Big Data](https://aws.amazon.com/big-data/)
+        * [High Performance Computing](https://aws.amazon.com/hpc/)
+        * [Internet of Things](https://aws.amazon.com/iot/)
+        * [Business Applications](https://aws.amazon.com/business-applications/)
+        * [Content Delivery](https://aws.amazon.com/content-delivery/)
+        * [Mobile Services](https://aws.amazon.com/mobile/)
+        * [Scientific Computing](https://aws.amazon.com/government-education/scientific-computing1/)
+        * [E-commerce](https://aws.amazon.com/ecommerce-applications/)
+    + By Industry Sector
+        * [Financial Services](https://aws.amazon.com/financial-services/)
+        * [Digital Marketing](https://aws.amazon.com/digital-marketing/)
+        * [Media and Entertainment](https://aws.amazon.com/digital-media/)
+        * [Gaming](https://aws.amazon.com/game-hosting/)
+        * [Enterprise IT](https://aws.amazon.com/enterprise/)
+        * [Healthcare & Life Sciences](https://aws.amazon.com/health/)
+        * [Government](https://aws.amazon.com/government-education/government/)
+        * [Nonprofit](https://aws.amazon.com/government-education/nonprofits/)
+        * [Education](https://aws.amazon.com/education/)
+- [Partner Solutions](https://aws.amazon.com/solutions/partners/)
+    + [Big Data](https://aws.amazon.com/big-data/partner-solutions/)
+    + [Storage](https://aws.amazon.com/backup-recovery/partner-solutions/)
+    + [DevOps](https://aws.amazon.com/devops/partner-solutions/)
+- [Case Studies](https://aws.amazon.com/solutions/case-studies/)
+    + [Analytics](https://aws.amazon.com/solutions/case-studies/analytics/)
+    + [Big Data](https://aws.amazon.com/solutions/case-studies/big-data/)
+    + [Enterprise](https://aws.amazon.com/solutions/case-studies/enterprise-it/)
+    + [Startups](https://aws.amazon.com/solutions/case-studies/start-ups/)
+    + [Web Apps](https://aws.amazon.com/solutions/case-studies/web-mobile-social/)
+
+---------------------
+
+#### Google Cloud Platform
+
+[Back to Top](#contents)
+
+- [Big data reference architecture diagram](https://cloud.google.com/images/products/big-data/big-data-diagram.png)
+- [Solution Development Guides](https://cloud.google.com/solutions/)
+    + [Media](https://cloud.google.com/solutions/media/)
+    + [Mobile Applications](https://cloud.google.com/solutions/mobile/#development_guides)
+    + [Big Data](https://cloud.google.com/solutions/big-data/#development_guides)
+    + [Financial Services](https://cloud.google.com/solutions/financial-services/#development_guides)
+    + [Gaming](https://cloud.google.com/solutions/gaming/#development_guides)
+    + [Retail & Commerce](https://cloud.google.com/solutions/commerce/#development_guides)
+    + [Internet of Things](https://cloud.google.com/solutions/iot/#development_guides)
+    + [Websites and Web Apps](https://cloud.google.com/solutions/websites/#development_guides)
+    + [Development & Test](https://cloud.google.com/solutions/dev-test/#development_guides)
+
+#### By Technology
+
+[Back to Top](#contents)
+
+- [Apache Storm](http://storm.apache.org/releases/current/Powered-By.html)
+- [Apache Spark](http://www.datanami.com/2014/03/06/apache_spark_3_real-world_use_cases/)
+- [Apache Mahout](https://mahout.apache.org/general/powered-by-mahout.html)
+
+
+--------------------------------
+
+#### Oracle Architecture and Patterns Examples
+
+- Designed to be a flexible and a “just-in-time” architecture development approach
+- Key Steps
+    + Establish Business Context and Scope
+    + Establish an Architecture Vision
+    + Assess the Current State
+    + Establish Future State and Economic Model
+    + Develop a Strategic Roadmap
+    + Establish Governance over the Architecture
+
+-------------------
+
+#### IBM Architecture and Patterns Examples
+
+**Key Functionalities**
+
 - Data ingestion
     + Optimize the process of loading data in the data store to support time-sensitive analytic goals.
 - Search and survey
@@ -2203,6 +2267,92 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + Detect, prevent, and otherwise address system breaches in the big data ecosystem.
 - Collaborate and share
 
+**Solution Patterns - IBM**
+- Landing Zone Warehouse
+- Virtual Tables
+- Discovery Tables
+- Streams Dynamic Warehouse
+- Streams Detail with Update
+- Direct Augmentation
+- Warehouse Augmentation
+- Streams Augmentation
+- Dynamic Search Cube
+
+**Component Patterns - IBM**
+- Source Data
+- Source Event
+- Landing Area Zone ETL
+    + Extract
+    + Normalize
+    + Clean
+- Landing Area Zone Search and Survey
+    + Find
+    + Filter
+    + Extract
+- Landing Area Zone Stream Filter
+- Landing Area Zone Stream Augmentation
+- Landing Area Zone Warehouse Augmentation
+- Landing Area Zone Index
+- Exploration Mart
+- Analytics Mart
+- Report Mart
+- Virtual Report Mart
+- Virtual Search Mart
+- Predictive Analytics
+
+------------
+
+#### Big Data Exploration Example Architecture - IBM
+
+- Applications layer
+    + Consists of
+        * Visualization
+        * Discovery
+        * Analysis
+        * Reporting
+        * Statistics
+        * Text and entity analytics
+    + Access
+        * SQL
+        * MDX
+        * Search
+        * REST
+- Discovery and assembly layer
+    + Consists of
+        * Virtual search mart
+            - Faceted search
+        * Analytics mart
+            - Report mart
+            - Discovery table
+            - Search and survey
+        * Report mart
+            - ETL
+            - Analytics
+            - Streams
+    + Access
+        * NoSQL
+        * SQL
+        * Search
+        * REST
+- Landing layer
+    + Consists of
+        * Shared warehouse and ETL
+            - Extract
+            - Provision
+    + Access
+        * Search
+        * REST
+        * SQL
+        * Files
+- Source layer
+    + Sensors and telemetry
+    + Internet
+    + Social media
+    + Public data
+    + Enterprise data
+    
+--------------------- 
+
 #### Big data and analytics architecture on cloud - IBM
 - Analytics-as-a-service
     + Consumes both data at rest and in motion
@@ -2222,135 +2372,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - Big data file system (HDFS, CFS, GPFS, S3, ...)
 - Infrastructure & Appliances (Baremetal or IaaS) and object storage
 
-#### The Oracle Enterprise Architecture Development Process (OADP)
-- Designed to be a flexible and a “just-in-time” architecture development approach
-- Key Steps
-    + Establish Business Context and Scope
-    + Establish an Architecture Vision
-    + Assess the Current State
-    + Establish Future State and Economic Model
-    + Develop a Strategic Roadmap
-    + Establish Governance over the Architecture
 
-
-#### Data types and sources
-
-[Back to Top](#contents)
-
-+ Structured
-    * Transactions
-    * Master and reference
-+ Unstructured
-    * Text
-    * Image
-    * Video
-    * Audio
-    * Social
-+ Semi-structured
-    * Machine generated
-+ Data storage (databases)
-+ Sensors
-+ Events
-+ [Parquet](https://parquet.apache.org/)
-+ RFID tags
-+ Instore WiFi logs
-+ Machine Logs
-    * Application
-    * Events
-    * Server
-    * CDRs
-    * Clickstream
-+ Text, including documents, emails, scanned documents, records, ...
-+ Social networks
-+ Public web
-+ Geo-location/geospatial
-+ Feeds
-+ Machine generated
-+ Clickstream
-+ Software
-+ Media
-    * Images
-    * Video
-    * Audio
-+ Business applications
-    * OLTP - Online transaction processing
-    * ERP - Enterprise resource planning
-    * CRM - Customer relationship management
-    * SCM - Supply chain management
-    * HR
-    * Product/Project management
-+ Online chat
-+ Merchant listings
-+ DMP - Data management platform (advertising/marketing)
-+ CDR - Call detail records
-+ Surveys, questionnaires, binary questions, and sentiment
-+ Billing data
-+ Product catalog
-+ Network data
-+ Subscriber data
-+ Staffing
-+ Inventory
-+ POS and transactional
-+ eCommerce transactions
-+ Biometrics
-+ Mobile devices
-+ Weather data
-+ Traffic pattern data
-+ Mobile devices
-+ Surveillance
-
-**Big Data Architecture Patterns**
-
-[Back to Top](#contents)
-
-- [Polyglot](http://datadventures.ghost.io/2014/07/06/polyglot-processing/)
-- [Lambda](http://lambda-architecture.net/)
-- [Kappa](http://milinda.pathirage.org/kappa-architecture.com/)
-- [IOT-A](http://iot-a.info/)
-    + Message Queue/Stream Processing (MQ/SP) block
-        * Buffer data
-            - Processing speed
-            - Throughput handling of downstream components
-            - Micro-batching can increase ingestion rate into downstream components
-        * Process and filter data
-            - Cleaning and removal
-            - Stream processing
-                + Continuous queries
-                + Aggregates
-                + Counts
-                + Real-time machine learning/AI
-        * Output
-            - Real-time
-            - Ingest data into downstream blocks (DB and/or DFS)
-        * Example technologies
-            - [Kafka](http://kafka.apache.org/)
-            - [Spark](http://spark.apache.org/)
-            - [Fluentd](http://www.fluentd.org/)
-            - [Storm](http://storm.apache.org/)
-    + Database (DB) block
-        * Provides granular, structured, low-latency access to the data
-        * Typically NoSQL
-            - MongoDB
-            - Cassandra
-            - HBase
-        * Output
-            - Interactive ad-hoc querying
-                + Data store API (e.g., HBase, MongoDB, ...)
-                + Standard SQL interface
-        * Example technologies
-            - [Spark](http://spark.apache.org/)
-            - [Drill](http://incubator.apache.org/drill/)
-    + Distributed File System (DFS) block
-        * Batch jobs over entire dataset
-            - Aggregations
-            - Reporting
-            - Integration across data sources
-                - E.g., with unstructured data
-        * Long term storage (archiving)
-        * Example technologies
-            - [Hive](http://hive.apache.org/)
-            - [Mahout](http://mahout.apache.org/)
-            
+------------------------            
 --------------------
 
 ### Bigdata, AI, Datascience Reads
@@ -2361,6 +2384,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 - [Gartner Advanced Analytics Glossery](https://www.gartner.com/it-glossary/advanced-analytics/)
 - [The 4 Types of Data Analytics](http://insights.principa.co.za/4-types-of-data-analytics-descriptive-diagnostic-predictive-prescriptive)
+
+----------
 
 <h4><a name="ai"></a>Artificial Intelligence</h4>
 
@@ -2398,6 +2423,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Top AI Influencers](http://www.onalytica.com/blog/posts/artificial-intelligence-2017-top-100-influencers-brands-and-publications/)
 - [Introduction to reinforcement learning and OpenAI Gym](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
 
+----------------
+
 <h4><a name="ml"></a>Machine Learning</h4>
 
 [Back to Top](#contents)
@@ -2414,6 +2441,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [How to choose algorithms for Microsoft Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/studio/algorithm-choice)
 - [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 - [8 Ways Machine Learning Is Improving Companies’ Work Processes](https://hbr.org/2017/05/8-ways-machine-learning-is-improving-companies-work-processes)
+
+----------------------
 
 <h4><a name="data-sci"></a>Data Science</h4>
 
@@ -2432,6 +2461,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Top 10 Active Big Data, Data Science, Machine Learning Influencers on LinkedIn, Updated](https://www.kdnuggets.com/2017/09/top-10-big-data-science-machine-learning-influencers-linkedin-updated.html)
 - [7 awesome data science newsletters to keep you informed](http://www.dataquest.io/blog/data-science-newsletters/)
 - [Teaching the data science process](https://towardsdatascience.com/teaching-the-data-science-process-f1e9d6f87ad5)
+
+------------------------
 
 <h4><a name="scientists"></a>Data Scientists</h4>
 
@@ -2456,17 +2487,26 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Is data scientist the most rewarding tech job? New report says yes](https://www.techrepublic.com/article/is-data-scientist-the-most-rewarding-tech-job-new-report-says-yes/)
 - [Getting Into Data Science: What You Need to Know](https://www.kdnuggets.com/2017/05/data-science-need-to-know.html)
 
+
+------------------
+
 <h4><a name="stats"></a>Statistics, Probability, and Mathematics</h4>
 
 [Back to Top](#contents)
 
 - [Descriptive Statistics Key Terms, Explained](https://www.kdnuggets.com/2017/05/descriptive-statistics-key-terms-explained.html)
 
+
+------------------
+
 <h4><a name="iot"></a>Internet of Things (IoT)</h4>
 
 [Back to Top](#contents)
 
 - [The Internet of Things Market](https://www.oreilly.com/ideas/the-internet-of-things-market)
+
+
+-----------------------
 
 <h4><a name="jobs"></a>Jobs, Skills, and Salary Trends</h4>
 
@@ -2479,6 +2519,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [What’s next for the 2017 data science and analytics job market?](https://www.pwc.com/us/en/publications/data-science-and-analytics.html)
 - [Defining Baseline Skills](http://burning-glass.com/research/baseline-skills/)
 - [Top 12 Interesting Careers to Explore in Big Data](https://www.kdnuggets.com/2016/10/top-12-interesting-careers-explore-big-data.html)
+
+
+------------------
 
 <h4><a name="tools"></a>Tools and Language Popularity, Comparisons, Trends, ...</h4>
 
@@ -2506,6 +2549,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Architecture of Giants: Data Stacks at Facebook, Netflix, Airbnb, and Pinterest](https://blog.keen.io/architecture-of-giants-data-stacks-at-facebook-netflix-airbnb-and-pinterest-9b7cd881af54)
 - [10 Tools for the Novice Data Scientist](https://datafloq.com/read/10-tools-for-the-novice-data-scientist/2994)
 
+
+--------------------
+
 <h4><a name="freelancing"></a>Freelancing and Consulting</h4>
 
 [Back to Top](#contents)
@@ -2514,6 +2560,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Freelancer 101: How to Set Up a Simple Accounting System](https://hired.com/blog/candidates/freelancer-101-simple-accounting-system/)
 - [New to Freelancing? 9 Things You Need to Know](https://hired.com/blog/candidates/new-freelancing-9-things-need-know/)
 - [How to Become a Freelance Data Scientist](https://www.springboard.com/blog/freelance-data-scientist/)
+
+
+----------------------
 
 <h4><a name="online-learning"></a>Online Learning</h4>
 
@@ -2535,6 +2584,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [TOP 50 DATA SCIENCE RESOURCES: THE BEST BLOGS, FORUMS, VIDEOS AND TUTORIALS TO LEARN ALL ABOUT DATA SCIENCE](https://www.ngdata.com/top-data-science-resources/)
 - [18 Resources to Learn Data Science Online](https://www.simplilearn.com/resources-to-learn-data-science-online-article)
 
+
+------------------------
+
 <h4><a name="big-data"></a>Big Data and Data Engineering</h4>
 
 [Back to Top](#contents)
@@ -2552,6 +2604,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [10 Data Acquisition Strategies for Startups](https://medium.com/@muellerfreitag/10-data-acquisition-strategies-for-startups-47166580ee48)
 - [Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
 
+
+-------------------
+
 <h4><a name="databases"></a>Databases, Schemas, and Data Modeling</h4>
 
 [Back to Top](#contents)
@@ -2568,6 +2623,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [DAO vs ORM vs ActiveRecord vs TableGateway vs AHHHH!](https://www.sitepoint.com/community/t/dao-vs-orm-vs-activerecord-vs-tablegateway-vs-ahhhh/2473/2)
 - [SQL is 43 years old - here’s 8 reasons we still use it today](http://blog.sqlizer.io/posts/sql-43/)
 
+
+----------------------
+
 <h4><a name="product"></a>Product</h4>
 
 [Back to Top](#contents)
@@ -2578,12 +2636,18 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [WHAT MAKES A GREAT PRODUCT MANAGER](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 - [Books for Product Managers](https://www.kennorton.com/essays/books-for-product-managers.html)
 
+
+----------------------
+
 <h4><a name="methodologies"></a>Methodologies</h4>
 
 [Back to Top](#contents)
 
 - [Transitioning from Scrum to Kanban](https://www.mindtheproduct.com/2017/06/transitioning-scrum-kanban/)
 - [Running in Circles - Why Agile Isn’t Working and What We Do Differently](https://m.signalvnoise.com/running-in-circles-aae73d79ce19)
+
+
+---------------------
 
 <h4><a name="cs"></a>Computer Science and Programming</h4>
 
@@ -2595,12 +2659,18 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 - [Suffering-oriented programming](http://nathanmarz.com/blog/suffering-oriented-programming.html)
 - [Stack Overflow Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017)
 
+
+-----------------
+
 <h4><a name="biz"></a>Business</h4>
 
 [Back to Top](#contents)
 
 - [GitLab team handbook](https://about.gitlab.com/handbook/)
 - [Meet the 2017 CNBC Disruptor 50 companies](https://www.cnbc.com/2017/05/16/the-2017-cnbc-disruptor-50-list-of-companies.html)
+
+
+------------------
 
 <h4><a name="gartner"></a>Gartner Magic Quadrants</h4>
 
@@ -2612,6 +2682,9 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     + [Gartner 2016 Magic Quadrant for Advanced Analytics Platforms: gainers and losers](http://www.kdnuggets.com/2016/02/gartner-2016-mq-analytics-platforms-gainers-losers.html)
     + [Gartner 2017 Magic Quadrant for Advanced Analytics Platforms: gainers and losers](http://www.kdnuggets.com/2017/02/gartner-2017-mq-data-science-platforms-gainers-losers.html)
 - [Magic Quadrant for Data Integration](https://www.informatica.com/data-integration-magic-quadrant.html)
+
+
+------------------
 
 #### Architectures
 
