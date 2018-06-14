@@ -5,6 +5,7 @@ General AI
 
 - [Is Ethical AI A Myth Or Can It Be Achieved?](https://analyticsindiamag.com/is-ethical-ai-a-myth-or-can-it-be-achieved/)
 - [Governments Aren’t Keeping Up With the AI Threat to the Job Market](https://www.bloomberg.com/news/articles/2018-01-23/governments-told-in-davos-to-prepare-economies-for-rise-of-ai)
+- [Alphabet’s Eric Schmidt says Silicon Valley will need ‘AI principles’ before working with US military](https://www.theverge.com/2018/4/18/17252036/alphabet-google-ai-military-pentagon-eric-schmidt)
 - [AI Silicon Preps for 2018 Debuts](https://www.eetimes.com/document.asp?doc_id=1332877&_mc=RSS_EET_EDT)
 - [Deutsche Boerse creates index using algorithm to track AI leaders like Apple](https://www.reuters.com/article/us-deutsche-boerse-index-tech/deutsche-boerse-creates-index-using-algorithm-to-track-ai-leaders-like-apple-idUSKBN1FB1WF)
 - [China wants to make the chips that will add AI to any gadget](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/)
@@ -28,22 +29,21 @@ General AI
 - [Informatica Launches Intelligent, Automated Enterprise Data Governance Powered by AI](http://www.mobilitytechzone.com/news/2018/04/24/8741257.htm)
 - [Oracle NetSuite Looks to Bring AI to SMBs](https://www.itbusinessedge.com/blogs/it-unmasked/oracle-netsuite-looks-to-bring-ai-to-smbs.html)
 - [Splunk updates flagship suites with machine learning, AI advances](https://www.zdnet.com/article/splunk-updates-flagship-suites-with-machine-learning-ai-advances/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [New AI tools make BI smarter — and more useful](http://www.cio.in/feature/new-ai-tools-make-bi-smarter-and-more-useful)
+- [The success of artificial intelligence depends on data](http://www.information-age.com/success-artificial-intelligence-data-123471607/)
+- [Is your business ready to go cognitive-first?](https://www.itproportal.com/features/is-your-business-ready-to-go-cognitive-first/)
+- [UK robotics start-ups using AI to solve pressing world problems show their ideas in Hong Kong](http://www.scmp.com/lifestyle/article/2141636/uk-robotics-start-ups-using-ai-solve-pressing-world-problems-show-their)
+- [The race for AI: Power of tech giants under scrutiny in the UK](https://www.cnet.com/news/the-race-for-ai-power-of-tech-giants-under-scrutiny-in-uk-house-of-lords-report/#ftag=CADf328eec)
+- [IBM's new AI toolbox puts your deep learning network to the test](https://global.factiva.com/ga/default.aspx)
+- [Machine learning: A cheat sheet](https://www.techrepublic.com/article/machine-learning-the-smart-persons-guide/)
+- [Fujitsu Develops Deep Learning-Based Object Detection Technology Capable of Training with Limited Data](https://global.factiva.com/ga/default.aspx)
+- [Node snags two top AI researchers to advance AI-fueled search tool](https://techcrunch.com/2018/04/17/node-snags-a-couple-of-top-ai-researchers-to-advance-ai-fueled-search-tool/)
+- [Sony and Carnegie Mellon University Partner to Research on Artificial Intelligence and Robotics](http://www.itnewsonline.com/news/Sony-and-Carnegie-Mellon-University-Partner-to-Research-on-Artificial-Intelligence-and-Robotics/111/8/3)
+- [Neuromorphic Computing Pioneer GrAI Matter Labs Raises $15M to Bring AI to Every Device on the Edge](https://businesswireindia.com/news/fulldetails/neuromorphic-computing-pioneer-grai-matter-labs-raises-usd15m-bring-ai-every-device-edge/57843#)
+- [Two Sigma Hires Google Scientist Mike Schuster for AI Expansion](https://www.bloomberg.com/news/articles/2018-04-16/two-sigma-hires-google-scientist-mike-schuster-for-ai-expansion)
+- [Cisco Continues To Invest Heavily In AI With New Funding For Startup Gong.io](https://www.crn.com/news/channel-programs/300102111/cisco-continues-to-invest-heavily-in-ai-with-new-funding-for-startup-gong-io.htm)
+- [Google's Dialogflow Enterprise helps businesses create AI-powered chatbots](https://www.techrepublic.com/article/google-officially-unveils-chatbot-dialogflow-enterprise/)
+- [How robots are reshaping one of the dirtiest, most dangerous jobs](https://www.nbcnews.com/mach/science/how-robots-are-reshaping-one-dirtiest-most-dangerous-jobs-ncna866771)
 
 
 
@@ -53,3 +53,8 @@ Ecosystem & Startup
 
 
 Research Announcements
+
+
+
+![Chart_20180213](http://www.digitalistmag.com/files/2018/02/Chart_20180213-02_DD-02.png)
+![Chart_20180406](http://www.digitalistmag.com/files/2018/02/Chart_20180406-04.jpg)
