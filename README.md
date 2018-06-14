@@ -343,6 +343,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 #### Regression, Univariate, Multivariate
 
+[Back to Top](#contents)
+
 - Simple and multiple linear regression
 - Tree-based methods (e.g., decision tree or forest)
 - Generalized linear models (GLM)
