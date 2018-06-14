@@ -1416,6 +1416,7 @@ Have a quick look at these threads
 - [Wikipedia Statistics Portal](https://en.wikipedia.org/wiki/Portal:Statistics)
 - [Wikipedia Outline of Mathemetics](https://en.wikipedia.org/wiki/Outline_of_mathematics)
 - [Wikipedia Mathemetics Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
+- [WHO IS READY FOR THE COMING WAVE OF AUTOMATION?](http://www.automationreadiness.eiu.com/)
 
 ----------------
 
