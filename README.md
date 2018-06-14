@@ -1642,7 +1642,22 @@ Areas](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.7407&rep=rep
 ------------------
 ## Computer Vision Applications
 
+
+
 [Back to Top](#contents)
+
+    -> Video surveillance
+    -> Machine/vehicular object detection/identification/avoidance
+    -> Medical image analysis
+    -> Augmented reality (AR)/virtual reality (VR) development
+    -> Localization and mapping
+    -> Converting paperwork into digital data
+    -> Human emotion analysis
+    -> Ad insertions into images and video
+    -> Face recognition
+    -> Real estate development optimization
+
+
 
 - [The Computer Vision Industry](https://www.cs.ubc.ca/~lowe/vision.html)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
