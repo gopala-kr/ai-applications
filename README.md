@@ -92,7 +92,11 @@
      - <a href="#gartner">Gartner Magic Quadrants</a>
      - [architectures](#architectures)
    - [References](#references)
+   - [Online Visualization](#online-visualization)
+   - [What would you like to show](#what-would-you-like-to-show)
    - [Cheatsheets](#cheatsheets)
+   - [Python for Bigdata](#python-for-bigdata)
+   - [R for Bigdata](#r-for-bigdata)
    - [Open Datasets](#open-datasets)
 
 [Back to Top](#contents)
@@ -2727,9 +2731,12 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 | [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
 | [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes) ||
 
-[Back to Top](#contents)
+-----------------
 
-Visualization tools
+
+#### Online Visualization
+
+[Back to Top](#contents)
 
 - [The Python Graph Gallery](https://python-graph-gallery.com/)
 - [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/)
@@ -2759,6 +2766,15 @@ Visualization tools
 - [MobileVis](http://mobilev.is/)
 - [Visualizing Data Resources](http://www.visualisingdata.com/resources/)
 - [Top Algorithms and Methods Used by Data Scientists](http://www.kdnuggets.com/2016/09/poll-algorithms-used-data-scientists.html)
+
+-------------
+
+
+#### What would you like to show
+
+[Back to Top](#contents)
+
+![1528892035](https://img.labnol.org/di/data-chart-type.png?_ga=2.77551701.1750931711.1528892035-757378008.1528892034)
 
 -----------
 
@@ -2828,10 +2844,18 @@ Visualization tools
 [Back to Top](#contents)
 
 --------------
+#### Python for Bigdata
+
+[Back to Top](#contents)
 
 ![nxDTMqJ](https://xmindshare.s3.amazonaws.com/preview/WvfC-nxDTMqJ-97899.png)
+
+----------------
+#### R for Bigdata
+
+[Back to Top](#contents)
+
 ![eVZHWtc](https://xmindshare.s3.amazonaws.com/preview/LKF2-eVZHWtc-47347.png)
-![1528892035](https://img.labnol.org/di/data-chart-type.png?_ga=2.77551701.1750931711.1528892035-757378008.1528892034)
 
 --------------------
 
