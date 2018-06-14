@@ -3621,7 +3621,7 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 [Back to Top](#contents)
 
-![augmented-finance-machine-intelligence](https://static1.squarespace.com/static/58935c18bebafb25099b4aee/t/5ad9d93c70a6adf9d3ee60d3/1524227628339/AI+fin+service.PNG?format=750w)
+![augmented-finance-machine-intelligence](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/fin.JPG)
 
 > Top Media
 
