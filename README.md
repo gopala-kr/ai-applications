@@ -70,7 +70,17 @@
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
    - [Datascience Desciplines](#datascience-desciplines)
-   - [Architecture Guides, Usage, and Examples](#architecture-guides-usage-and-examples)
+   - [Architectural Goals, Principles, and Considerations](#architectural-goals,-principles-and-considerations)
+     - [Data types and sources](#data-types-and-sources)
+     - [Big Data Architecture Patterns](#big-data-architecture-patterns)
+     - [Enterprise Big Data Architectural Components](#enterprise-big-data-architectural-components)
+     - [AWS](#aws)
+     - [Google Cloud Platform](#google-cloud-platform)
+     - [By Technology](#by-technology)
+     - [Oracle Architecture and Patterns Examples](#oracle-architecture-and-patterns-examples)
+     - [IBM Architecture and Patterns Examples](#ibm-architecture-and-patterns-examples)
+     - [Big Data Exploration Example Architecture IBM](#big-data-exploration-example-architecture-ibm)
+     - [Big data and analytics architecture on cloud IBM](#big-data-and-analytics-architecture-on-cloud-ibm)
    - [Bigdata, AI, Datascience Reads](#bigdata-ai-datascience-reads)
      - <a href="#adv-analytics">Advanced Analytics</a>
      - <a href="#ai">Artificial Intelligence</a>
@@ -2302,7 +2312,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ------------
 
-#### Big Data Exploration Example Architecture - IBM
+#### Big Data Exploration Example Architecture IBM
 
 - Applications layer
     + Consists of
@@ -2353,7 +2363,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
     
 --------------------- 
 
-#### Big data and analytics architecture on cloud - IBM
+#### Big data and analytics architecture on cloud IBM
 - Analytics-as-a-service
     + Consumes both data at rest and in motion
     + Applies analytical algorithms
