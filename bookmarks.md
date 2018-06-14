@@ -16,7 +16,7 @@ General AI
 - [Why Artificial Intelligence Is The Future Of Accounting: Study](https://www.forbes.com/sites/jeanbaptiste/2018/01/22/why-artificial-intelligence-is-the-future-of-accounting-study/#41abaef337bc)
 - [Government CIO Top 10 New Tech Investments In 2018](https://www.forbes.com/sites/louiscolumbus/2018/01/23/government-cio-top-10-new-tech-investments-in-2018/#1cab669e3abd)
 - [What Will AI’s Biggest Contribution to Healthcare Be?](https://www.datanami.com/2018/04/23/what-will-ais-biggest-contribution-to-healthcare-be/)
-
+- [United Kingdom Plans $1.3 Billion Artificial Intelligence Push](http://fortune.com/2018/04/25/uk-ai-artificial-intelligence-deal/)
 
 
 
