@@ -28,7 +28,7 @@
      - [Ensemble Methods Supervised, Unsupervised](#ensemble-methods-supervised-unsupervised)
      - [Recommender Systems and Recommendations](#recommender-systems-and-recommendations)
      - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
-     - [Anomaly Detection Supervised, Unsupervised, Semi-supervised](#anomaly-detection-supervised,-unsupervised-semi-supervised)
+     - [Anomaly Detection Supervised, Unsupervised, Semisupervised](#anomaly-detection-supervised,-unsupervised-semisupervised)
      - [Reinforcement Learning](#reinforcement-learning)
      - [Model selection, validation, and resampling methods](#model-selection-validation-and-resampling-methods)
      - [Model tuning bias variance tradeoff and model complexity](#model-tuning-bias-variance-tradeoff-and-model-complexity)
@@ -753,7 +753,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 --------------
 
-#### Mathematical/quantitative Finance and Risk Management
+#### Mathematical Finance and Risk Management
 
 [Back to Top](#contents)
 
@@ -768,6 +768,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 ----------------------
 
 #### Ranking
+
+[Back to Top](#contents)
 
 - [Ranking](https://en.wikipedia.org/wiki/Ranking)
 
@@ -911,9 +913,11 @@ There is no established unifying theory or paradigm that guides AI research. Res
 - T-test - Compare two groups
 - ANOVA - Compare multiple groups
 
+--------------
+
 #### Hybrid Solutions and Applications
 
-
+[Back to Top](#contents)
 
 ***Example Applications***
 - Google search
