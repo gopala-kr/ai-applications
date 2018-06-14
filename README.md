@@ -1421,7 +1421,7 @@ Have a quick look at these threads
 - [How Companies Are Putting AI to Work Through Deep Learning](https://www.oreilly.com/data/free/files/how-companies-are-putting-aI-to-work-through-deep-learning.pdf?mkt_tok=eyJpIjoiTWpNeFpqTTBNV0l6WkRsaiIsInQiOiJRcWNMb2ExazNCNGJPV3JzQ2hxT2MrUTZySFZGaDNPZmZjUVwvNlR0ZjdCbnduUEtyczBWVlJMR3c3MDZJcHdvNlhxb1MweGd5UVB3S0N6dXJ3K0NzcHRzcGRqQXgzU0VUZkw3M3RQOUxLalhNWnNsdkpVYTZkb3VvTlRWbFRDdHMifQ%3D%3D)
 - [DisruptionTalk: Everyday List of Artificial Intelligence Examples In Use](https://hackernoon.com/definitive-list-of-examples-of-artificial-intelligence-in-use-e02e3328ce26)
 - [ARTIFICIAL INTELLIGENCE FOR BUSINESS](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/05/09112500/ai-for-business-special-report-2017.pdf)
-- []()
+- [ai-privacy](https://github.com/OpenMined/awesome-ai-privacy)
 
 ----------------
 
