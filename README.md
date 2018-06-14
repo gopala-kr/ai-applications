@@ -1418,6 +1418,8 @@ Have a quick look at these threads
 - [Wikipedia Mathemetics Portal](https://en.wikipedia.org/wiki/Portal:Mathematics)
 - [WHO IS READY FOR THE COMING WAVE OF AUTOMATION?](http://www.automationreadiness.eiu.com/)
 - [SAP -digitalistmag](http://www.digitalistmag.com/machine-learning-ai)
+- [How Companies Are Putting AI to Work Through Deep Learning](https://www.oreilly.com/data/free/files/how-companies-are-putting-aI-to-work-through-deep-learning.pdf?mkt_tok=eyJpIjoiTWpNeFpqTTBNV0l6WkRsaiIsInQiOiJRcWNMb2ExazNCNGJPV3JzQ2hxT2MrUTZySFZGaDNPZmZjUVwvNlR0ZjdCbnduUEtyczBWVlJMR3c3MDZJcHdvNlhxb1MweGd5UVB3S0N6dXJ3K0NzcHRzcGRqQXgzU0VUZkw3M3RQOUxLalhNWnNsdkpVYTZkb3VvTlRWbFRDdHMifQ%3D%3D)
+
 ----------------
 
 ## Hardware Options Infrastructure for AI
