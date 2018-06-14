@@ -3621,8 +3621,11 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 [Back to Top](#contents)
 
+![augmented-finance-machine-intelligence](https://static1.squarespace.com/static/58935c18bebafb25099b4aee/t/5ad9d93c70a6adf9d3ee60d3/1524227628339/AI+fin+service.PNG?format=750w)
+
 > Top Media
 
+- [augmented-finance-machine-intelligence](https://next.autonomous.com/augmented-finance-machine-intelligence/)
 - [How AI Will Transform Financial Management Applications - Gartner](https://www.gartner.com/smarterwithgartner/how-ai-will-transform-financial-management-applications/)
 - [Artificial Intelligence in Finance - sigmoidal](https://sigmoidal.io/real-applications-of-ai-in-finance/)
 - [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
