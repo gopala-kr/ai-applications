@@ -66,7 +66,7 @@
  - [Speech Recog Applications](#speech-recog-applications)
  - [AI in Robotics Applications](#ai-in-robotics-applications)
  - [Bigdata and Data Science](#bigdata-and-data-science)
-   - [AI Lock IN Loop](#ai-lock-in-loop)
+   - [AI Lock In Loop](#ai-lock-in-loop)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
@@ -1820,10 +1820,12 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ------------------
 
-#### AI lock In Loop
+### AI lock In Loop
 
-![eiendomsbransjen](https://image.slidesharecdn.com/hvordanvinneracetv4-170821112229/95/hvordan-vinne-racet-kunstig-intelligens-i-eiendomsbransjen-12-638.jpg?cb=1503315005)
 [Back to Top](#contents)
+
+![eiendomsbransjen](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ai-lock.JPG)
+
 
 ------------------
 
