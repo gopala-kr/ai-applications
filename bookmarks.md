@@ -3,6 +3,20 @@
 
 General AI
 
+6/15
+
+- [Booz Allen’s Chief Warns U.S. of a ‘Close Race’ With China on AI](https://www.bloomberg.com/news/articles/2018-06-14/booz-allen-s-chief-warns-u-s-of-a-close-race-with-china-on-ai)
+- [How lattes and AI fit together at Capital One](https://www.americanbanker.com/news/how-lattes-and-ai-fit-together-at-capital-one)
+- [Mad about erica: Why a million people use Bank of America's chatbot](https://www.americanbanker.com/news/mad-about-erica-why-a-million-people-use-bank-of-americas-chatbot)
+- [Auto Industry Shifts Gears with AI](https://www.eetimes.com/author.asp?section_id=36&doc_id=1333382)
+- [Health Care Execs Don't Want Blame For AI Decisions, Survey Finds](https://www.crn.com/news/channel-programs/video/300104906/health-care-execs-dont-want-blame-for-ai-decisions-survey-finds.htm)
+- [Building an A.I. program is easy. The hard part comes after](https://www.cnbc.com/2018/06/08/building-an-ai-program-is-easy-the-hard-part-comes-after.html)
+- [Introducing the Robotics Quotient: A new means of measuring organizational readiness for automation and AI](https://www.zdnet.com/article/the-robotics-quotient/#ftag=RSSbaffb68)
+
+
+-------------
+
+
 - [Is Ethical AI A Myth Or Can It Be Achieved?](https://analyticsindiamag.com/is-ethical-ai-a-myth-or-can-it-be-achieved/)
 - [Governments Aren’t Keeping Up With the AI Threat to the Job Market](https://www.bloomberg.com/news/articles/2018-01-23/governments-told-in-davos-to-prepare-economies-for-rise-of-ai)
 - [Alphabet’s Eric Schmidt says Silicon Valley will need ‘AI principles’ before working with US military](https://www.theverge.com/2018/4/18/17252036/alphabet-google-ai-military-pentagon-eric-schmidt)
