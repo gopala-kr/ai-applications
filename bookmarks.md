@@ -20,8 +20,16 @@ General AI
 - [AI-powered DevOps is how CA wants to reinvent software development and itself](https://www.zdnet.com/article/ai-powered-devops-is-how-ca-wants-to-reinvent-software-development-and-itself/#ftag=RSSbaffb68)
 - [Syntiant: Analog Deep Learning Chips](https://semiengineering.com/syntiant-analog-deep-learning-chips/)
 - [Nvidia will open deep learning research lab in Toronto](https://venturebeat.com/2018/06/13/nvidia-will-open-deep-learning-research-lab-in-toronto/)
-- []()
-- []()
+- [BI: Google is expanding its footprint in Africa with a new AI research center in Ghana](https://www.businessinsider.com.au/google-ai-research-center-ghana-africa-2018-6)
+- [Alphabet's DeepMind Makes a Key Advance in Computer Vision](https://spectrum.ieee.org/cars-that-think/robotics/artificial-intelligence/alphabet-deep-mind-makes-a-key-advance-in-computer-vision)
+- [Honda Gets Ready For The 4th Industrial Revolution By Using AI, Big Data And Robots](https://www.forbes.com/sites/bernardmarr/2018/06/08/honda-gets-ready-for-the-4th-industrial-revolution-by-using-ai-big-data-and-robots/2/#1ad6c8f9681f)
+- [AI Drone Learns to Detect Brawls](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-drone-learns-to-detect-brawls)
+- [Artificial Intelligence Has X-Ray Vision And Can Now Watch You Through Walls](https://www.forbes.com/sites/andreamorris/2018/06/12/artificial-intelligence-has-x-ray-vision-and-can-now-watch-you-through-walls/#629f00bd1595)
+- [AI matching human intelligence still decades away: CA research scientists](https://economictimes.indiatimes.com/news/science/ai-matching-human-intelligence-still-decades-away-ca-research-scientists/articleshow/64527972.cms)
+- [IBM expects third exponential tech shift to be driven by AI](https://www.digitimes.com/news/a20180613PD205.html)
+- [IBM and H2O.ai Partnership Aims to Accelerate Adoption of AI in the Enterprise](https://www.datanami.com/this-just-in/ibm-and-h2o-ai-partnership-aims-to-accelerate-adoption-of-ai-in-the-enterprise/)
+- [Taking responsibility for responsible AI](https://www.cio.com/article/3280825/artificial-intelligence/taking-responsibility-for-responsible-ai.html)
+
 
 -------------
 
