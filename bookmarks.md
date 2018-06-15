@@ -5,6 +5,7 @@ General AI
 
 6/15
 
+- [Microsoft is hiring engineers to work on A.I. chip design for its cloud](https://www.cnbc.com/2018/06/11/microsoft-hiring-engineers-for-cloud-ai-chip-design.html)
 - [Booz Allen’s Chief Warns U.S. of a ‘Close Race’ With China on AI](https://www.bloomberg.com/news/articles/2018-06-14/booz-allen-s-chief-warns-u-s-of-a-close-race-with-china-on-ai)
 - [How lattes and AI fit together at Capital One](https://www.americanbanker.com/news/how-lattes-and-ai-fit-together-at-capital-one)
 - [Mad about erica: Why a million people use Bank of America's chatbot](https://www.americanbanker.com/news/mad-about-erica-why-a-million-people-use-bank-of-americas-chatbot)
@@ -12,7 +13,15 @@ General AI
 - [Health Care Execs Don't Want Blame For AI Decisions, Survey Finds](https://www.crn.com/news/channel-programs/video/300104906/health-care-execs-dont-want-blame-for-ai-decisions-survey-finds.htm)
 - [Building an A.I. program is easy. The hard part comes after](https://www.cnbc.com/2018/06/08/building-an-ai-program-is-easy-the-hard-part-comes-after.html)
 - [Introducing the Robotics Quotient: A new means of measuring organizational readiness for automation and AI](https://www.zdnet.com/article/the-robotics-quotient/#ftag=RSSbaffb68)
-
+- [right How will AI, VR and Robots will Revolutionalize Tomorrow's Workspace](https://contact-center.cioreview.com/news/how-will-ai-vr-and-robots-will-revolutionalize-tomorrow-s-workspace-nid-26590-cid-66.html)
+- [Samsung's startup arm launches AI-focused fund for early-stage companies](https://www.cnet.com/news/samsung-next-launches-new-q-fund-to-invest-in-early-stage-ai-artificial-intelligence-startups/)
+- [Stealthy Startup Aims to Reinvent AI for Manufacturing](https://spectrum.ieee.org/view-from-the-valley/robotics/industrial-robots/stealthy-startup-aims-to-reinvent-ai-for-manufacturing)
+-  [Tableau acquisition of MIT AI startup aims at smarter BI software](https://searchbusinessanalytics.techtarget.com/news/252443044/Tableau-acquisition-of-MIT-AI-startup-aims-at-smarter-BI-software)
+- [AI-powered DevOps is how CA wants to reinvent software development and itself](https://www.zdnet.com/article/ai-powered-devops-is-how-ca-wants-to-reinvent-software-development-and-itself/#ftag=RSSbaffb68)
+- [Syntiant: Analog Deep Learning Chips](https://semiengineering.com/syntiant-analog-deep-learning-chips/)
+- [Nvidia will open deep learning research lab in Toronto](https://venturebeat.com/2018/06/13/nvidia-will-open-deep-learning-research-lab-in-toronto/)
+- []()
+- []()
 
 -------------
 
