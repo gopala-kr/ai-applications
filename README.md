@@ -28,7 +28,7 @@
      - [Ensemble Methods Supervised, Unsupervised](#ensemble-methods-supervised-unsupervised)
      - [Recommender Systems and Recommendations](#recommender-systems-and-recommendations)
      - [Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
-     - [Anomaly Detection Supervised, Unsupervised, Semisupervised](#anomaly-detection-supervised,-unsupervised-semisupervised)
+     - [Anomaly Detection Supervised, Unsupervised, Semisupervised](#anomaly-detection-supervised-unsupervised-semisupervised)
      - [Reinforcement Learning](#reinforcement-learning)
      - [Model selection, validation, and resampling methods](#model-selection-validation-and-resampling-methods)
      - [Model tuning bias variance tradeoff and model complexity](#model-tuning-bias-variance-tradeoff-and-model-complexity)
@@ -66,6 +66,7 @@
  - [Speech Recog Applications](#speech-recog-applications)
  - [AI in Robotics Applications](#ai-in-robotics-applications)
  - [Bigdata and Data Science](#bigdata-and-data-science)
+   - [AI Lock IN Loop](#ai-lock-in-loop)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
@@ -1816,6 +1817,13 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 [Back to Top](#contents)
 
 ![data-science-puzzle-2017](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-2017.jpg)
+
+------------------
+
+#### AI lock In Loop
+
+![eiendomsbransjen](https://image.slidesharecdn.com/hvordanvinneracetv4-170821112229/95/hvordan-vinne-racet-kunstig-intelligens-i-eiendomsbransjen-12-638.jpg?cb=1503315005)
+[Back to Top](#contents)
 
 ------------------
 
