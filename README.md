@@ -66,6 +66,8 @@
  - [Speech Recog Applications](#speech-recog-applications)
  - [AI in Robotics Applications](#ai-in-robotics-applications)
  - [Bigdata and Data Science](#bigdata-and-data-science)
+   - [Desciplines](#desciplines)
+   - [Data pipeline](#data-pipeline)
    - [Datascience puzzle and AI Lock in Loop](#datascience-puzzle-and-ai-lock-in-loop)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
@@ -1802,6 +1804,12 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ## Bigdata and Data Science
 
+
+
+[Back to Top](#contents)
+
+### Desciplines
+
 [Back to Top](#contents)
 
 ![hot%202017-10-17%20at%209.30.13%20PM](http://blogs.edweek.org/edweek/on_innovation/Screen%20Shot%202017-10-17%20at%209.30.13%20PM.png)
@@ -1824,6 +1832,8 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 
 ------------------
+
+### Data pipeline
 
 [Back to Top](#contents)
 
