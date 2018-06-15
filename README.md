@@ -66,7 +66,7 @@
  - [Speech Recog Applications](#speech-recog-applications)
  - [AI in Robotics Applications](#ai-in-robotics-applications)
  - [Bigdata and Data Science](#bigdata-and-data-science)
-   - [AI Lock In Loop](#ai-lock-in-loop)
+   - [Datascience puzzle and AI Lock in Loop](#datascience-puzzle-and-ai-lock-in-loop)
    - [The Heirarchy](#the-heirarchy)
    - [Big Data Abstraction](#big-data-abstraction)
    - [Bigdata Tools](#bigdata-tools)
@@ -1814,15 +1814,11 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ----------------
 
+### Datascience puzzle and AI lock in Loop 
+
 [Back to Top](#contents)
 
 ![data-science-puzzle-2017](https://www.kdnuggets.com/wp-content/uploads/data-science-puzzle-2017.jpg)
-
-------------------
-
-### AI lock In Loop
-
-[Back to Top](#contents)
 
 ![eiendomsbransjen](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/ai-lock.JPG)
 
