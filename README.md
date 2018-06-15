@@ -608,7 +608,7 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 -----------------------
 
-#### Anomaly Detection Supervised, Unsupervised, Semi-supervised
+#### Anomaly Detection Supervised, Unsupervised, Semisupervised
 
 [Back to Top](#contents)
 
