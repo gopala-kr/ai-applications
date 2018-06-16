@@ -647,6 +647,8 @@ There is no established unifying theory or paradigm that guides AI research. Res
 
 [Back to Top](#contents)
 
+![rl](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/rl.JPG)
+
 - Q-learning
 - Markov decision process (MDP)
 - Finite MDPs
