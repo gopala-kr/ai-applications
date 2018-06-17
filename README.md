@@ -114,10 +114,11 @@
 
 [Back to Top](#contents)
 
- - [AI MTD](#ai-mtd)
+ - [AI MTDB](#ai-mtd)
    - [Movies](#movies)
    - [TV shows](#tv-shows)
    - [Dcoumentaries](#documentaries)
+   - [Books](#books)
  - [Principles and Rules](#principles-and-rules)
  - [AI Industrial Applications](#ai-industrial-applications)
    - [Healthcare](#healthcare)
@@ -3079,7 +3080,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 --------------------------
 ------------------------
 
-## AI MTD
+## AI MTDB
 
 [Back to Top](#contents)
 
@@ -3158,6 +3159,29 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 | [How to Become a Data Scientist](https://www.youtube.com/watch?v=ccCblUZFM0w)
 | [The Future of AI: from Deep Learning to Deep Understanding, Ben Goertzel](https://www.youtube.com/watch?v=nbUg9IuIs_8)
 | [Ted- Artificial intelligence](https://www.ted.com/playlists/310/talks_on_artificial_intelligen) ||
+
+
+
+### Books
+
+- [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0)
+- [Our Final Invention: Artificial Intelligence and the End of the Human Era](https://www.goodreads.com/book/show/17286699-our-final-invention)
+- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/book/show/13589153-how-to-create-a-mind)
+- [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind](https://www.goodreads.com/book/show/169007.The_Emotion_Machine)
+- [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near)
+- [Rise of the Robots](https://www.goodreads.com/book/show/22928874-rise-of-the-robots)
+- [The Emperor's New Mind: Concerning Computers, Minds and the Laws of Physics](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind)
+- [The Society of Mind](https://www.goodreads.com/book/show/326790.The_Society_of_Mind)
+- [The Age of Spiritual Machines: When Computers Exceed Human Intelligence](https://www.goodreads.com/book/show/83533.The_Age_of_Spiritual_Machines)
+- [The Economic Singularity: Artificial Intelligence and the Death of Capitalism](https://www.goodreads.com/book/show/31176295-the-economic-singularity)
+- [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age)
+- [I Have No Mouth and I Must Scream](https://www.goodreads.com/book/show/415459.I_Have_No_Mouth_and_I_Must_Scream)
+- [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando)
+- [Superintelligence: Paths, Dangers, Strategies](https://www.goodreads.com/book/show/20527133-superintelligence)
+- [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain)
+- [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines](https://www.goodreads.com/book/show/27539.On_Intelligence?ac=1&from_search=true)
+- [AI-book-list](https://www.goodreads.com/list/tag/ai)
+- [Popular Artificial Intelligence Books](https://www.goodreads.com/shelf/show/artificial-intelligence) 
 
 ----------------------
 
