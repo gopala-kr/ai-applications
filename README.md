@@ -3397,6 +3397,10 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [I Proves to Be the Best Legal Mind for Contract Reviews](https://www.top500.org/news/ai-proves-to-be-the-best-legal-mind-for-contract-reviews/)
 - [The Future Of Law: How AI Is Revolutionizing the Legal Industry](https://www.litify.com/future-law-ai-revolutionizing-legal-industry/)
 
+> related paper
+
+- [LexNLP: Natural language processing and information extraction for legal and regulatory texts](https://arxiv.org/pdf/1806.03688v1.pdf)
+
 ### Games
 
 [Back to Top](#contents)
