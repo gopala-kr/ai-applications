@@ -7,11 +7,6 @@
 > [AI index](https://aiindex.org/) | [2017-index report](http://cdn.aiindex.org/2017-report.pdf) | [AI index public data](https://drive.google.com/drive/folders/1PmszxlVbtDP_npz5FMbkyOFnfg_s6U2O) | 
 
 
---------------
-
-> *“What we really need to do is make sure that life continues into the future. […] It’s best to try to prevent a negative circumstance from occurring than to wait for it to occur and then be reactive.”* -Elon Musk on keeping AI safe and beneficial
-
-> 
 
 -------------------------------
 
@@ -146,6 +141,7 @@
    - [Oil and gas](#oil-and-gas)
    - [IT industry](#it-industry)
  - [**AI Safety Surveys**](#ai-safety surveys)
+ - [**Quotes on AI**](#quotes-on-ai)
 
 [Back to Top](#contents)
 
@@ -3774,6 +3770,9 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 
 ### AI Safety Surveys
 
+[Back to Top](#contents)
+
+- [ai-safety-research](https://futureoflife.org/ai-safety-research/)
 - [Towards Safe Artificial General Intelligence, Tom Everitt. April 27, 2018](http://www.tomeveritt.se/papers/2018-thesis.pdf)
 - [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation.](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf) Future of Humanity Institute, University of Oxford, Centre for the Study of Existential Risk, University of Cambridge, Center for a New American Security, Electronic Frontier
 Foundation, OpenAI, February 2018
@@ -3788,13 +3787,83 @@ Foundation, OpenAI, February 2018
 - [Trends in algorithmic progress](https://aiimpacts.org/trends-in-algorithmic-progress/)
 - [2018 AI Safety Literature Review and Charity Comparison](http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/)
 
+---------------
+
+
+### Quotes on AI
+
+[Back to Top](#contents)
+
+- "AI is one of the most important things humanity is working on. It is more profound than, I dunno, electricity or fire," - Sundar Pichai
+
+- “What we really need to do is make sure that life continues into the future. […] It’s best to try to prevent a negative circumstance from occurring than to wait for it to occur and then be reactive.” -Elon Musk on keeping AI safe and beneficial
+
+- “The development of full artificial intelligence could spell the end of the human race….It would take off on its own, and re-design itself at an ever increasing rate. Humans, who are limited by slow biological evolution, couldn't compete, and would be superseded.”— Stephen Hawking told the BBC
+
+- “I visualize a time when we will be to robots what dogs are to humans, and I’m rooting for the machines.” —Claude Shannon
+
+- “Artificial intelligence would be the ultimate version of Google. The ultimate search engine that would understand everything on the web. It would understand exactly what you wanted, and it would give you the right thing. We're nowhere near doing that now. However, we can get incrementally closer to that, and that is basically what we work on.” —Larry Page
+
+- “The pace of progress in artificial intelligence (I’m not referring to narrow AI) is incredibly fast. Unless you have direct exposure to groups like Deepmind, you have no idea how fast—it is growing at a pace close to exponential. The risk of something seriously dangerous happening is in the five-year timeframe. 10 years at most.” —Elon Musk wrote in a comment on Edge.org
+
+- “The upheavals [of artificial intelligence] can escalate quickly and become scarier and even cataclysmic. Imagine how a medical robot, originally programmed to rid cancer, could conclude that the best way to obliterate cancer is to exterminate humans who are genetically prone to the disease.” — Nick Bilton, tech columnist wrote in the New York Times
+
+- “I don’t want to really scare you, but it was alarming how many people I talked to who are highly placed people in AI who have retreats that are sort of 'bug out' houses, to which they could flee if it all hits the fan.”—James Barrat, author of Our Final Invention: Artificial Intelligence and the End of the Human Era, told the Washington Post
+
+- “I’m increasingly inclined to think that there should be some regulatory oversight, maybe at the national and international level, just to make sure that we don’t do something very foolish. I mean with artificial intelligence we’re summoning the demon.” —Elon Musk warned at MIT’s AeroAstro Centennial Symposium
+
+- “The real question is, when will we draft an artificial intelligence bill of rights? What will that consist of? And who will get to decide that?” —Gray Scott
+
+- “We must address, individually and collectively, moral and ethical issues raised by cutting-edge research in artificial intelligence and biotechnology, which will enable significant life extension, designer babies, and memory extraction.” —Klaus Schwab
+
+- “Some people call this artificial intelligence, but the reality is this technology will enhance us. So instead of artificial intelligence, I think we'll augment our intelligence.” —Ginni Rometty
+
+- “I'm more frightened than interested by artificial intelligence - in fact, perhaps fright and interest are not far away from one another. Things can become real in your mind, you can be tricked, and you believe things you wouldn't ordinarily. A world run by automatons doesn't seem completely unrealistic anymore. It's a bit chilling.” —Gemma Whelan
+
+
+- “You have to talk about 'The Terminator' if you're talking about artificial intelligence. I actually think that that's way off. I don't think that an artificially intelligent system that has superhuman intelligence will be violent. I do think that it will disrupt our culture.” —Gray Scott
+
+-  “You have to talk about 'The Terminator' if you're talking about artificial intelligence. I actually think that that's way off. I don't think that an artificially intelligent system that has superhuman intelligence will be violent. I do think that it will disrupt our culture.” —Gray Scott
+
+- “If the government regulates against use of drones or stem cells or artificial intelligence, all that means is that the work and the research leave the borders of that country and go someplace else.” —Peter Diamandis
+
+- “The key to artificial intelligence has always been the representation.” —Jeff Hawkins
+
+-“It's going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool.” —Colin Angle
+
+- “Anything that could give rise to smarter-than-human intelligence—in the form of Artificial Intelligence, brain-computer interfaces, or neuroscience-based human intelligence enhancement - wins hands down beyond contest as doing the most to change the world. Nothing else is even in the same league.” —Eliezer Yudkowsky
+
+- “Artificial intelligence is growing up fast, as are robots whose facial expressions can elicit empathy and make your mirror neurons quiver.” —Diane Ackerman
+
+- “Someone on TV has only to say, ‘Alexa,’ and she lights up. She’s always ready for action, the perfect woman, never says, ‘Not tonight, dear.’” —Sybil Sage, as quoted in a New York Times article
+
+- “Some people worry that artificial intelligence will make us feel inferior, but then, anybody in his right mind should have an inferiority complex every time he looks at a flower.” —Alan Kay
+
+- “Artificial intelligence will reach human levels by around 2029. Follow that out further to, say, 2045, we will have multiplied the intelligence, the human biological machine intelligence of our civilization a billion-fold.” —Ray Kurzweil
+
+- “Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It's really an attempt to understand human intelligence and human cognition.” —Sebastian Thrun
+
+- “A year spent in artificial intelligence is enough to make one believe in God.” —Alan Perlis
+
+- “There is no reason and no way that a human mind can keep up with an artificial intelligence machine by 2035.” —Gray Scott
+
+- “Is artificial intelligence less than our intelligence?” —Spike Jonze
+
+- “By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.” —Eliezer Yudkowsky
+
+- “The sad thing about artificial intelligence is that it lacks artifice and therefore intelligence.” —Jean Baudrillard
+
+- “Forget artificial intelligence - in the brave new world of big data, it's artificial idiocy we should be looking out for.” —Tom Chatfield
+
+- “Before we work on artificial intelligence why don’t we do something about natural stupidity?” —Steve Polyak
+
 
 [Back to Top](#contents)
 
 
 
 -------------
-
+-----------------
 ## Maintainer
 
 Gopala KR / @gopala-kr
