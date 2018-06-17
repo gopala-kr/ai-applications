@@ -2,11 +2,16 @@
 
 -----------
 
-> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf) | [AITopics](https://aitopics.org/search)
+> [One Hundred Year Study on Artificial Intelligence (AI100)](https://ai100.stanford.edu/about) | [“AI and Life in 2030”](https://ai100.stanford.edu/sites/default/files/ai100report10032016fnl_singles.pdf) | [AITopics](https://aitopics.org/search) |
 
-> [When Will AI Exceed Human Performance?Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
+> [AI index](https://aiindex.org/) | [2017-index report](http://cdn.aiindex.org/2017-report.pdf) | [AI index public data](https://drive.google.com/drive/folders/1PmszxlVbtDP_npz5FMbkyOFnfg_s6U2O) | 
 
 
+--------------
+
+> *“What we really need to do is make sure that life continues into the future. […] It’s best to try to prevent a negative circumstance from occurring than to wait for it to occur and then be reactive.”* -Elon Musk on keeping AI safe and beneficial
+
+> 
 
 -------------------------------
 
@@ -140,6 +145,7 @@
    - [Customer Service experience and engagement](#customer-service-experience-and-engagement)
    - [Oil and gas](#oil-and-gas)
    - [IT industry](#it-industry)
+ - [**AI Safety Surveys**](#ai-safety surveys)
 
 [Back to Top](#contents)
 
@@ -3762,7 +3768,30 @@ Artificial intelligence has sparked a new industrial revolution. Manufacturers a
 - [12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic](https://www.gartner.com/smarterwithgartner/12-steps-to-excellence-in-artificial-intelligence-for-it-operations-infographic/)
 
 
+
+---------------------
+----------------------------
+
+### AI Safety Surveys
+
+- [Towards Safe Artificial General Intelligence, Tom Everitt. April 27, 2018](http://www.tomeveritt.se/papers/2018-thesis.pdf)
+- [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation.](https://arxiv.org/ftp/arxiv/papers/1802/1802.07228.pdf) Future of Humanity Institute, University of Oxford, Centre for the Study of Existential Risk, University of Cambridge, Center for a New American Security, Electronic Frontier
+Foundation, OpenAI, February 2018
+- [10 Charts That Will Change Your Perspective On Artificial Intelligence's Growth. Jan-2018](https://www.forbes.com/sites/louiscolumbus/2018/01/12/10-charts-that-will-change-your-perspective-on-artificial-intelligences-growth/#2c6e2ac54758)
+- [When Will AI Exceed Human Performance?Evidence from AI Experts](https://arxiv.org/pdf/1705.08807v3.pdf)
+- [2018-ai-predictions](https://www.thomsonreuters.com/en/reports/2018-ai-predictions.html)
+- [MIT 6.S099: Artificial General Intelligence](https://agi.mit.edu/)
+- [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+- [AI safety syllabus](https://80000hours.org/ai-safety-syllabus/#reading-list)
+- [Concrete Problems in AI Safety, Google Brain, Stanford University, UC Berkeley, OpenAI](https://arxiv.org/pdf/1606.06565.pdf)
+- [Algorithmic Progress in Six Domains](https://intelligence.org/files/AlgorithmicProgress.pdf)
+- [Trends in algorithmic progress](https://aiimpacts.org/trends-in-algorithmic-progress/)
+- [2018 AI Safety Literature Review and Charity Comparison](http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/)
+
+
 [Back to Top](#contents)
+
+
 
 -------------
 
