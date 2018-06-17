@@ -140,7 +140,7 @@
    - [Customer Service experience and engagement](#customer-service-experience-and-engagement)
    - [Oil and gas](#oil-and-gas)
    - [IT industry](#it-industry)
- - [**AI Safety Surveys**](#ai-safety surveys)
+ - [**AI Safety Surveys**](#ai-safety-surveys)
  - [**Quotes on AI**](#quotes-on-ai)
 
 [Back to Top](#contents)
@@ -3786,6 +3786,11 @@ Foundation, OpenAI, February 2018
 - [Algorithmic Progress in Six Domains](https://intelligence.org/files/AlgorithmicProgress.pdf)
 - [Trends in algorithmic progress](https://aiimpacts.org/trends-in-algorithmic-progress/)
 - [2018 AI Safety Literature Review and Charity Comparison](http://effective-altruism.com/ea/1iu/2018_ai_safety_literature_review_and_charity/)
+- [A Psychopathological Approach to Safety Engineering in AI and AGI](https://arxiv.org/pdf/1805.08915v1.pdf)
+- [AGI Safety Literature Review](https://arxiv.org/abs/1805.01109v2)
+- [AI Safety Gridworlds](https://arxiv.org/abs/1711.09883v2)
+- [Artificial Intelligence Safety and Cybersecurity: a Timeline of AI Failures](https://arxiv.org/abs/1610.07997v1)
+- [AI safety via debate](https://arxiv.org/abs/1805.00899v1)
 
 ---------------
 
@@ -3829,7 +3834,7 @@ Foundation, OpenAI, February 2018
 
 - “The key to artificial intelligence has always been the representation.” —Jeff Hawkins
 
--“It's going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool.” —Colin Angle
+- “It's going to be interesting to see how society deals with artificial intelligence, but it will definitely be cool.” —Colin Angle
 
 - “Anything that could give rise to smarter-than-human intelligence—in the form of Artificial Intelligence, brain-computer interfaces, or neuroscience-based human intelligence enhancement - wins hands down beyond contest as doing the most to change the world. Nothing else is even in the same league.” —Eliezer Yudkowsky
 
