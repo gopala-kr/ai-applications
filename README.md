@@ -2802,6 +2802,7 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 | [DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)
 | [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
 | [DataScienceR](https://github.com/ujjwalkarn/DataScienceR)
+| [awesome-time-series-database](https://github.com/xephonhq/awesome-time-series-database)
 | [bigdata-ecosystem](https://github.com/zenkay/bigdata-ecosystem) 
 
 
