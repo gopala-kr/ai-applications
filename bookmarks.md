@@ -78,10 +78,4 @@ General AI
 
 
 
-
-
-Research Announcements
-
-
-
 ![Chart_20180213](http://www.digitalistmag.com/files/2018/02/Chart_20180213-02_DD-02.png)
