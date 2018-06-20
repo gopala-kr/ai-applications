@@ -74,8 +74,6 @@ General AI
 - [Two Sigma Hires Google Scientist Mike Schuster for AI Expansion](https://www.bloomberg.com/news/articles/2018-04-16/two-sigma-hires-google-scientist-mike-schuster-for-ai-expansion)
 - [Cisco Continues To Invest Heavily In AI With New Funding For Startup Gong.io](https://www.crn.com/news/channel-programs/300102111/cisco-continues-to-invest-heavily-in-ai-with-new-funding-for-startup-gong-io.htm)
 - [Google's Dialogflow Enterprise helps businesses create AI-powered chatbots](https://www.techrepublic.com/article/google-officially-unveils-chatbot-dialogflow-enterprise/)
-- [How robots are reshaping one of the dirtiest, most dangerous jobs](https://www.nbcnews.com/mach/science/how-robots-are-reshaping-one-dirtiest-most-dangerous-jobs-ncna866771)
-
-
+- [How robots are reshaping one of the dirtiest, most dangerous jobs]
 
 ![Chart_20180213](http://www.digitalistmag.com/files/2018/02/Chart_20180213-02_DD-02.png)
