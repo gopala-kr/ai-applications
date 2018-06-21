@@ -1499,6 +1499,11 @@ Have a quick look at these threads
 [Back to Top](#contents)
 
 
+![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
+![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
+
+[Back to Top](#contents)
+
 <table border="1" cellpadding="0" cellspacing="0" class="MsoTable15Grid4Accent1" style="border-collapse: collapse;">
 <tbody>
 <tr>
@@ -1620,12 +1625,6 @@ Have a quick look at these threads
 </tbody>
 </table>
 
-
-
-
-
-![iHA1CLBhh4eJL4oC](https://cdn-images-1.medium.com/max/880/0*iHA1CLBhh4eJL4oC.png)
-![article-image](https://esciencegroup.files.wordpress.com/2018/01/article-image.jpg?w=624)
 
 - [AWS Artificial Intelligence](https://aws.amazon.com/amazon-ai/)
 - [AWS SageMaker](https://aws.amazon.com/sagemaker/)
