@@ -117,6 +117,41 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 - [Two Sigma Hires Google Scientist Mike Schuster for AI Expansion](https://www.bloomberg.com/news/articles/2018-04-16/two-sigma-hires-google-scientist-mike-schuster-for-ai-expansion)
 - [Cisco Continues To Invest Heavily In AI With New Funding For Startup Gong.io](https://www.crn.com/news/channel-programs/300102111/cisco-continues-to-invest-heavily-in-ai-with-new-funding-for-startup-gong-io.htm)
 - [Google's Dialogflow Enterprise helps businesses create AI-powered chatbots](https://www.techrepublic.com/article/google-officially-unveils-chatbot-dialogflow-enterprise/)
-- [How robots are reshaping one of the dirtiest, most dangerous jobs]
+
+-------------
+
+- [Worldwide spending on cognitive and AI systems to grow to US$19.1 billion in 2018, says IDC](https://www.digitimes.com/news/a20180326PR202.html)
+- [Robotic Process Automation vs. Business Process Automation in the Modern Customer Centric Enterprise](http://www.techzone360.com/topics/techzone/articles/2018/03/23/437571-robotic-process-automation-vs-business-process-automation-the.htm#)
+- [Conversational AI: Start by enlisting the big vendors](https://searchcio.techtarget.com/news/252437706/Conversational-AI-Start-by-enlisting-the-big-vendors)
+- [Throw Out These Seven Assumptions About Traditional BI](http://www.datacenterknowledge.com/industry-perspectives/throw-out-these-seven-assumptions-about-traditional-bi)
+- [Enterprises Get AI Head Start with As-A-Service](https://www.informationweek.com/big-data/ai-machine-learning/enterprises-get-ai-head-start-with-as-a-service/d/d-id/1331369?)
+- [Tech Priorities for CFOs: Data Management, Analytics, RPA](http://ww2.cfo.com/applications/2018/03/tech-priorities-for-cfos-data-management-analytics-rpa/)
+- [Google launches more realistic text-to-speech service powered by DeepMind’s AI](https://www.theverge.com/2018/3/27/17167200/google-ai-speech-tts-cloud-deepmind-wavenet)
+- [Teradata Joins NVIDIA Partner Program Focused on Accelerating Outcomes from AI, Deep Learning in Key Industries](http://www.dqindia.com/teradata-joins-nvidia-partner-program-focused-accelerating-outcomes-ai-deep-learning-key-industries/)
+- [Co-Developed with Accenture, SAP Releases its Predictive Analytics Application](http://www.dbta.com/Editorial/News-Flashes/Co-Developed-with-Accenture-SAP-Releases-its-Predictive-Analytics-Application-124070.aspx)
+- [Adobe and Nvidia expand partnership for Sensei AI](https://www.zdnet.com/article/adobe-and-nvidia-expand-partnership-for-sensei-ai/#ftag=RSSbaffb68)
+- [Blue Prism Unleashes Full Potential of Digital Workforces Powered by Artificial Intelligence](https://www.nasdaq.com/press-release/-blue-prism-unleashes-full-potential-of-digital-workforces-powered-by-artificial-intelligence-20180328-01213)
+- [Kyoto chooses Intel for AI research](https://it-online.co.za/2018/03/26/kyoto-chooses-intel-for-ai-research/)
+- [Swedish study talks up benefits of artificial intelligence](https://www.computerweekly.com/news/252437544/Swedish-study-talks-up-benefits-of-artificial-intelligence)
+- [Wipro opens tech centre in Texas for advanced analytics, to grow headcounts](https://www.business-standard.com/article/companies/wipro-opens-tech-center-in-texas-for-advanced-analytics-to-grow-headcounts-118032700888_1.html)
+- [Fujitsu adds deep learning to workstations, servers](https://it-online.co.za/2018/03/28/fujitsu-adds-deep-learning-to-workstations-servers/)
+- [Alphabet's X lab explores using AI to improve food production](https://www.engadget.com/2018/03/27/alphabet-x-lab-using-ai-to-improve-food-production/)
+- [Artificial Intelligence as a Service: AI Meets the Cloud](https://www.datamation.com/cloud-computing/artificial-intelligence-as-a-service-ai-meets-the-cloud.html)
+- [Google wants to nurture AI and ML ecosystem in India](https://www.deccanchronicle.com/technology/in-other-news/210318/google-india-artificial-intelligence-ai-ml-machine-learning-develop.html)
+- [IBM teams with Nvidia to use GPUs to boost AI research](https://www.v3.co.uk/v3-uk/news/3028873/ibm-teams-with-nvidia-to-use-gpus-to-boost-ai-research)
+- [Tencent launches Robotics X to prop up its AI and robotics](https://technode.com/2018/03/16/tencent-launches-robotics-x-to-prop-up-its-ai-and-robotics/)
+- [Intel and AI Singapore collaborate to build skills in artificial intelligence](http://www.hrmasia.com/content/intel-and-ai-singapore-collaborate-accelerate-ai-skills)
+- [IBM Tool Seeks to Bridge AI Skills Gap](https://global.factiva.com/ga/default.aspx)
+- [Researchers use AI, big data and machine learning to find best place in the world to live](https://www.computerweekly.com/news/252437182/Researchers-use-AI-big-data-and-machine-learning-to-find-best-place-in-the-world-to-live)
+- [Cloud-driven Big Data analytics now under way](https://www.networksasia.net/article/cloud-driven-big-data-analytics-now-under-way.1520856356)
+- [Blockchain, AI, machine learning: What do CIOs really think are the most exciting tech trends?](https://www.zdnet.com/article/blockchain-ai-machine-learning-what-do-cios-really-think-are-the-most-exciting-tech-trends/#ftag=RSSbaffb68)
+- [Data Republic Partners With SAS To Bring Analytics To Its Data Marketplace](https://which-50.com/data-republic-partners-sas-bring-analytics-data-marketplace/)
+- [Google uses machine learning to make computers faster as they age](http://www.digitaljournal.com/tech-and-science/technology/google-uses-machine-learning-to-make-computers-faster-as-they-age/article/517319)
+- [Microsoft Co-Founder Invests in Pursuit for AI Common Sense](https://campustechnology.com/articles/2018/03/06/microsoft-co-founder-invests-in-pursuit-for-ai-common-sense.aspx)
+- [Teaching computers to guide science: new machine learning method sees the forests and the trees - Berkeley Lab and UC Berkeley researchers say “iterative Random Forests” will deliver powerful scientific insights](http://www.seedquest.com/news.php?type=news&id_article=96475&id_region=&id_category=&id_crop=)
+- [TCS earns $2 billion per year through analytics business: CEO Rajesh Gopinathan](https://global.factiva.com/ga/default.aspx)
+
+-------------
+
 
 ![Chart_20180213](http://www.digitalistmag.com/files/2018/02/Chart_20180213-02_DD-02.png)
