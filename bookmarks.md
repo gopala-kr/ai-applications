@@ -52,8 +52,27 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 - [Ethics Moves Front and Center in AI Debate ](https://www.enterprisetech.com/2018/04/04/ethics-moves-front-and-center-in-ai-debate/)
 - [MAS, finance industry to develop guide on use of AI, data analytics](https://www.channelnewsasia.com/news/singapore/mas-finance-industry-to-develop-guide-on-use-of-ai-data-10095346)
 - [Wanted: A new strategy for machine intelligence](https://gcn.com/articles/2018/04/04/machine-intelligence-strategy.aspx?admgarea=TC_BigData)
-
-
+- [Robots Are Now Everywhere, Except in the Productivity Statistics](https://www.bloomberg.com/news/articles/2018-04-10/robots-are-now-everywhere-except-in-the-productivity-statistics)
+- [Organisations are redesigning jobs around AI and robotics, says report](https://www.business-standard.com/article/companies/organisations-are-redesigning-jobs-around-ai-and-robotics-says-report-118040800668_1.html)
+- [Farms Could Turn to Robots to Cope With Climate Change](https://www.bloomberg.com/news/articles/2018-04-10/robot-boom-seen-down-on-farm-in-bid-to-cope-with-climate-change)
+- [Blockchain, AI, and 5G: How the EU wants to compete for the future](https://venturebeat.com/2018/04/11/blockchain-ai-and-5g-how-the-eu-wants-to-compete-for-the-future/)
+- [Banking Providers Must Leverage AI and Machine Learning (But Aren’t)](https://thefinancialbrand.com/71990/banking-finance-ai-machine-learning-data-experience-fraud/)
+- [Balancing bots and humans in a digital-first world](https://www.itproportal.com/features/balancing-bots-and-humans-in-a-digital-first-world/)
+- [One Partner's Path to AI Success](http://www.channelfutures.com/business-analytics/one-partners-path-ai-success)
+- [Finnish government backs national AI development strategy](https://www.computerweekly.com/news/252438764/Finnish-government-backs-national-AI-development-strategy)
+- [China's SenseTime valued at $4.5 billion after Alibaba-led funding: sources](https://www.reuters.com/article/us-sensetime-funding/chinas-sensetime-valued-at-4-5-billion-after-alibaba-led-funding-sources-idUSKBN1HG0CI)
+- [oracle-ai-machine-learning](https://www.rcrwireless.com/20180409/telco-cloud/oracle-ai-machine-learning-tag17)
+- [SAS Boosts AI Capabilities Of Upcoming Release Of Its Business Analytics Platform](https://www.crn.com/news/applications-os/300101941/sas-boosts-ai-capabilities-of-upcoming-release-of-its-business-analytics-platform.htm)
+- [Microsoft and C3 IoT Partner to Bring AI to Industrial IoT](http://www.eweek.com/cloud/microsoft-and-c3-iot-partner-to-bring-ai-to-industrial-iot)
+- [Microsoft AI helping Apollo hospitals accurately predict cardiac diseases](http://www.timesnownews.com/technology-science/article/microsoft-ai-helping-apollo-hospitals-accurately-predict-cardiac-diseases/216338)
+- [Apple hires former Google AI chief to lead machine-learning strategy](https://www.siliconrepublic.com/companies/apple-john-giannandrea)
+- [These Robots Are Learning to Conduct Their Own Science Experiments](https://www.bloomberg.com/news/articles/2018-04-11/these-robots-are-learning-to-conduct-their-own-science-experiments)
+- [MIT-IBM Watson AI Lab researchers train computers to understand dynamic events](https://sdtimes.com/ai/mit-ibm-watson-ai-lab-researches-train-computers-understand-dynamic-events/)
+- [University of Waterloo launches Artificial Intelligence Institute](https://www.itbusiness.ca/news/university-of-waterloo-launches-artificial-intelligence-institute/100970)
+- [ATB Financial partners University of Alberta on AI](https://www.finextra.com/newsarticle/31932/atb-financial-partners-university-of-alberta-on-ai?utm_medium=rss&utm_source=finextrafeed)
+- ['Machine learning is the big one': Deloitte expert looks to the future of tech trends](https://www.cnbc.com/2018/04/10/machine-learning-is-the-big-one-deloitte-expert.html)
+- [Artificial Intelligence and Machine Learning Awaken](https://insidebigdata.com/2018/04/05/artificial-intelligence-machine-learning-awaken/)
+- [Autonomous drones will fly into danger zones for emergency services](https://www.computerweekly.com/news/252438583/Autonomous-drones-will-fly-into-danger-zones-for-emergency-services)
 
 -------------
 
