@@ -30,6 +30,31 @@ General AI
 - [IBM and H2O.ai Partnership Aims to Accelerate Adoption of AI in the Enterprise](https://www.datanami.com/this-just-in/ibm-and-h2o-ai-partnership-aims-to-accelerate-adoption-of-ai-in-the-enterprise/)
 - [Taking responsibility for responsible AI](https://www.cio.com/article/3280825/artificial-intelligence/taking-responsibility-for-responsible-ai.html)
 
+-----------
+
+- [Product–services bundles boost AI](https://www.computerworld.com.au/article/635672/product-services-bundles-boost-ai/?utm_medium=rss&utm_source=taxonomyfeed)
+- [Amazon on AI and Accelerators](https://www.eetimes.com/document.asp?doc_id=1333158&_mc=RSS_EET_EDT)
+- [Microsoft India to help 650 partners to use cognitive services, AI, ML platform](http://www.channelworld.in/media-releases/microsoft-india-help-650-partners-use-cognitive-services-ai-ml-platform)
+- [Microsoft opens up its AI training to the public](https://betanews.com/2018/04/02/microsoft-ai-training/)
+- [Microsoft’s AI lets bots predict pauses and interrupt conversations](https://venturebeat.com/2018/04/04/microsofts-ai-lets-bots-predict-pauses-and-interrupt-conversations/)
+- [Fujitsu and Blue Prism Announce Global Collaboration for Delivering Enterprise Robotic Process Automation (RPA)](http://www.asiaone.com/business/fujitsu-and-blue-prism-announce-global-collaboration-delivering-enterprise-robotic-process)
+- [This Startup Is Revolutionising InsurTech Sector By Using Predictive Analytics And AI](https://analyticsindiamag.com/this-startup-is-revolutionising-insurtech-sector-by-using-predictive-analytics-and-ai/)
+- [France wants to become an artificial intelligence hub
+Attracting talent, fostering public research and AI startups](https://techcrunch.com/2018/03/29/france-wants-to-become-an-artificial-intelligence-hub/)
+- [A pair of researchers from Columbia University recently built a self-replicating AI system.](https://learn2create.org/2018/scientists-create-replicating-network/)
+- [Google’s DeepMind opens new AI lab in Paris](https://siliconangle.com/blog/2018/03/29/google-deepmind-opens-new-ai-lab-paris/)
+- [Fujitsu, Inria team up for Artificial Intelligence co-creation program](https://cio.economictimes.indiatimes.com/news/business-analytics/fujitsu-inria-team-up-for-artificial-intelligence-co-creation-program/63583057)
+- [IBM Launches Watson Data Kits to Help Accelerate Enterprise AI Adoption](http://bwcio.businessworld.in/article/IBM-Launches-Watson-Data-Kits-to-Help-Accelerate-Enterprise-AI-Adoption/05-04-2018-145426/)
+- [Fujitsu Unveils Refreshed SELECT Partner Program](http://www.channeltimes.com/story/fujitsu-unveils-refreshed-select-partner-program/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Channeltimes+%28RSS+Feed+-+Channeltimes%29)
+- [Samsung and Fujitsu to build artificial intelligence hubs in France](https://global.factiva.com/ga/default.aspx)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------
 
