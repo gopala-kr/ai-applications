@@ -49,12 +49,11 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 - [Samsung and Fujitsu to build artificial intelligence hubs in France](https://global.factiva.com/ga/default.aspx)
 - [Researchers to boycott South Korean university over AI weapons work](https://uk.reuters.com/article/us-tech-korea-boycott/researchers-to-boycott-south-korean-university-over-ai-weapons-work-idUKKCN1HB392?il=0)
 - [Google employees protest: 'Stop work on AI for Pentagon drone video analysis'](https://www.zdnet.com/article/google-employees-protest-stop-work-on-ai-for-pentagon-drone-video-analysis/#ftag=RSSbaffb68)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Ethics Moves Front and Center in AI Debate ](https://www.enterprisetech.com/2018/04/04/ethics-moves-front-and-center-in-ai-debate/)
+- [MAS, finance industry to develop guide on use of AI, data analytics](https://www.channelnewsasia.com/news/singapore/mas-finance-industry-to-develop-guide-on-use-of-ai-data-10095346)
+- [Wanted: A new strategy for machine intelligence](https://gcn.com/articles/2018/04/04/machine-intelligence-strategy.aspx?admgarea=TC_BigData)
+
+
 
 -------------
 
