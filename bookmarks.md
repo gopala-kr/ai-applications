@@ -5,7 +5,9 @@ General AI
 
 6/22
 
+- [Facebook open sources DensePose](https://research.fb.com/facebook-open-sources-densepose/)
 - [Samsung to compete with Amazon, Google on AI platforms](https://www.koreatimes.co.kr/www/tech/2018/06/133_250929.html)
+- [Salesforce develops natural language processing model that performs 10 tasks at once](https://venturebeat.com/2018/06/20/salesforce-develops-natural-language-processing-model-that-performs-10-tasks-at-once/)
 - [Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So](https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html)
 - [The World’s First Robot-Made Burger Is About to Hit the Bay Area](https://www.bloomberg.com/news/features/2018-06-21/the-world-s-first-robotic-burger-is-ready-to-hit-the-bay-area)
 - [JP Morgan is unleashing artificial intelligence on a business that moves $5 trillion for corporations every day](https://www.cnbc.com/2018/06/20/jp-morgan-is-unleashing-artificial-intelligence-on-treasury-services.html)
@@ -19,18 +21,16 @@ General AI
 - [Microsoft To Acquire AI Training Startup Bonsai](https://www.crn.com/news/cloud/300105501/microsoft-to-acquire-ai-training-startup-bonsai.htm)
 - [Autodesk, AWS team up to promote new AI-enabled design technology](https://www.zdnet.com/article/autodesk-aws-team-up-to-promote-new-design-technology/#ftag=RSSbaffb68)
 - [China’s Apollo Plan Explained](https://www.eetimes.com/document.asp?doc_id=1333406&_mc=RSS_EET_EDT)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Baidu and China Mobile partner on AI and 5G, focusing on self-driving cars](https://venturebeat.com/2018/06/14/baidu-and-china-mobile-partner-on-ai-and-5g-focusing-on-self-driving-cars/)
+- [IBM Refines AI Efficiency in Visual Analysis](https://www.eetimes.com/document.asp?doc_id=1333393)
+- [Microsoft cooperates on AI with Taiwan universities](https://www.taiwannews.com.tw/en/news/3463039)
+- [Google AI predicts hospital inpatient death risks with 95% accuracy](https://www.fiercebiotech.com/medtech/google-ai-predicts-hospital-inpatient-death-risks-95-accuracy)
+- [Baidu AI researchers create new cancer detection algorithm](https://siliconangle.com/blog/2018/06/18/baidu-ai-researchers-create-new-cancer-detection-algorithm/)
+- [Nokia Bell Labs and university launch new AI hothouse in Cambridge](https://www.businessweekly.co.uk/news/academia-research/nokia-bell-labs-and-university-launch-new-ai-hothouse-cambridge)
+- [Flying Dragon Robot Transforms Itself to Squeeze Through Gaps](https://spectrum.ieee.org/automaton/robotics/drones/flying-dragon-robot-transforms-itself-to-squeeze-through-gaps)
+- [IBM debuts Project Debater, experimental AI that argues with humans](https://venturebeat.com/2018/06/18/ibm-debuts-project-debater-experimental-ai-that-argues-with-humans/)
+- [Infosys taps new technologies to map learning ability of employees](https://global.factiva.com/ga/default.aspx)
+- [FERMA calls for ethical rules on AI](http://www.captiveinsurancetimes.com/captiveinsurancenews/article.php?article_id=5853)
 
 
 --------------
