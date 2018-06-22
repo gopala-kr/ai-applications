@@ -1938,7 +1938,11 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 [Back to Top](#contents)
 
-![types-of-data-growing](http://data-magnum.com/wp-content/uploads/2013/10/types-of-data-growing.png)
+![types-of-data-growing](https://github.com/ci-ai/fundamentals/blob/master/use-cases/assets/bdt.JPG)
+
+---------------------
+
+[Back to Top](#contents)
 
 ### Desciplines
 
