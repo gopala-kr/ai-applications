@@ -1942,8 +1942,6 @@ APPLICATION TO INFORMATION EXTRACTION ](https://pdfs.semanticscholar.org/ab17/a0
 
 ---------------------
 
-[Back to Top](#contents)
-
 ### Desciplines
 
 [Back to Top](#contents)
