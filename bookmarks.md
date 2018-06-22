@@ -3,6 +3,38 @@
 
 General AI
 
+6/22
+
+- [Samsung to compete with Amazon, Google on AI platforms](https://www.koreatimes.co.kr/www/tech/2018/06/133_250929.html)
+- [Is There a Smarter Path to Artificial Intelligence? Some Experts Hope So](https://www.nytimes.com/2018/06/20/technology/deep-learning-artificial-intelligence.html)
+- [The World’s First Robot-Made Burger Is About to Hit the Bay Area](https://www.bloomberg.com/news/features/2018-06-21/the-world-s-first-robotic-burger-is-ready-to-hit-the-bay-area)
+- [JP Morgan is unleashing artificial intelligence on a business that moves $5 trillion for corporations every day](https://www.cnbc.com/2018/06/20/jp-morgan-is-unleashing-artificial-intelligence-on-treasury-services.html)
+- [Where is State Street deploying AI? Everywhere](https://www.americanbanker.com/news/where-is-state-street-deploying-ai-everywhere)
+- [The Brilliant Ways UPS Uses Artificial Intelligence, Machine Learning And Big Data](https://www.forbes.com/sites/bernardmarr/2018/06/15/the-brilliant-ways-ups-uses-artificial-intelligence-machine-learning-and-big-data/#36dbab4f5e6d)
+- [The software robot invasion is underway](https://www.zdnet.com/article/the-software-robot-invasion-is-underway/#ftag=RSSbaffb68)
+- [Nine out of 10 enterprises will use robotic process automation by 2020](https://www.computerweekly.com/news/252443393/Nine-out-of-10-enterprises-will-use-robotic-process-automation-by-2020)
+- [Why insurance companies are betting big on AI-powered chatbots](https://venturebeat.com/2018/06/19/why-insurance-companies-are-betting-big-on-ai-powered-chatbots/)
+- [Samsung grabs AI talent to quicken growth beyond memory chips](https://asia.nikkei.com/Asia300/Samsung-grabs-AI-talent-to-quicken-growth-beyond-memory-chips)
+- [Google Updates 'Hire' With AI, Schedules Interviews 84% Faster](https://www.forbes.com/sites/paularmstrongtech/2018/06/19/google-updates-hire-with-ai-schedules-interviews-84-faster/#535bd6334e4d)
+- [Microsoft To Acquire AI Training Startup Bonsai](https://www.crn.com/news/cloud/300105501/microsoft-to-acquire-ai-training-startup-bonsai.htm)
+- [Autodesk, AWS team up to promote new AI-enabled design technology](https://www.zdnet.com/article/autodesk-aws-team-up-to-promote-new-design-technology/#ftag=RSSbaffb68)
+- [China’s Apollo Plan Explained](https://www.eetimes.com/document.asp?doc_id=1333406&_mc=RSS_EET_EDT)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+--------------
+
 6/15
 
 - [Microsoft is hiring engineers to work on A.I. chip design for its cloud](https://www.cnbc.com/2018/06/11/microsoft-hiring-engineers-for-cloud-ai-chip-design.html)
