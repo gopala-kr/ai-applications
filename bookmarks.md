@@ -47,6 +47,7 @@ General AI
 - [FERMA calls for ethical rules on AI](http://www.captiveinsurancetimes.com/captiveinsurancenews/article.php?article_id=5853)
 
 
+
 --------------
 
 6/15
