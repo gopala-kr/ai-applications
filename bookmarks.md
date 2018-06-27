@@ -1,4 +1,13 @@
 
+github
+
+-  [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) : Text and supporting code for Think Stats, 2nd Edition
+-  [Ceruleanacg/Learning-Notes](https://github.com/Ceruleanacg/Learning-Notes) :  Repo of learning notes in DRL and DL, theory, codes, models and notes maybe.
+-  [jmartinezheras/2018-MachineLearning-Lectures-ESA](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/2_LinearRegression_SVM/2_airbnb_frankfurt.ipynb) : Machine Learning Lectures at the European Space Agency (ESA) in 2018
+-  [sjchoi86/choicenet](https://github.com/sjchoi86/choicenet) : Implementation of ChoiceNet
+-  [Speech_Recognition_with_Tensorflow](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) : Implementation of a seq2seq model for Speech Recognition using the latest version of TensorFlow. Architecture similar to Listen, Attend and Spell.
+-  [tensorflow/workshops](https://github.com/tensorflow/workshops) : A few exercises for use at events
+-  [PAIR-code/facets](https://github.com/PAIR-code/facets) : Visualizations for machine learning datasets 
 
 
 General AI
