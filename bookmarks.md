@@ -1,4 +1,7 @@
 
+
+-------------
+
 github
 
 -  [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) : Text and supporting code for Think Stats, 2nd Edition
@@ -9,6 +12,8 @@ github
 -  [tensorflow/workshops](https://github.com/tensorflow/workshops) : A few exercises for use at events
 -  [PAIR-code/facets](https://github.com/PAIR-code/facets) : Visualizations for machine learning datasets 
 
+
+-------------
 
 General AI
 
