@@ -32,6 +32,29 @@
 
 [Back to Top](#top)
 
+
+- [The Amazing Ways Verizon Uses AI And Machine Learning To Improve Performance](https://www.forbes.com/sites/bernardmarr/2018/06/22/the-amazing-ways-verizon-uses-ai-and-machine-learning-to-improve-performance/#69a04c017638)
+- [AI fast disrupting the world of finance as you know it](https://cio.economictimes.indiatimes.com/news/strategy-and-management/ai-fast-disrupting-the-world-of-finance-as-you-know-it/64747786)
+- [3 Ways Nokia is Using Machine Learning in 5G Networks](https://spectrum.ieee.org/tech-talk/telecom/wireless/3-ways-nokia-is-using-machine-learning-in-5g-networks)
+- [Reinventing the healthcare sector with Artificial Intelligence](https://www.livemint.com/AI/zAlE15t4dKOhHYFYWnh5MJ/Reinventing-the-healthcare-sector-with-Artificial-Intelligen.html)
+- [Bill Gates hails 'huge milestone' for AI as bots work in a team to destroy humans at video game 'Dota 2'](https://www.businessinsider.in/Bill-Gates-hails-huge-milestone-for-AI-as-bots-work-in-a-team-to-destroy-humans-at-video-game-Dota-2/articleshow/64764276.cms)
+- [Ford China and Baidu are going to work together on A.I. and connectivity in cars ](https://www.cnbc.com/2018/06/27/ford-china-baidu-to-work-on-ai-and-connectivity-in-cars.html)
+- [Adobe set to join rush of foreign giants opening AI labs in Canada](https://www.theglobeandmail.com/business/technology/article-adobe-set-to-join-rush-of-foreign-giants-opening-ai-labs-in-canada/)
+- [Microsoft Improves Biased Facial Recognition Technology](http://fortune.com/2018/06/27/microsoft-biased-facial-recognition/)
+- [IBM launches challenges for developers and partners to scale biz](https://cio.economictimes.indiatimes.com/news/corporate-news/ibm-launches-challenges-for-developers-and-partners-to-scale-biz/64742679)
+- [MIT researchers develop a robot system controlled by brainwaves](https://www.digitaltrends.com/cool-tech/mit-csail-control-robot-with-brainwaves-hand-gestures/)
+- [Bosch launches AI center at CMU, invests $8M in university research](https://triblive.com/business/technology/13807882-74/bosch-launches-ai-center-at-cmu-invests-8m-in-university-research)
+- [NASA Lab Looks to Spur AI Development](https://www.datanami.com/2018/06/27/nasa-lab-looks-to-spur-ai-development/)
+- [Criteo unveils €20m AI research center to further machine learning in adtech](http://www.thedrum.com/news/2018/06/28/criteo-unveils-20m-ai-research-center-further-machine-learning-adtech)
+- [Tsinghua University establishes institute of Artificial Intelligence](https://gbtimes.com/tsinghua-university-establishes-institute-of-artificial-intelligence)
+- [IBM hopes to fight bias in facial recognition with new diverse dataset](https://www.theverge.com/2018/6/27/17509400/facial-recognition-bias-ibm-data-training)
+- [Amazon, Google and Microsoft Employee AI Ethics Are Best Hope For Humanity](https://www.forbes.com/sites/paularmstrongtech/2018/06/26/amazon-google-and-microsoft-employee-ai-ethics-are-best-hope-for-humanity/#df4adcb29893)
+- []()
+- []()
+- []()
+
+------------------
+
 6/22
 
 - [Facebook open sources DensePose](https://research.fb.com/facebook-open-sources-densepose/)
@@ -230,7 +253,7 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 - [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
 - ['We can't compete': why universities are losing their best AI scientists](https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists?utm_content=buffer2849c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
-- []()
+- [Teaching Bipedal Robots to Step Across Discrete Terrain](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/dynamic-walking-on-stepping-stones)
 - []()
 - []()
 - []()
