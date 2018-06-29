@@ -224,7 +224,21 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 
 [Back to Top](#top)
 
-
+- [Streaming Dataframes](http://matthewrocklin.com/blog/work/2017/10/16/streaming-dataframes-1)
+- [How to train your own Object Detector with TensorFlow’s Object Detector API](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
+- [A Year in Computer Vision — Part 1 of 4](https://blog.goodaudience.com/a-year-in-computer-vision-part-1-of-4-eaeb040b6f46)
+- [Deep Learning Achievements Over the Past Year](https://blog.statsbot.co/deep-learning-achievements-4c563e034257)
+- ['We can't compete': why universities are losing their best AI scientists](https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists?utm_content=buffer2849c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 --------------
 
 #### AI Startup Ecosystem
