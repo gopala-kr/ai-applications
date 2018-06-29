@@ -8,7 +8,7 @@
 - [AI Research](#ai-research)
 - [AI Startup Ecosystem](#ai--startup-ecosystem)
 
-[Top]
+[top]
 
 -------------------
 -------------
