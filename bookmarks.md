@@ -1,8 +1,17 @@
 
 
+----------------
+
+
+- [Github Trends](#github-trends)
+- [General AI](#general-ai) 
+- [AI Research](#ai-research)
+- [AI Startup Ecosystem](#ai--startup-ecosystem)
+
+-------------------
 -------------
 
-Github
+#### Github Trends
 
 -  [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) : Text and supporting code for Think Stats, 2nd Edition
 -  [Ceruleanacg/Learning-Notes](https://github.com/Ceruleanacg/Learning-Notes) :  Repo of learning notes in DRL and DL, theory, codes, models and notes maybe.
@@ -15,7 +24,7 @@ Github
 
 -------------
 
-General AI
+#### Genaral AI
 
 6/22
 
@@ -202,3 +211,13 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 
 
 ![Chart_20180213](http://www.digitalistmag.com/files/2018/02/Chart_20180213-02_DD-02.png)
+
+------------
+
+#### AI Research
+
+
+
+--------------
+
+#### Startup Ecosystem
