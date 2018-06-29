@@ -49,9 +49,7 @@
 - [Tsinghua University establishes institute of Artificial Intelligence](https://gbtimes.com/tsinghua-university-establishes-institute-of-artificial-intelligence)
 - [IBM hopes to fight bias in facial recognition with new diverse dataset](https://www.theverge.com/2018/6/27/17509400/facial-recognition-bias-ibm-data-training)
 - [Amazon, Google and Microsoft Employee AI Ethics Are Best Hope For Humanity](https://www.forbes.com/sites/paularmstrongtech/2018/06/26/amazon-google-and-microsoft-employee-ai-ethics-are-best-hope-for-humanity/#df4adcb29893)
-- []()
-- []()
-- []()
+
 
 ------------------
 
@@ -254,14 +252,11 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 - ['We can't compete': why universities are losing their best AI scientists](https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists?utm_content=buffer2849c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Generative Adversarial Networks (GANs): Engine and Applications](https://blog.statsbot.co/generative-adversarial-networks-gans-engine-and-applications-f96291965b47)
 - [Teaching Bipedal Robots to Step Across Discrete Terrain](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/dynamic-walking-on-stepping-stones)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Google App Goes Viral Making An Art Out Of Matching Faces To Paintings](https://www.npr.org/sections/thetwo-way/2018/01/15/578151195/google-app-goes-viral-making-an-art-out-of-matching-faces-to-paintings?sc=17&f=1001)
+- [Hamiltonian Monte Carlo explained](http://arogozhnikov.github.io/2016/12/19/markov_chain_monte_carlo.html)
+- [Microsoft creates AI that can read a document and answer questions about it as well as a person](https://blogs.microsoft.com/ai/microsoft-creates-ai-can-read-document-answer-questions-well-person/)
+
+
 --------------
 
 #### AI Startup Ecosystem
