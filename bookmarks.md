@@ -220,4 +220,9 @@ Attracting talent, fostering public research and AI startups](https://techcrunch
 
 --------------
 
-#### Startup Ecosystem
+#### AI Startup Ecosystem
+
+--------------
+#### Maintainer
+
+Gopala KR / @gopala-kr
